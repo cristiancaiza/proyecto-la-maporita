@@ -42,237 +42,16 @@
     <!-- Add your site or application content here -->
     <!-- Wrapper -->
     <div id="wrapper" class="wrapper">
-
-        <!-- Header -->
-        <header class="br_header header-default header-transparent header-bar position-from--top light-logo--version haeder-fixed-width haeder-fixed-150 headroom--sticky header-mega-menu clearfix">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="header__wrapper">
-                            <!-- Header Left -->
-                            <div class="header-left">
-                                <div class="logo">
-                                    <a href="index.html">
-                                        <img src="img/logo/brook-white.png" alt="Brook Images">
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Mainmenu Wrap -->
-                            <!-- Header Right -->
-                            <div class="header-right">
-                                <!-- Start Popup Search Wrap -->
-                                <div class="popup-search-wrap">
-                                    <a class="btn-search-click" href="#">
-                                        <i class="fa fa-search"></i>
-                                    </a>
-                                </div>
-                                <!-- End Popup Search Wrap -->
-
-                                <!-- Start Hamberger -->
-                                <div class="manu-hamber hamberger-trigger light-version d-none d-xl-block">
-                                    <div>
-                                        <i></i>
-                                    </div>
-                                </div>
-                                <!-- End Hamberger -->
-
-                                 <!-- Start Hamberger -->
-                                 <div class="manu-hamber popup-mobile-click d-block light-version d-block d-xl-none">
-                                    <div>
-                                        <i></i>
-                                    </div>
-                                </div>
-                                <!-- End Hamberger -->
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </header>
-        <!--// Header -->
-
-        <!-- Start Popup Menu -->
-        <div class="popup-mobile-manu popup-mobile-visiable">
-            <div class="inner">
-                <div class="mobileheader">
-                    <div class="logo">
-                        <a href="index.html">
-                            <img src="img/logo/brook-black.png" alt="Multipurpose">
-                        </a>
-                    </div>
-                    <a class="mobile-close" href="#"></a>
-                </div>
-                <div class="menu-content">
-                    <ul class="menulist object-custom-menu">
-                        <li><a href="index-restaurant-two.html"><span>Home</span></a></li>
-                        <li><a href="about.html"><span>About</span></a></li>
-
-                        <li class="has-mega-menu"><a href="#"><span>Pages</span></a>
-                            <!-- Start Dropdown Menu -->
-                            <ul class="object-submenu">
-                                <li><a href="food-menu.html"><span>Food Menu</span></a></li>
-                                <li><a href="my-account.html"><span>My Account</span></a></li>
-                                <li><a href="login-register.html"><span>Login Register</span></a></li>
-                            </ul>
-                        </li>
-
-                        <li class="has-mega-menu"><a href="#"><span>Shop</span></a>
-
-                                <!-- Start Dropdown Menu -->
-                                <ul class="object-submenu">
-                                    <li><a href="shop.html"><span>Shop</span></a></li>
-                                    <li><a href="single-product.html"><span>Single Product</span></a></li>
-                                    <li><a href="cart.html"><span>Cart</span></a></li>
-                                    <li><a href="checkout.html"><span>Checkout</span></a></li>
-                                    <li><a href="wishlist.html"><span>Wishlist</span></a></li>
-                                </ul>
-                        </li>
-
-                        <li class="has-mega-menu"><a href="#"><span>Blog</span></a>
-                            <!-- Start Dropdown Menu -->
-                            <ul class="object-submenu">
-                                <li><a href="blog.html"><span>Blog</span></a></li>
-                                <li><a href="blog-details.html"><span>Blog Details</span></a></li>
-                            </ul>
-                        </li>
-
-                        <li><a href="contact.html"><span>Contact</span></a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <!-- End Popup Menu -->
-
-        <!-- Start Hamberger Menu -->
-        <div class="open-hamberger-wrapper d-none d-lg-block">
-            <div class="page-close light-version"></div>
-
-            <div class="header-default light-logo--version poss_relative">
-                <div class="mainmenu-wrapper">
-                    <nav class="page_nav">
-                        <ul class="mainmenu">
-
-                            <li class="lavel-1"><a href="index-restaurant-two.html"><span>Home</span></a></li>
-
-                            <li class="lavel-1"><a href="about.html"><span>About</span></a></li>
-
-                            <li class="lavel-1 with--drop slide-dropdown"><a href="#"><span>Pages</span></a>
-
-                                <!-- Start Dropdown Menu -->
-                                <ul class="dropdown__menu">
-                                    <li><a href="food-menu.html"><span>Food Menu</span></a></li>
-                                    <li><a href="my-account.html"><span>My Account</span></a></li>
-                                    <li><a href="login-register.html"><span>Login Register</span></a></li>
-                                </ul>
-                                <!-- End Dropdown Menu -->
-                            </li>
-
-                            <li class="lavel-1 with--drop slide-dropdown"><a href="#"><span>Shop</span></a>
-                                <!-- Start Dropdown Menu -->
-                                <ul class="dropdown__menu">
-                                    <li><a href="shop.html"><span>Shop</span></a></li>
-                                    <li><a href="single-product.html"><span>Single Product</span></a></li>
-                                    <li><a href="cart.html"><span>Cart</span></a></li>
-                                    <li><a href="checkout.html"><span>Checkout</span></a></li>
-                                    <li><a href="wishlist.html"><span>Wishlist</span></a></li>
-                                </ul>
-                                <!-- End Dropdown Menu -->
-                            </li>
-
-                            <li class="lavel-1 with--drop slide-dropdown"><a href="#"><span>BLog</span></a>
-                                <!-- Start Dropdown Menu -->
-                                <ul class="dropdown__menu">
-                                    <li><a href="blog.html"><span>Blog</span></a></li>
-                                    <li><a href="blog-details.html"><span>Blog Details</span></a></li>
-                                </ul>
-                                <!-- End Dropdown Menu -->
-                            </li>
-
-                            <li class="lavel-1"><a href="contact.html"><span>Contact</span></a></li>
-                        </ul>
-                    </nav>
-                </div>
-            </div>
-
-            <!-- Start Search -->
-            <div class="row hamberger-search">
-                <form action="#">
-                    <div class="input-box">
-                        <input type="text" placeholder="Enter search keyword…">
-                        <button>
-                            <i class="fa fa-search"></i>
-                        </button>
-                    </div>
-                </form>
-            </div>
-
-            <div class="offcanvas-extra-info mt--150">
-                <div class="row align-items-end">
-                    <div class="col-lg-6">
-                        <div class="info">
-                            <div class="bk-hover mb--40">
-                                <h5 class="heading heading-h5 text-white">Connect</h5>
-                                <div class="bkseparator--20"></div>
-                                <p class="bk_pra font-16">2005 Stokes Isle Apt. 896, Vacaville 10010, USA</p>
-                                <p class="bk_pra font-16"><a href="#">info@yourdomain.com</a></p>
-                            </div>
-                            <ul class="social-icon text-start tooltip-layout icon-size-large">
-                                <li class="facebook"><a href="#" class="link hint--bounce hint--top hint--white"
-                                        aria-label="Facebook"><i class="fab fa-facebook"></i></a></li>
-                                <li class="twitter"><a href="#" class="link hint--bounce hint--top hint--white"
-                                        aria-label="Twitter"><i class="fab fa-twitter"></i></a></li>
-                                <li class="instagram"><a href="#" class="link hint--bounce hint--top hint--white"
-                                        aria-label="Instagram"><i class="fab fa-instagram"></i></a></li>
-                            </ul>
-
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="copyright-right text-end">
-                            <p class="bk_pra font-16">© 2019 Brook. All Rights Reserved.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-        <!-- End Hamberger Menu -->
-
-        <!-- Start Brook Search Popup -->
-        <div class="brook-search-popup">
-            <div class="inner">
-                <div class="search-header">
-                    <div class="logo">
-                        <a href="index.html">
-                            <img src="img/logo/brook-black.png" alt="logo images">
-                        </a>
-                    </div>
-                    <a href="#" class="search-close"></a>
-                </div>
-                <div class="search-content">
-                    <form action="#">
-                        <label>
-                            <input type="search" placeholder="Enter search keyword…">
-                        </label>
-                        <button class="search-submit"><i class="fa fa-search"></i></button>
-                    </form>
-                </div>
-            </div>
-        </div>
-        <!-- End Brook Search Popup -->
-
-        <!-- Start Toolbar -->
-        
-        <!-- End Toolbar -->
-
+        <?php
+        include_once 'header.php';
+        ?>
         <!-- Start Breadcaump Area --> 
         <div class="brook-breadcaump-area pt--300 pt_md--250 pt_sm--200 pb--300 pb_md--250 pb_sm--200 bg_image--133 breadcaump-title-bar breadcaump-title-white" data-black-overlay='5'>
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="breadcaump-inner text-center">
-                            <h2 class="heading heading-h2 font-60 text-white">Blog</h2>
+                            <h2 class="heading heading-h2 font-60 text-white">Novedades</h2>
                         </div>
                     </div>
                 </div>
@@ -282,37 +61,10 @@
 
         <!-- Page Conttent -->
         <main class="page-content">
-
             <!-- Start Blog Grid Area -->
             <div class="bk-blog-grid-area pt--70 pb--100 pt_md--80 pb_md--80 pb_sm--80 pt_sm--60">
                 <div class="container">
-
                     <div class="row">
-
-                        <!-- Start Single Portfolio -->
-                        <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
-                            <div class="blog blog-style--2 creative--blog">
-                                <!-- Swip Slide -->
-                                <div class="thumb blog-slick-initial poss_relative">
-                                    <a href="blog-details.html"><img src="img/restaurant-two/blog1.jpg" alt="Blog Images"></a>
-                                    <a href="blog-details.html"><img src="img/restaurant-two/blog2.jpg" alt="Blog Images"></a>
-                                    <a href="blog-details.html"><img src="img/restaurant-two/blog3.jpg" alt="Blog Images"></a>
-                                </div>
-
-                                <div class="blog-content">
-                                    <div class="content">
-                                        <h3 class="the-title"><a href="blog-details.html">Career Tips For Emerging
-                                                Photographers</a></h3>
-                                        <ul class="meta">
-                                            <li>January 7, 2018</li>
-                                            <li><a href="#">Photography</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Portfolio -->
-
                         <!-- Start Single Portfolio -->
                         <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
                             <div class="blog blog-style--2 creative--blog">
@@ -324,11 +76,10 @@
                                 </div>
                                 <div class="blog-content">
                                     <div class="content">
-                                        <h3 class="the-title"><a href="blog-details.html">Niche Blogs for Rising Metal
-                                                Bands</a></h3>
+                                        <h3 class="the-title"><a href="blog-details.html">Novedades descripción corta</a></h3>
                                         <ul class="meta">
-                                            <li>January 7, 2018</li>
-                                            <li><a href="#">Life Style</a></li>
+                                            <li>Enero 7, 2018</li>
+                                            <li><a href="#">Categoría</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -344,11 +95,10 @@
                                 </div>
                                 <div class="blog-content">
                                     <div class="content">
-                                        <h3 class="the-title"><a href="blog-details.html">1950s up to now Pop Music
-                                                Defined</a></h3>
+                                        <h3 class="the-title"><a href="blog-details.html">Novedades descripción corta</a></h3>
                                         <ul class="meta">
-                                            <li>January 7, 2018</li>
-                                            <li><a href="#">Photography</a></li>
+                                            <li>Enero 7, 2018</li>
+                                            <li><a href="#">Categoría</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -364,105 +114,34 @@
                                 </div>
                                 <div class="blog-content">
                                     <div class="content">
-                                        <h3 class="the-title"><a href="blog-details.html">The Most Underrated ’90 s
-                                                Bands</a></h3>
+                                        <h3 class="the-title"><a href="blog-details.html">Novedades descripción corta</a></h3>
                                         <ul class="meta">
-                                            <li>January 7, 2018</li>
-                                            <li><a href="#">Web Design</a></li>
+                                            <li>Enero 7, 2018</li>
+                                            <li><a href="#">Categoría</a></li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <!-- End Single Portfolio -->
-
-                        <!-- Start Single Portfolio -->
+                         <!-- Start Single Portfolio -->
                         <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
                             <div class="blog blog-style--2 creative--blog">
-                                <!-- Swip Slide -->
-                                <div class="thumb blog-slick-initial poss_relative">
-                                    <a href="blog-details.html"><img src="img/restaurant-two/blog3.jpg" alt="Blog Images"></a>
+                                <div class="thumb">
                                     <a href="blog-details.html"><img src="img/restaurant-two/blog4.jpg" alt="Blog Images"></a>
-                                    <a href="blog-details.html"><img src="img/restaurant-two/blog2.jpg" alt="Blog Images"></a>
                                 </div>
-
                                 <div class="blog-content">
                                     <div class="content">
-                                        <h3 class="the-title"><a href="blog-details.html">Career Tips For Emerging
-                                                Photographers</a></h3>
+                                        <h3 class="the-title"><a href="blog-details.html">Novedades descripción corta</a></h3>
                                         <ul class="meta">
-                                            <li>January 7, 2018</li>
-                                            <li><a href="#">Photography</a></li>
+                                            <li>Enero 7, 2018</li>
+                                            <li><a href="#">Categoría</a></li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <!-- End Single Portfolio -->
-
-                        <!-- Start Single Portfolio -->
-                        <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
-                            <div class="blog blog-style--2 creative--blog">
-                                <div class="thumb">
-                                    <a href="blog-details.html"><img src="img/restaurant-two/blog2.jpg" alt="Blog Images"></a>
-                                    <div class="video-btn">
-                                        <a class="video-icon play__btn" href="https://www.youtube.com/watch?v=9No-FiEInLA"></a>
-                                    </div>
-                                </div>
-                                <div class="blog-content">
-                                    <div class="content">
-                                        <h3 class="the-title"><a href="blog-details.html">Niche Blogs for Rising Metal
-                                                Bands</a></h3>
-                                        <ul class="meta">
-                                            <li>January 7, 2018</li>
-                                            <li><a href="#">Life Style</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Portfolio -->
-
-                        <!-- Start Single Portfolio -->
-                        <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
-                            <div class="blog blog-style--2 creative--blog">
-                                <div class="thumb">
-                                    <a href="blog-details.html"><img src="img/restaurant-two/blog3.jpg" alt="Blog Images"></a>
-                                </div>
-                                <div class="blog-content">
-                                    <div class="content">
-                                        <h3 class="the-title"><a href="blog-details.html">1950s up to now Pop Music
-                                                Defined</a></h3>
-                                        <ul class="meta">
-                                            <li>January 7, 2018</li>
-                                            <li><a href="#">Photography</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Portfolio -->
-
-                        <!-- Start Single Portfolio -->
-                        <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
-                            <div class="blog blog-style--2 creative--blog">
-                                <div class="thumb">
-                                    <a href="blog-details.html"><img src="img/restaurant-two/blog1.jpg" alt="Blog Images"></a>
-                                </div>
-                                <div class="blog-content">
-                                    <div class="content">
-                                        <h3 class="the-title"><a href="blog-details.html">The Most Underrated ’90 s
-                                                Bands</a></h3>
-                                        <ul class="meta">
-                                            <li>January 7, 2018</li>
-                                            <li><a href="#">Web Design</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Portfolio -->
-
                     </div>
 
                     <div class="row">

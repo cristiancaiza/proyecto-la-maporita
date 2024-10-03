@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Acerca || Industria de Lácteos, La Maporita</title>
+    <title>Detalle de producto || Industria de Lácteos, La Maporita</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -34,229 +34,24 @@
     <link rel="stylesheet" href="scss/style.css">
 </head>
 
-<body class="template-color-39 template-font-1 bg_color--42">
+<body class="template-color-39 template-font-1 bg_color--3">
     <!--[if lte IE 9]>
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
 
     <!-- Add your site or application content here -->
-    <!--
-    <div id="page-preloader" class="page-loading clearfix">
-        <div class="page-load-inner">
-            <div class="preloader-wrap">
-                <div class="wrap-2">
-                    <div class=""> <img src="img/icons/brook-preloader.gif" alt="Brook Preloader"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-    -->
-
     <!-- Wrapper -->
     <div id="wrapper" class="wrapper">
-
-        <!-- Header -->
-        <header class="br_header header-default header-transparent header-bar position-from--top light-logo--version haeder-fixed-width haeder-fixed-150 headroom--sticky header-mega-menu clearfix">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="header__wrapper">
-                            <!-- Header Left -->
-                            <div class="header-left">
-                                <div class="logo">
-                                    <a href="index.html">
-                                        <img src="img/logo/logo-blanco.png" alt="Brook Images">
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Mainmenu Wrap -->
-                            <!-- Header Right -->
-                            <div class="header-right">
-                                <!-- Start Popup Search Wrap -->
-                                <div class="popup-search-wrap">
-                                    <a class="btn-search-click" href="#">
-                                        <i class="fa fa-search"></i>
-                                    </a>
-                                </div>
-                                <!-- End Popup Search Wrap -->
-
-                                <!-- Start Hamberger -->
-                                <div class="manu-hamber hamberger-trigger light-version d-none d-xl-block">
-                                    <div>
-                                        <i></i>
-                                    </div>
-                                </div>
-                                <!-- End Hamberger -->
-
-                                 <!-- Start Hamberger -->
-                                 <div class="manu-hamber popup-mobile-click d-block light-version d-block d-xl-none">
-                                    <div>
-                                        <i></i>
-                                    </div>
-                                </div>
-                                <!-- End Hamberger -->
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </header>
-        <!--// Header -->
-
-        <!-- Start Popup Menu -->
-        <div class="popup-mobile-manu popup-mobile-visiable">
-            <div class="inner">
-                <div class="mobileheader">
-                    <div class="logo">
-                        <a href="index.html">
-                            <img src="img/logo/logo-blanco.png" alt="La Maporita">
-                        </a>
-                    </div>
-                    <a class="mobile-close" href="#"></a>
-                </div>
-                <div class="menu-content">
-                    <ul class="menulist object-custom-menu">
-                        <li><a href="#"><span>Inicio</span></a></li>
-                        <li><a href="#"><span>Acerca</span></a></li>
-                        <li><a href="#"><span>Productos</span></a></li>
-                        <li><a href="#"><span>Novedades</span></a></li>
-                       
-                        <li class="has-mega-menu"><a href="#"><span>Servicios</span></a>
-                            <!-- Start Dropdown Menu -->
-                            <ul class="object-submenu">
-                                <li><a href="#"><span>Servicios1</span></a></li>
-                                <li><a href="#"><span>Servicios2</span></a></li>
-                                <li><a href="#"><span>Servicios3</span></a></li>
-                            </ul>
-                        </li>
-
-                        <li class="has-mega-menu"><a href="#"><span>Política ambiental</span></a>
-
-                                <!-- Start Dropdown Menu -->
-                                <ul class="object-submenu">
-                                    <li><a href="#"><span>Política ambiental</span></a></li>
-                                    <li><a href="#"><span>1</span></a></li>
-                                    <li><a href="#"><span>2</span></a></li>
-                                    <li><a href="#"><span>3</span></a></li>
-                                    <li><a href="#"><span>4</span></a></li>
-                                </ul>
-                        </li>
-                        <li><a href="#"><span>Galería</span></a></li>
-                        <li><a href="#"><span>Contáctenos</span></a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <!-- End Popup Menu -->
-
-        <!-- Start Hamberger Menu -->
-        <div class="open-hamberger-wrapper d-none d-lg-block">
-            <div class="page-close light-version"></div>
-
-            <div class="header-default light-logo--version poss_relative">
-                <div class="mainmenu-wrapper">
-                    <nav class="page_nav">
-                        <ul class="mainmenu">
-
-                            <li class="lavel-1"><a href="#"><span>Inicio</span></a></li>
-
-                            <li class="lavel-1"><a href="inner-page/restaurant-two/about.html"><span>Acerca</span></a></li>
-                           
-                            <li class="lavel-1 with--drop slide-dropdown"><a href="#"><span>Productos</span></a>
-                                <!-- Start Dropdown Menu -->
-                                <ul class="dropdown__menu">
-                                    <li><a href="#"><span>Producto 1</span></a></li>
-                                    <li><a href="#"><span>Producto 2</span></a></li>
-                                    <li><a href="#"><span>Producto 3</span></a></li>
-                                </ul>
-                                <!-- End Dropdown Menu -->
-                            </li>
-                            <li class="lavel-1 with--drop slide-dropdown"><a href="#"><span>Servicios</span></a>
-                                <!-- Start Dropdown Menu -->
-                                <ul class="dropdown__menu">
-                                    <li><a href="#l"><span>Servicio 1</span></a></li>
-                                    <li><a href="#"><span>Servicio 2</span></a></li>
-                                </ul>
-                                <!-- End Dropdown Menu -->
-                            </li>
-
-                            <li class="lavel-1"><a href="#"><span>Contáctenos</span></a></li>
-                        </ul>
-                    </nav>
-                </div>
-            </div>
-
-            <!-- Start Search -->
-            <div class="row hamberger-search">
-                <form action="#">
-                    <div class="input-box">
-                        <input type="text" placeholder="Ingresa palabra clave…">
-                        <button>
-                            <i class="fa fa-search"></i>
-                        </button>
-                    </div>
-                </form>
-            </div>
-
-            <div class="offcanvas-extra-info mt--150">
-                <div class="row align-items-end">
-                    <div class="col-lg-6">
-                        <div class="info">
-                            <div class="bk-hover mb--40">
-                                <h5 class="heading heading-h5 text-white">Conéctate con nosotros</h5>
-                                <div class="bkseparator--20"></div>
-                                <p class="bk_pra font-16">Calle 6ᵃ No 7-76 Barrio El Prado, El Paujil Caquetá</p>
-                                <p class="bk_pra font-16"><a href="#">info@lacteoslamaporita.co</a></p>
-                            </div>
-                            <ul class="social-icon text-start tooltip-layout icon-size-large">
-                                <li class="facebook"><a href="https://www.facebook.com/lamaporita.lacteos" class="link hint--bounce hint--top hint--white"
-                                        aria-label="Facebook"><i class="fab fa-facebook"></i></a></li>
-                                <li class="instagram"><a href="https://www.instagram.com/lamaporita01/" class="link hint--bounce hint--top hint--white"
-                                        aria-label="Instagram"><i class="fab fa-instagram"></i></a></li>
-                            </ul>
-
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="copyright-right text-end">
-                            <p class="bk_pra font-16">Copyright © 2024 Lácteos La Maporita Todos los derechos reservados</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-        <!-- End Hamberger Menu -->
-        <!-- Start Brook Search Popup -->
-        <div class="brook-search-popup">
-            <div class="inner">
-                <div class="search-header">
-                    <div class="logo">
-                        <a href="index.html">
-                            <img src="img/logo/brook-black.png" alt="logo images">
-                        </a>
-                    </div>
-                    <a href="#" class="search-close"></a>
-                </div>
-                <div class="search-content">
-                    <form action="#">
-                        <label>
-                            <input type="search" placeholder="Ingresa palabra clave…">
-                        </label>
-                        <button class="search-submit"><i class="fa fa-search"></i></button>
-                    </form>
-                </div>
-            </div>
-        </div>
-        <!-- End Brook Search Popup -->
+        <?php
+        include_once 'header.php';
+        ?>
         <!-- Start Breadcaump Area --> 
-        <div class="brook-breadcaump-area pt--300 pt_md--250 pt_sm--200 pb--300 pb_md--250 pb_sm--200 bg_image--2 breadcaump-title-bar breadcaump-title-white" data-black-overlay='5'>
+        <div class="brook-breadcaump-area pt--300 pt_md--250 pt_sm--200 pb--300 pb_md--250 pb_sm--200 bg_image--133 breadcaump-title-bar breadcaump-title-white" data-black-overlay='5'>
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="breadcaump-inner text-center">
-                            <h2 class="heading heading-h2 font-60 text-white">Acerca de nosotros</h2>
+                            <h2 class="heading heading-h2 font-60 text-white">Nombre producto</h2>
                         </div>
                     </div>
                 </div>
@@ -265,83 +60,250 @@
         <!-- End Breadcaump Area -->
         <!-- Page Conttent -->
         <main class="page-content">
-            <!-- Start Service Modern -->
-            <div class="brook-service-modern ptb--120 ptb-md--80 ptb-sm--60">
+            <!-- Start Single Product -->
+            <div class="brook-single-product mt--100 mt_md--80 mt_sm--60 plr--160 plr_lg--100 plr_md--50 plr_sm--50 bg_color--3">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="nextprev-btn">
+                            <div class="navlist">
+                                <div class="navitem prev">
+                                    <a class="text-white" href="#">Anterior</a>
+                                </div>
+                                <div class="navitem next">
+                                    <a class="text-white" href="#">Siguiente</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                        <div class="single-product-left-side">
+                            <div class="product__details__container">
+                                <div class="tab_container big_img_container">
+                                    <div class="big_img tab-pane fade show active" id="img1" role="tabpanel">
+                                        <img class="w-100" src="img/restaurant-two/product/big1.jpg" alt="gomes restaurant">
+                                    </div>
+                                    <div class="big_img tab-pane fade" id="img2" role="tabpanel">
+                                        <img class="w-100" src="img/restaurant-two/product/big2.jpg" alt="gomes restaurant">
+                                    </div>
+                                    <div class="big_img tab-pane fade" id="img3" role="tabpanel">
+                                        <img class="w-100" src="img/restaurant-two/product/big3.jpg" alt="gomes restaurant">
+                                    </div>
+                                </div>
+                                <div class="sm_roduct_nav nav nav-tabs" role="tablist">
+                                    <a class="active" id="img1-tab" data-bs-toggle="tab" href="#img1" role="tab"
+                                        aria-controls="img1" aria-selected="true">
+                                        <img src="img/restaurant-two/product/small1.jpg" alt="gomes restaurant">
+                                    </a>
+                                    <a id="nav-img2-tab" data-bs-toggle="tab" href="#img2" role="tab" aria-controls="img2"
+                                        aria-selected="false">
+                                        <img src="img/restaurant-two/product/small2.jpg" alt="gomes restaurant">
+                                    </a>
+                                    <a id="nav-img3-tab" data-bs-toggle="tab" href="#img3" role="tab" aria-controls="img3"
+                                        aria-selected="false">
+                                        <img src="img/restaurant-two/product/small3.jpg" alt="gomes restaurant">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-12 mt_sm--40">
+                        <div class="single-product-details-side">
+                            <div class="product-details">
+                                <div class="inner">
+                                    <div class="header">
+                                        <h4 class="heading heading-h4 text-white">Título de producto</h4>
+                                    </div>
+
+                                    <div class="price">
+                                        <p class="theme-color text-white">$112.00</p>
+                                    </div>
+
+                                    <div class="description">
+                                        <p class="bk_pra text-white">Descripción</p>
+                                    </div>
+
+                                    
+
+                                    <div class="product-meta">
+                                        <div class="meta-item">
+                                            <h6 class="heading heading-h6 text-white">Categoría:</h6>
+                                            <div class="item-list">
+                                                <a class="text-white" href="#">Quesos</a>
+                                            </div>
+                                        </div>
+                                        <div class="meta-item">
+                                            <h6 class="heading heading-h6 text-white">Etiqueta:</h6>
+                                            <div class="item-list">
+                                                <a class="text-white" href="#">standard</a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Single Product -->
+
+            <!-- Start Product Review -->
+            <div class="product_review pb--100 pb_md--80 pb_sm--60">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-4 col-12">
-                            <div class="modern-service">
-                                <h3 class="heading heading-h3 line-height-1-42 text-white wow move-up">Quienes <br> Somos</h3>
+                        <div class="col-lg-12">
+                            <div class="description_nav nav nav-tabs d-block" role="tablist">
+                                <a class="active text-white" id="descrip-tab" data-bs-toggle="tab" href="#descrip" role="tab"
+                                    aria-controls="descrip" aria-selected="true">Descripción</a>
+                                <a class="text-white" id="nav-review" data-bs-toggle="tab" href="#review" role="tab" aria-controls="review"
+                                    aria-selected="false">Reviews</a>
                             </div>
                         </div>
-                        <div class="col-lg-7 offset-lg-1 col-12 mt_md--30 mt_sm--30">
-                            <div class="modern-service wow move-up">
-                                <!--<h5 class="heading heading-h5 text-white">Our story</h5>-->
-                                <!--<div class="bkseparator--20"></div>-->
-                                <!--<h5 class="heading heading-h5 body-color text-white line-height-1-62"></h5>-->
-                                <div class="bkseparator--30"></div>
-                                <p class="bk_pra text-white">Podríamos decir que somos una empresa que hace productos lácteos. Pero somos más que eso, somos una gran familia donde cada uno de sus integrantes es indíspensable para hacer de Lácteos La Maporita, lo que es hoy.
-
-                                    La familia Maporita está conformada por sus proveedores, campesinos honestos comprometidos con la conservación del medio ambiente, para producir leche de muy buena calidad; los operarios, que con su esfuerzo y conocimiento transforman la leche en productos tipo gourmet. Otros miembros importantes de esta familia, son todo el cuerpo administrativo, que contribuyen al buen funcionamiento y crecimiento de la empresa. Juntos contribuimos al desarrollo rural del municipio de El Paujil Caquetá.</p>
+                    </div>
+                    <div class="tab_container">
+                        <div class="single_review_content tab-pane fade show active" id="descrip" role="tabpanel">
+                            <div class="content text-white">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ornare, nulla eu mollis egestas, magna purus imperdiet ipsum, id volutpat ex orci eget est.</p>
+                            </div>
+                        </div>
+                        <div class="single_review_content tab-pane fade" id="review" role="tabpanel">
+                            <div class="classs__review__inner text-white">
+                                <h4 class="text-white">Sé el primero en evaluar el producto</h4>
+                                <p>Su Correo electrónico no será publicado. Espacios con * son requeridos</p>
+                                <span>Su puntuación</span>
+                                <ul class="rating">
+                                    <li><i class="fa fa-star"></i></li>
+                                    <li><i class="fa fa-star"></i></li>
+                                    <li><i class="fa fa-star"></i> </li>
+                                    <li><i class="fa fa-star"></i></li>
+                                    <li><i class="fa fa-star"></i></li>
+                                </ul>
+                                <form action="#">
+                                    <div class="input__box">
+                                        <span>Su calificación *</span>
+                                        <textarea name="message"></textarea>
+                                    </div>
+                                    <div class="input__box">
+                                        <span>Nombre*</span>
+                                        <input class="text-white" type="text">
+                                    </div>
+                                    <div class="input__box">
+                                        <span>Correo Electrónico*</span>
+                                        <input class="text-white" type="email">
+                                    </div>
+                                    <div class="submit__btn2 mt--30 text-center">
+                                        <a class="brook-btn bk-btn-theme btn-sd-size btn-rounded space-between text-white" href="#">Publica un
+                                            comentario</a>
+                                    </div>
+                                </form>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- End Service Modern -->
-            <!-- Start Professonal Design -->
-            <div class="brook-professonal-design">
+            <!-- End Product Review -->
+
+            <!-- Start Related Product -->
+            <div class="brook-related-product pb--100 pb_md--80 pb_sm--60">
                 <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                            <div class="thumbnail">
-                                <img src="img/acerca/img-acerca-nuestra-historia.jpg" alt="Lácteos La Maporita">
-                                <div class="bkseparator--80"></div>
-                                <img src="img/acerca/img-acerca-nuestra-historia-2.jpg" alt="Lácteos La Maporita">
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                            <div class="professonal-design-content pl--90 pl_lg--70 pl_md--30 pl_sm--30">
-                                <h2 class="heading heading-h2 text-white">NUESTRA HISTORIA</h2>
-                                <div class="content mt--35 mb--65">
-                                    <p class="bk_pra font-18 line-height-1-63 text-white-50">En septiembre del año 1997, debido al orden público del departamento, la familia Trujillo Arcila decide salir del país, confiando su empresa en dos personas idóneas para sostener la calidad y mantener la buena imagen alcanzada por la empresa. Con esta gran responsabilidad en sus manos el Zootecnista José Humberto Maya Montoya como representante legal y arrendador de las instalaciones, y su esposa la Administradora de Emtpresas Gladys Arias Villalba, inician sus primeros pasos con La Maporita, ubicada a un kilómetro vía al municipio de El Doncello.
-
-                                        Gracias a la perseverancia de Gladys, en mayo del año 2002 Industria de Lácteos La Maporita, se traslada a la calle 6ª No 7-76 Barrio El Prado del municipio de El Paujil, a sus instalacones propias.
-                                        
-                                        Al observar las necesidades del mercado y una calidad estandarizada, en el año 2009, emprenden una alianza comercial con la Agropecuaria Los Potrillos, con el fin de brindar acompañamiento profesional gratuito a sus proveedores de leche desde sus ordeños, mayores beneficios al del precio pagado por litro de leche, contribuyendo así, a la transformación de una ganadería sostenible y sustentable. La empresa ha venido logrando poco a poco un posicionamiento importante gracias a la calidad de su producto estrella "Quesillo".
-                                        
-                                        A finales del año 2011, Industria de Lácteos La Maporita fue escogida por el Comité Departamental de Ganaderos del Caquetá, para hacer parte del proyecto "Denominación de Origen Queso del Caquetá" y la Marca Colectiva QC, como empresa pionera por su calidad y se inicia un trabajo arduo en pro de fotalecer el camino ya iniciado por la empresa, en la transformación de la ganadería tradicional a una amigable con el medio ambiente.
-                                        
-                                        En el año 2016, se inaugura la primera Ruta del Queso que contó con la visita del reconocido Chef Mark Rausch, y quien hoy hace el producto Pizza Antideforestación, con Quesillo del Caquetá producido por La Maporita.
-                                        
-                                        Debido a las exigencias y demandas del mercado la empresa ha venido creciendo y es así como, en mayo de 2017, pasó a ser Sociedad por Acciones Simplificada S.A.S. empresa familiar dirigida por sus propietarios José Humberto Maya Montoya, Gladys Arias Villalba, Fabián Humberto Maya Arias y Luisa Fernanda Maya Arias.</p>
-                                </div>
-                                <!--<div class="profesonal_btn">
-                                    <a class="brook-btn bk-btn-theme btn-sd-size btn-rounded space-between" href="#">Shop now</a>
-                                </div>-->
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="brook-section-title text-center">
+                                <h3 class="heading heading-h3 text-white">Productos relacionados</h3>
                             </div>
                         </div>
                     </div>
+                    <div class="row mt--30">
+
+                        <!-- Start Single Product -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="product mt--30">
+                                <div class="product-thumbnail">
+                                    <div class="thumbnail">
+                                        <div class="product-main-image">
+                                            <img src="img/restaurant-two/product1.jpg" alt="Multipurpose">
+                                        </div>
+                                    </div>
+                                    <div class="product-action">
+                                        <ul class="action-list text-center tooltip-layout">
+                                            <li class="single-action addto-cart"><a href="cart.html" class="link hint--bounce hint--top hint--dark"
+                                                    aria-label="Agregar a carrito"><i class="fas fa-shopping-bag"></i></a></li>
+
+                                            <li class="single-action wishlist"><a href="wishlist.html" class="link hint--bounce hint--top hint--dark"
+                                                    aria-label="Agregar a favoritos"><i class="far fa-heart"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-info">
+                                    <h5 class="heading heading-h5"><a class="text-white" href="#">Producto-1</a></h5>
+                                    <div class="price"><span class="text-white">$89.00</span></div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Product -->
+
+                        <!-- Start Single Product -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="product mt--30">
+                                <div class="product-thumbnail">
+                                    <div class="thumbnail">
+                                        <div class="product-main-image">
+                                            <img src="img/restaurant-two/product2.jpg" alt="Multipurpose">
+                                        </div>
+                                        <div class="product-badges">
+                                            <div class="onsale">-7%</div>
+                                        </div>
+                                    </div>
+                                    <div class="product-action">
+                                        <ul class="action-list text-center tooltip-layout">
+                                            <li class="single-action addto-cart"><a href="cart.html" class="link hint--bounce hint--top hint--dark"
+                                                    aria-label="Agregar a carrito"><i class="fas fa-shopping-bag"></i></a></li>
+
+                                            <li class="single-action wishlist"><a href="wishlist.html" class="link hint--bounce hint--top hint--dark"
+                                                    aria-label="Agregar a favoritos"><i class="far fa-heart"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-info">
+                                    <h5 class="heading heading-h5"><a class="text-white" href="#">Producto 2</a></h5>
+                                    <div class="price"><span class="text-white">$89.00</span></div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Product -->
+                        <!-- Start Single Product -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="product mt--30">
+                                <div class="product-thumbnail">
+                                    <div class="thumbnail">
+                                        <div class="product-main-image">
+                                            <img src="img/restaurant-two/product3.jpg" alt="Multipurpose">
+                                        </div>
+                                        <div class="product-badges">
+                                            <div class="onsale">-7%</div>
+                                        </div>
+                                    </div>
+                                    <div class="product-action">
+                                        <ul class="action-list text-center tooltip-layout">
+                                            <li class="single-action addto-cart"><a href="cart.html" class="link hint--bounce hint--top hint--dark"
+                                                    aria-label="Agregar a carrito"><i class="fas fa-shopping-bag"></i></a></li>
+
+                                            <li class="single-action wishlist"><a href="wishlist.html" class="link hint--bounce hint--top hint--dark"
+                                                    aria-label="Agregar a favoritos"><i class="far fa-heart"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-info">
+                                    <h5 class="heading heading-h5"><a class="text-white" href="#">Producto 3</a></h5>
+                                    <div class="price"><span class="text-white">$89.00</span></div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Product -->
+                    </div>
                 </div>
             </div>
-            <!-- End Professonal Design -->
-
-            <!-- Start Icon Boxes -->
-            
-            <!-- End Icon Boxes -->
-
-            <!-- Start Testimonial Area -->
-            
-            <!-- End Testimonial Area -->
-
-            <!-- Start Accordion Area -->
-            
-            <!-- End Accordion Area -->
-
-            <!-- Start Team Caption -->
-            
-            <!-- End Team Caption -->
-
+            <!-- End Related Product -->
             <!-- Start Call To Action -->
             <div class="brook-call-to-action bg_color--43 ptb--70">
                 <div class="container">
@@ -355,7 +317,7 @@
                             <div class="text-center text-md-end text-center mt_sm--30 mt_md--40 contact-form contact-form--4 yellow-color-2">
                                 <form action="#">
                                     <div class="input-box">
-                                        <input type="email" placeholder="Tu e-mail">
+                                        <input type="email" placeholder="Su Correo Electrónico">
                                         <button>Subscríbete</button>
                                     </div>
                                 </form>
