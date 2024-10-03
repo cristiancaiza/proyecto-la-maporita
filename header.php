@@ -97,9 +97,9 @@
                     <nav class="page_nav">
                         <ul class="mainmenu">
 
-                            <li class="lavel-1"><a href="#"><span>Inicio</span></a></li>
+                            <li class="lavel-1"><a href="https://lacteoslamaporita.com/front-temp"><span>Inicio</span></a></li>
 
-                            <li class="lavel-1"><a href="inner-page/restaurant-two/about.html"><span>Acerca</span></a></li>
+                            <li class="lavel-1"><a href="acerca.php"><span>Acerca</span></a></li>
                            
                             <li class="lavel-1 with--drop slide-dropdown"><a href="#"><span>Productos</span></a>
                                 <!-- Start Dropdown Menu -->
@@ -119,7 +119,7 @@
                                 <!-- End Dropdown Menu -->
                             </li>
 
-                            <li class="lavel-1"><a href="#"><span>Contáctenos</span></a></li>
+                            <li class="contacto.html"><a href="#"><span>Contáctenos</span></a></li>
                         </ul>
                     </nav>
                 </div>
