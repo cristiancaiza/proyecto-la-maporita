@@ -56,10 +56,10 @@
                 </div>
                 <div class="menu-content">
                     <ul class="menulist object-custom-menu">
-                        <li><a href="#"><span>Inicio</span></a></li>
-                        <li><a href="#"><span>Acerca</span></a></li>
-                        <li><a href="#"><span>Productos</span></a></li>
-                        <li><a href="#"><span>Novedades</span></a></li>
+                        <li><a href="https://lacteoslamaporita.com/front-temp"><span>Inicio</span></a></li>
+                        <li><a href="acerca.php"><span>Acerca</span></a></li>
+                        <li><a href="productos.php"><span>Productos</span></a></li>
+                        <li><a href="novedades.php"><span>Novedades</span></a></li>
                        
                         <li class="has-mega-menu"><a href="#"><span>Servicios</span></a>
                             <!-- Start Dropdown Menu -->
@@ -74,15 +74,15 @@
 
                                 <!-- Start Dropdown Menu -->
                                 <ul class="object-submenu">
-                                    <li><a href="#"><span>Política ambiental</span></a></li>
+                                    <li><a href="politica-ambiental.php"><span>Política ambiental</span></a></li>
                                     <li><a href="#"><span>1</span></a></li>
                                     <li><a href="#"><span>2</span></a></li>
                                     <li><a href="#"><span>3</span></a></li>
                                     <li><a href="#"><span>4</span></a></li>
                                 </ul>
                         </li>
-                        <li><a href="#"><span>Galería</span></a></li>
-                        <li><a href="#"><span>Contáctenos</span></a></li>
+                        <li><a href="galeria.php"><span>Galería</span></a></li>
+                        <li><a href="contacto.html"><span>Contáctenos</span></a></li>
                     </ul>
                 </div>
             </div>
