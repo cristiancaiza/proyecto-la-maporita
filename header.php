@@ -7,7 +7,7 @@
                             <!-- Header Left -->
                             <div class="header-left">
                                 <div class="logo">
-                                    <a href="index.html">
+                                    <a href="index.php">
                                         <img src="img/logo/logo-blanco.png" alt="La Maporita">
                                     </a>
                                 </div>
@@ -48,8 +48,8 @@
             <div class="inner">
                 <div class="mobileheader">
                     <div class="logo">
-                        <a href="index.html">
-                            <img src="img/logo/logo-blanco.png" alt="La Maporita">
+                        <a href="">
+                            <img src="img/logo/logo-fnd-claro.png" alt="La Maporita">
                         </a>
                     </div>
                     <a class="mobile-close" href="#"></a>
@@ -82,7 +82,7 @@
                                 </ul>
                         </li>
                         <li><a href="galeria.php"><span>Galería</span></a></li>
-                        <li><a href="contacto.html"><span>Contáctenos</span></a></li>
+                        
                     </ul>
                 </div>
             </div>
@@ -91,16 +91,12 @@
         <!-- Start Hamberger Menu -->
         <div class="open-hamberger-wrapper d-none d-lg-block">
             <div class="page-close light-version"></div>
-
             <div class="header-default light-logo--version poss_relative">
                 <div class="mainmenu-wrapper">
                     <nav class="page_nav">
                         <ul class="mainmenu">
-
                             <li class="lavel-1"><a href="https://lacteoslamaporita.com/front-temp"><span>Inicio</span></a></li>
-
                             <li class="lavel-1"><a href="acerca.php"><span>Acerca</span></a></li>
-                           
                             <li class="lavel-1 with--drop slide-dropdown"><a href="#"><span>Productos</span></a>
                                 <!-- Start Dropdown Menu -->
                                 <ul class="dropdown__menu">
@@ -110,16 +106,12 @@
                                 </ul>
                                 <!-- End Dropdown Menu -->
                             </li>
-                            <li class="lavel-1 with--drop slide-dropdown"><a href="#"><span>Servicios</span></a>
-                                <!-- Start Dropdown Menu -->
-                                <ul class="dropdown__menu">
-                                    <li><a href="#l"><span>Servicio 1</span></a></li>
-                                    <li><a href="#"><span>Servicio 2</span></a></li>
-                                </ul>
-                                <!-- End Dropdown Menu -->
-                            </li>
+                            <li class="lavel-1"><a href="novedades.php"><span>Novedades</span></a></li>
+                            <li class="lavel-1"><a href="galeria.php"><span>Galería</span></a></li>
+                            <li class="lavel-1"><a href="politica-ambiental.php"><span>Política Ambiental</span></a></li>
+                            <li class="lavel-1"><a href="contacto.php"><span>Contáctenos</span></a></li>
 
-                            <li class="contacto.html"><a href="#"><span>Contáctenos</span></a></li>
+                            
                         </ul>
                     </nav>
                 </div>
@@ -171,7 +163,7 @@
             <div class="inner">
                 <div class="search-header">
                     <div class="logo">
-                        <a href="index.html">
+                        <a href="">
                             <img src="img/logo/brook-black.png" alt="logo images">
                         </a>
                     </div>
