@@ -4,10 +4,9 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Contact || Brook Multipurpose Bootstrap4 Template</title>
+    <title>Contacto || Industria de Lácteos, La Maporita</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <!-- Favicon -->
     <link rel="shortcut icon" href="../../img/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="../../img/icon.png">
