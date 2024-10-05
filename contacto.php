@@ -1,6 +1,5 @@
 <!doctype html>
 <html class="no-js" lang="zxx"> 
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -22,15 +21,12 @@
 
     <!-- Custom Styles -->
     <!-- <link rel="stylesheet" href="css/custom.css"> -->
-
-
     <!-- Use the minified version files listed below for better performance and remove the files listed above -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/revoulation.css">
     <link rel="stylesheet" href="css/plugins.css">
     <link rel="stylesheet" href="scss/style.css">
 </head>
-
 <body class="template-color-39 template-font-1 bg_color--42">
     <!--[if lte IE 9]>
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
@@ -54,7 +50,6 @@
             </div>
         </div>
         <!-- End Breadcaump Area -->
-
         <!-- Page Conttent -->
         <main class="page-content">
             <!-- Start Contact Form  -->
@@ -70,26 +65,26 @@
                     <div class="row">
                         <div class="col-lg-6 offset-lg-3">
                             <div class="contact-form" >
-                                <form id="contact-form" action="http://whizthemes.com/shohel/php/mail.php">
+                                <form id="contact-form" action="">
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <input name="con_name" type="text" placeholder="Name *">
+                                            <input name="con_name" type="text" placeholder="Nombre *">
                                         </div>
 
                                         <div class="col-lg-12 mt--30">
-                                            <input name="con_email" type="email" placeholder="Email *">
+                                            <input name="con_email" type="email" placeholder="Correo Electrónico *">
                                         </div>
 
                                         <div class="col-lg-12 mt--30">
-                                            <input type="text" placeholder="Phone number">
+                                            <input type="text" placeholder="Número de teléfono">
                                         </div>
 
                                         <div class="col-lg-12 mt--30">
-                                            <textarea name="con_message" placeholder="Your message"></textarea>
+                                            <textarea name="con_message" placeholder="Su mensaje"></textarea>
                                         </div>
 
                                         <div class="col-lg-12 mt--30">
-                                            <input type="submit" value="Send message">
+                                            <input type="submit" value="Enviar mensaje">
                                             <p class="form-messege"></p>
                                         </div>
                                     </div>
@@ -121,15 +116,15 @@
                     <div class="row align-items-center">
                         <div class="col-lg-6 col-sm-12 col-12">
                             <div class="call-content text-center text-md-start text-center">
-                                <h4 class="heading heading-h4 text-black">Sign up for new updates from us.</h4>
+                                <h4 class="heading heading-h4 text-black">Quiero mantenerme actualizado de novedades</h4>
                             </div>
                         </div>
                         <div class="col-lg-6 col-sm-12 col-12">
                             <div class="text-center text-md-end text-center mt_sm--30 mt_md--40 contact-form contact-form--4 yellow-color-2">
                                 <form action="#">
                                     <div class="input-box">
-                                        <input type="email" placeholder="Your e-mail">
-                                        <button>Subscribe</button>
+                                        <input type="email" placeholder="Tu e-mail">
+                                        <button>Subscríbete</button>
                                     </div>
                                 </form>
                             </div>
