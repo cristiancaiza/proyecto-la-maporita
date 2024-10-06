@@ -28286,7 +28286,7 @@ Freelancer Area
 
 /* Hamberger Wrapper */
 .header-default.header-bar .header__wrapper .header-right {
-  flex-basis: 80%;
+  flex-basis: 64%;
 }
 
 .open-hamberger-wrapper .mainmenu-wrapper .page_nav ul.mainmenu {
