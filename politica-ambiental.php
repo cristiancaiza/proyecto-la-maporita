@@ -4,10 +4,9 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Política Ambiental || Brook Multipurpose Bootstrap4 Template</title>
+    <title>Contacto || Industria de Lácteos, La Maporita</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="img/icon.png">
@@ -19,7 +18,7 @@
     <link rel="stylesheet" href="css/plugins.css">
 
     <!-- Style Css -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="scss/style.css">
 
     <!-- Custom Styles -->
     <link rel="stylesheet" href="css/custom.css">
@@ -523,8 +522,6 @@
                                         </div>
                                     </div>
                                 </div>
-
-
                             </div>
                         </div>
                         <!-- End Single Accordion -->
@@ -540,256 +537,36 @@
                 </div>
             </div>
             <!-- End Accordion Area -->
-
-            <!-- Start Brand Area -->
-            <div class="bk-brand-area bg_color--1 pb--100 pb_md--80 pb_sm--60">
+            <!-- Start Call To Action -->
+            <div class="brook-call-to-action bg_color--43 ptb--70">
                 <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="brand-wrapper">
-                                <div class="brand__list brand-default brand-style--1">
-                                    <div class="brook-element-carousel" data-slick-options='{
-                                        "spaceBetween": 15, 
-                                        "slidesToShow": 5, 
-                                        "slidesToScroll": 1, 
-                                        "arrows": false, 
-                                        "infinite": true
-                                    }'
-                                        data-slick-responsive='[
-                                        {"breakpoint":768, "settings": {"slidesToShow": 3}},
-                                        {"breakpoint":577, "settings": {"slidesToShow": 3}},
-                                        {"breakpoint":481, "settings": {"slidesToShow": 2}}
-                                    ]'>
-
-                                        <div class="brand"><a href="#"><img src="img/testimonial/clint-2/client-logo-01.png"
-                                                    alt="logo image"></a> </div>
-                                        <div class="brand"><a href="#"><img src="img/testimonial/clint-2/client-logo-02.png"
-                                                    alt="logo image"></a> </div>
-                                        <div class="brand"><a href="#"><img src="img/testimonial/clint-2/client-logo-03.png"
-                                                    alt="logo image"></a> </div>
-                                        <div class="brand"><a href="#"><img src="img/testimonial/clint-2/client-logo-04.png"
-                                                    alt="logo image"></a> </div>
-                                        <div class="brand"><a href="#"><img src="img/testimonial/clint-2/client-logo-05.png"
-                                                    alt="logo image"></a> </div>
-                                        <div class="brand"><a href="#"><img src="img/testimonial/clint-2/client-logo-01.png"
-                                                    alt="logo image"></a> </div>
-                                        <div class="brand"><a href="#"><img src="img/testimonial/clint-2/client-logo-06.png"
-                                                    alt="logo image"></a> </div>
-                                        <div class="brand"><a href="#"><img src="img/testimonial/clint-2/client-logo-05.png"
-                                                    alt="logo image"></a> </div>
-                                        <div class="brand"><a href="#"><img src="img/testimonial/clint-2/client-logo-01.png"
-                                                    alt="logo image"></a> </div>
-                                        <div class="brand"><a href="#"><img src="img/testimonial/clint-2/client-logo-06.png"
-                                                    alt="logo image"></a> </div>
-
+                    <div class="row align-items-center">
+                        <div class="col-lg-6 col-sm-12 col-12">
+                            <div class="call-content text-center text-md-start text-center">
+                                <h4 class="heading heading-h4 text-black">Quiero mantenerme actualizado de novedades</h4>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-sm-12 col-12">
+                            <div class="text-center text-md-end text-center mt_sm--30 mt_md--40 contact-form contact-form--4 yellow-color-2">
+                                <form action="#">
+                                    <div class="input-box">
+                                        <input type="email" placeholder="Tu e-mail">
+                                        <button>Subscríbete</button>
                                     </div>
-                                </div>
+                                </form>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- End Brand Area -->
-
+            <!-- End Call To Action -->
         </main>
         <!--// Page Conttent -->
     </div>
 
-    <!-- Footer -->
-    <footer id="bk-footer" class="page-footer bg_color--3 pl--150 pr--150 pl_lg--30 pr_lg--30 pl_md--30 pr_md--30 pl_sm--5 pr_sm--5">
-        <!-- Start Footer Top Area -->
-        <div class="bk-footer-inner pt--150 pb--30 pt_sm--100">
-            <div class="container">
-                <div class="row">
-
-                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">
-                        <div class="footer-widget text-var--2">
-                            <div class="logo">
-                                <a href="index.html">
-                                    <img src="img/logo/brook-white2.png" alt="brook white">
-                                </a>
-                            </div>
-                            <div class="footer-inner">
-                                <p>Brook is a multi-purpose WordPress theme for big and small-sized businesses. Enjoy
-                                    the theme's original design, functional features & responsive layouts.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-2 col-md-6 col-sm-6 col-12 mt_mobile--40">
-                        <div class="footer-widget text-var--2 menu--about">
-                            <h2 class="widgettitle">About us</h2>
-                            <div class="footer-menu">
-                                <ul class="ft-menu-list bk-hover">
-                                    <li><a href="about-us-01.html">About Us</a></li>
-                                    <li><a href="team.html">Team</a></li>
-                                    <li><a href="#">Career</a></li>
-                                    <li><a href="services-classic.html">Services</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt_md--40 mt_sm--40">
-                        <div class="footer-widget text-var--2 menu--contact">
-                            <h2 class="widgettitle">Contact</h2>
-                            <div class="footer-address">
-                                <div class="bk-hover">
-                                    <p>2005 Stokes Isle Apt. 896, <br> Vacaville 10010, USA</p>
-                                    <p><a href="#">info@yourdomain.com</a></p>
-                                    <p><a href="#">(+68) 120034509</a></p>
-                                </div>
-                                <div class="social-share social--transparent text-white">
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                    <a href="#"><i class="fab fa-dribbble"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt_md--40 mt_sm--40">
-                        <div class="footer-widget text-var--2 menu--instagram">
-                            <h2 class="widgettitle">Instagram</h2>
-
-                            <div class="ft-instagram-list">
-
-                                <div class="instagram-grid-wrap">
-
-                                    <!-- Start Single Instagram -->
-                                    <div class="item-grid grid-style--1">
-                                        <div class="thumb">
-                                            <a href="#">
-                                                <img src="img/instagram/instagram-1/instagram-8.jpg" alt="instagram images">
-                                            </a>
-                                            <div class="item-info">
-                                                <div class="inner">
-                                                    <a href="#"><i class="fas fa-heart"></i>1k</a>
-                                                    <a href="#"><i class="fas fa-comment-dots"></i>9</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Start Single Instagram -->
-
-                                    <!-- Start Single Instagram -->
-                                    <div class="item-grid grid-style--1">
-                                        <div class="thumb">
-                                            <a href="#">
-                                                <img src="img/instagram/instagram-1/instagram-9.jpg" alt="instagram images">
-                                            </a>
-                                            <div class="item-info">
-                                                <div class="inner">
-                                                    <a href="#"><i class="fas fa-heart"></i>1k</a>
-                                                    <a href="#"><i class="fas fa-comment-dots"></i>9</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Start Single Instagram -->
-
-                                    <!-- Start Single Instagram -->
-                                    <div class="item-grid grid-style--1">
-                                        <div class="thumb">
-                                            <a href="#">
-                                                <img src="img/instagram/instagram-1/instagram-10.jpg" alt="instagram images">
-                                            </a>
-                                            <div class="item-info">
-                                                <div class="inner">
-                                                    <a href="#"><i class="fas fa-heart"></i>1k</a>
-                                                    <a href="#"><i class="fas fa-comment-dots"></i>9</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Start Single Instagram -->
-
-                                    <!-- Start Single Instagram -->
-                                    <div class="item-grid grid-style--1">
-                                        <div class="thumb">
-                                            <a href="#">
-                                                <img src="img/instagram/instagram-1/instagram-11.jpg" alt="instagram images">
-                                            </a>
-                                            <div class="item-info">
-                                                <div class="inner">
-                                                    <a href="#"><i class="fas fa-heart"></i>1k</a>
-                                                    <a href="#"><i class="fas fa-comment-dots"></i>9</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Start Single Instagram -->
-
-                                    <!-- Start Single Instagram -->
-                                    <div class="item-grid grid-style--1">
-                                        <div class="thumb">
-                                            <a href="#">
-                                                <img src="img/instagram/instagram-1/instagram-12.jpg" alt="instagram images">
-                                            </a>
-                                            <div class="item-info">
-                                                <div class="inner">
-                                                    <a href="#"><i class="fas fa-heart"></i>1k</a>
-                                                    <a href="#"><i class="fas fa-comment-dots"></i>9</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Start Single Instagram -->
-
-                                    <!-- Start Single Instagram -->
-                                    <div class="item-grid grid-style--1">
-                                        <div class="thumb">
-                                            <a href="#">
-                                                <img src="img/instagram/instagram-1/instagram-1.jpg" alt="instagram images">
-                                            </a>
-                                            <div class="item-info">
-                                                <div class="inner">
-                                                    <a href="#"><i class="fas fa-heart"></i>1k</a>
-                                                    <a href="#"><i class="fas fa-comment-dots"></i>9</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Start Single Instagram -->
-
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-        <!-- Start Footer Top Area -->
-
-        <!-- Start Copyright Area -->
-        <div class="copyright ptb--50 text-var-2">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                        <div class="copyright-left text-md-start text-center">
-                            <ul class="bk-copyright-menu d-flex bk-hover justify-content-center justify-content-md-start flex-wrap flex-sm-nowrap">
-                                <li><a href="#">Our blog</a></li>
-                                <li><a href="#">Latest projects</a></li>
-                                <li><a href="#">Contact us</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                        <div class="copyright-right text-md-end text-center">
-                            <p>© 2019 Brook. <a href="https://hasthemes.com/">All Rights Reserved.</a></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Copyright Area -->
-    </footer>
-    <!--// Footer -->
+    <?php
+            include_once 'footer.php';
+    ?>
 
 
     <!--// Wrapper -->

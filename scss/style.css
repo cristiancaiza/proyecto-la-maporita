@@ -27323,7 +27323,7 @@ header.br_header.header-default.vertical-slide-portfolio {
 }
 .header-default .header__wrapper .header-left {
   flex-shrink: 0;
-  flex-basis: 20%;
+  flex-basis: 40%;
   display: flex;
   align-items: center;
 }
@@ -28255,7 +28255,7 @@ Freelancer Area
 
 .open-hamberger-wrapper {
   background-image: url(../../img/bg/bg-image-28.jpg);
-  background-color: #222;
+  background-color: #000000;
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
@@ -28308,6 +28308,7 @@ Freelancer Area
   position: relative;
 }
 .hamberger-search .input-box input {
+  color: #fff !important;
   background-color: transparent;
   border: 0;
   border-bottom: 2px solid #eee;
@@ -28315,6 +28316,7 @@ Freelancer Area
   width: 420px;
 }
 .hamberger-search .input-box button {
+  color: #fff !important;
   position: absolute;
   top: 0;
   right: 0;
@@ -28741,7 +28743,7 @@ Header Font Family
   flex-grow: 1;
 }
 .popup-mobile-manu .inner .mobileheader .logo a img {
-  width: 115px;
+  width: 170px;
   height: auto;
   max-width: 100%;
 }

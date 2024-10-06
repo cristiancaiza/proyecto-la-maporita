@@ -56,33 +56,20 @@
                 </div>
                 <div class="menu-content">
                     <ul class="menulist object-custom-menu">
-                        <li><a href="https://lacteoslamaporita.com/front-temp"><span>Inicio</span></a></li>
+                        <li><a href="index.php"><span>Inicio</span></a></li>
                         <li><a href="acerca.php"><span>Acerca</span></a></li>
-                        <li><a href="productos.php"><span>Productos</span></a></li>
-                        <li><a href="novedades.php"><span>Novedades</span></a></li>
-                       
-                        <li class="has-mega-menu"><a href="#"><span>Servicios</span></a>
+                        <li class="has-mega-menu"><a href="#"><span>Productos</span></a>
                             <!-- Start Dropdown Menu -->
                             <ul class="object-submenu">
-                                <li><a href="#"><span>Servicios1</span></a></li>
-                                <li><a href="#"><span>Servicios2</span></a></li>
-                                <li><a href="#"><span>Servicios3</span></a></li>
+                                <li><a href="#"><span>Quesillo</span></a></li>
+                                <li><a href="#"><span>Queso Cuajada Pasteurizada</span></a></li>
+                                <li><a href="#"><span>Queso Picado Salado</span></a></li>
                             </ul>
                         </li>
-
-                        <li class="has-mega-menu"><a href="#"><span>Política ambiental</span></a>
-
-                                <!-- Start Dropdown Menu -->
-                                <ul class="object-submenu">
-                                    <li><a href="politica-ambiental.php"><span>Política ambiental</span></a></li>
-                                    <li><a href="#"><span>1</span></a></li>
-                                    <li><a href="#"><span>2</span></a></li>
-                                    <li><a href="#"><span>3</span></a></li>
-                                    <li><a href="#"><span>4</span></a></li>
-                                </ul>
-                        </li>
+                        <li><a href="novedades.php"><span>Novedades</span></a></li>
                         <li><a href="galeria.php"><span>Galería</span></a></li>
-                        
+                        <li><a href="politica-ambiental.php"><span>Política Ambiental</span></a></li>
+                        <li><a href="contacto.php"><span>Contáctenos</span></a></li>
                     </ul>
                 </div>
             </div>
@@ -95,28 +82,25 @@
                 <div class="mainmenu-wrapper">
                     <nav class="page_nav">
                         <ul class="mainmenu">
-                            <li class="lavel-1"><a href="https://lacteoslamaporita.com/front-temp"><span>Inicio</span></a></li>
+                            <li class="lavel-1"><a href="index.php"><span>Inicio</span></a></li>
                             <li class="lavel-1"><a href="acerca.php"><span>Acerca</span></a></li>
                             <li class="lavel-1 with--drop slide-dropdown"><a href="#"><span>Productos</span></a>
                                 <!-- Start Dropdown Menu -->
                                 <ul class="dropdown__menu">
-                                    <li><a href="#"><span>Producto 1</span></a></li>
-                                    <li><a href="#"><span>Producto 2</span></a></li>
-                                    <li><a href="#"><span>Producto 3</span></a></li>
+                                    <li><a href="#"><span>Quesillo</span></a></li>
+                                    <li><a href="#"><span>Queso Cuajada Pasteurizada</span></a></li>
+                                    <li><a href="#"><span>Queso Picado Salado</span></a></li>
                                 </ul>
                                 <!-- End Dropdown Menu -->
                             </li>
                             <li class="lavel-1"><a href="novedades.php"><span>Novedades</span></a></li>
                             <li class="lavel-1"><a href="galeria.php"><span>Galería</span></a></li>
                             <li class="lavel-1"><a href="politica-ambiental.php"><span>Política Ambiental</span></a></li>
-                            <li class="lavel-1"><a href="contacto.php"><span>Contáctenos</span></a></li>
-
-                            
+                            <li class="lavel-1"><a href="contacto.php"><span>Contáctenos</span></a></li> 
                         </ul>
                     </nav>
                 </div>
             </div>
-
             <!-- Start Search -->
             <div class="row hamberger-search">
                 <form action="#">
@@ -128,7 +112,6 @@
                     </div>
                 </form>
             </div>
-
             <div class="offcanvas-extra-info mt--150">
                 <div class="row align-items-end">
                     <div class="col-lg-6">
@@ -145,7 +128,6 @@
                                 <li class="instagram"><a href="https://www.instagram.com/lamaporita01/" class="link hint--bounce hint--top hint--white"
                                         aria-label="Instagram"><i class="fab fa-instagram"></i></a></li>
                             </ul>
-
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -155,7 +137,6 @@
                     </div>
                 </div>
             </div>
-
         </div>
         <!-- End Hamberger Menu -->
         <!-- Start Brook Search Popup -->
@@ -164,7 +145,7 @@
                 <div class="search-header">
                     <div class="logo">
                         <a href="">
-                            <img src="img/logo/brook-black.png" alt="logo images">
+                            <img src="img/logo/logo-fnd-claro.png" alt="Logo La Maporita">
                         </a>
                     </div>
                     <a href="#" class="search-close"></a>
