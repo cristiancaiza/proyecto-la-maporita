@@ -79,13 +79,15 @@
                             <div class="modern-service">
                                 <h2 class="heading heading-h2 text-white">¿Quiénes Somos?</h2>
                             </div>
+                            <div class="bkseparator--20"></div>
+                            <img src="img/acerca/img-acerca-nuestra-historia.jpg" alt="Lácteos La Maporita">
                         </div>
                         <div class="col-lg-7 offset-lg-1 col-12 mt_md--30 mt_sm--30">
                             <div class="modern-service wow move-up">
                                 <!--<h5 class="heading heading-h5 text-white">Our story</h5>-->
                                 <!--<div class="bkseparator--20"></div>-->
                                 <!--<h5 class="heading heading-h5 body-color text-white line-height-1-62"></h5>-->
-                                <p class="bk_pra text-white font-18">Podríamos decir que somos una empresa que hace productos lácteos. Pero somos más que eso, somos una gran familia donde cada uno de sus integrantes es indíspensable para hacer de Lácteos La Maporita, lo que es hoy.<br><br>
+                                <p class="bk_pra text-white font-16">Podríamos decir que somos una empresa que hace productos lácteos. Pero somos más que eso, somos una gran familia donde cada uno de sus integrantes es indíspensable para hacer de Lácteos La Maporita, lo que es hoy.<br><br>
                                     La familia Maporita está conformada por sus proveedores, campesinos honestos comprometidos con la conservación del medio ambiente, para producir leche de muy buena calidad; los operarios, que con su esfuerzo y conocimiento transforman la leche en productos tipo gourmet. Otros miembros importantes de esta familia, son todo el cuerpo administrativo, que contribuyen al buen funcionamiento y crecimiento de la empresa. Juntos contribuimos al desarrollo rural del municipio de El Paujil Caquetá.</p>
                             </div>
                         </div>
@@ -97,9 +99,8 @@
                     <div class="row">
                         <div class="col-lg-4 col-12">
                             <div class="modern-service">
-                                <h2 class="heading heading-h2 text-white">¿Quiénes Somos?</h2>
-                                <img src="img/acerca/img-acerca-nuestra-historia.jpg" alt="Lácteos La Maporita">
-                                <div class="bkseparator--80"></div>
+                                <h2 class="heading heading-h2 text-white">Nuestra Historia</h2>
+                                <div class="bkseparator--100"></div>
                                 <img src="img/acerca/img-acerca-nuestra-historia-2.jpg" alt="Lácteos La Maporita">
                             </div>
                         </div>
@@ -108,7 +109,7 @@
                                 <!--<h5 class="heading heading-h5 text-white">Our story</h5>-->
                                 <!--<div class="bkseparator--20"></div>-->
                                 <!--<h5 class="heading heading-h5 body-color text-white line-height-1-62"></h5>-->
-                                <p class="bk_pra text-white font-18">
+                                <p class="bk_pra text-white font-16">
                                 En septiembre del año 1997, debido al orden público del departamento, la familia Trujillo Arcila decide salir del país, confiando su empresa en dos personas idóneas para sostener la calidad y mantener la buena imagen alcanzada por la empresa. Con esta gran responsabilidad en sus manos el Zootecnista José Humberto Maya Montoya como representante legal y arrendador de las instalaciones, y su esposa la Administradora de Emtpresas Gladys Arias Villalba, inician sus primeros pasos con La Maporita, ubicada a un kilómetro vía al municipio de El Doncello.<br><br>
 Gracias a la perseverancia de Gladys, en mayo del año 2002 Industria de Lácteos La Maporita, se traslada a la calle 6ª No 7-76 Barrio El Prado del municipio de El Paujil, a sus instalacones propias.<br><br>
 Al observar las necesidades del mercado y una calidad estandarizada, en el año 2009, emprenden una alianza comercial con la Agropecuaria Los Potrillos, con el fin de brindar acompañamiento profesional gratuito a sus proveedores de leche desde sus ordeños, mayores beneficios al del precio pagado por litro de leche, contribuyendo así, a la transformación de una ganadería sostenible y sustentable. La empresa ha venido logrando poco a poco un posicionamiento importante gracias a la calidad de su producto estrella "Quesillo".<br><br>
@@ -122,49 +123,6 @@ Debido a las exigencias y demandas del mercado la empresa ha venido creciendo y 
                 </div>
             </div>
             <!-- End Service Modern -->
-            <!-- Start Professonal Design -->
-            <div class="brook-professonal-design bg_color--3">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                            <div class="thumbnail">
-                                <img src="img/acerca/img-acerca-nuestra-historia.jpg" alt="Lácteos La Maporita">
-                                <div class="bkseparator--80"></div>
-                                <img src="img/acerca/img-acerca-nuestra-historia-2.jpg" alt="Lácteos La Maporita">
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                            <div class="professonal-design-content pl--90 pl_lg--70 pl_md--30 pl_sm--30">
-                                <h2 class="heading heading-h2 text-white">NUESTRA HISTORIA</h2>
-                                <div class="content mt--35 mb--65">
-                                    <p class="bk_pra font-18 line-height-1-63 text-white-50"></p>
-                                </div>
-                                <!--<div class="profesonal_btn">
-                                    <a class="brook-btn bk-btn-theme btn-sd-size btn-rounded space-between" href="#">Shop now</a>
-                                </div>-->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- End Professonal Design -->
-
-            <!-- Start Icon Boxes -->
-            
-            <!-- End Icon Boxes -->
-
-            <!-- Start Testimonial Area -->
-            
-            <!-- End Testimonial Area -->
-
-            <!-- Start Accordion Area -->
-            
-            <!-- End Accordion Area -->
-
-            <!-- Start Team Caption -->
-            
-            <!-- End Team Caption -->
-
             <!-- Start Call To Action -->
             <div class="brook-call-to-action bg_color--43 ptb--70">
                 <div class="container">
@@ -190,7 +148,6 @@ Debido a las exigencias y demandas del mercado la empresa ha venido creciendo y 
             <!-- End Call To Action -->
         </main>
         <!--// Page Conttent -->
-
         <?php
             include_once 'footer.php';
         ?>
