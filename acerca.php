@@ -51,7 +51,6 @@
         </div>
     </div>
     -->
-
     <!-- Wrapper -->
     <div id="wrapper" class="wrapper">
         <?php
@@ -73,12 +72,12 @@
         <!-- Page Conttent -->
         <main class="page-content">
             <!-- Start Service Modern -->
-            <div class="brook-service-modern ptb--120 ptb-md--80 ptb-sm--60">
+            <div class="brook-service-modern ptb--120 ptb-md--80 ptb-sm--60 bg_color--3">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-4 col-12">
                             <div class="modern-service">
-                                <h3 class="heading heading-h3 line-height-1-42 text-white wow move-up">Quienes <br> Somos</h3>
+                                <h2 class="heading heading-h2 text-white">¿Quiénes Somos?</h2>
                             </div>
                         </div>
                         <div class="col-lg-7 offset-lg-1 col-12 mt_md--30 mt_sm--30">
@@ -86,8 +85,7 @@
                                 <!--<h5 class="heading heading-h5 text-white">Our story</h5>-->
                                 <!--<div class="bkseparator--20"></div>-->
                                 <!--<h5 class="heading heading-h5 body-color text-white line-height-1-62"></h5>-->
-                                <div class="bkseparator--30"></div>
-                                <p class="bk_pra text-white">Podríamos decir que somos una empresa que hace productos lácteos. Pero somos más que eso, somos una gran familia donde cada uno de sus integrantes es indíspensable para hacer de Lácteos La Maporita, lo que es hoy.
+                                <p class="bk_pra text-white font-18">Podríamos decir que somos una empresa que hace productos lácteos. Pero somos más que eso, somos una gran familia donde cada uno de sus integrantes es indíspensable para hacer de Lácteos La Maporita, lo que es hoy.<br><br>
 
                                     La familia Maporita está conformada por sus proveedores, campesinos honestos comprometidos con la conservación del medio ambiente, para producir leche de muy buena calidad; los operarios, que con su esfuerzo y conocimiento transforman la leche en productos tipo gourmet. Otros miembros importantes de esta familia, son todo el cuerpo administrativo, que contribuyen al buen funcionamiento y crecimiento de la empresa. Juntos contribuimos al desarrollo rural del municipio de El Paujil Caquetá.</p>
                             </div>
@@ -97,7 +95,7 @@
             </div>
             <!-- End Service Modern -->
             <!-- Start Professonal Design -->
-            <div class="brook-professonal-design">
+            <div class="brook-professonal-design bg_color--3">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-6 col-md-6 col-sm-12 col-12">
