@@ -1,9 +1,10 @@
 <!doctype html>
 <html class="no-js" lang="zxx"> 
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Quesillo || Industria de Lácteos, La Maporita</title>
+    <title>Queso Cuajada || Industria de Lácteos, La Maporita</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -24,8 +25,6 @@
 
     <!-- Custom Styles -->
     <!-- <link rel="stylesheet" href="css/custom.css"> -->
-
-
     <!-- Use the minified version files listed below for better performance and remove the files listed above -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/revoulation.css">
@@ -49,7 +48,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="breadcaump-inner text-center">
-                            <h2 class="heading heading-h2 font-60 text-white">Quesillo</h2>
+                            <h2 class="heading heading-h2 font-60 text-white">Queso Cuajada</h2>
                         </div>
                     </div>
                 </div>
@@ -65,12 +64,11 @@
                         <div class="nextprev-btn">
                             <div class="navlist">
                                 <div class="navitem prev">
-                                    <a id="backLink" class="text-white" href="#">Anterior</a>
+                                    <a id="backLink" class="text-white" href="quesillo.php">Anterior</a>
                                 </div>
                                 <div class="navitem next">
-                                    <a id="nextLink" class="text-white" href="#">Siguiente</a>
+                                    <a id="nextLink" class="text-white" href="queso-picado-salado.php">Siguiente</a>
                                 </div>
-                               
                             </div>
                         </div>
                     </div>
@@ -79,13 +77,13 @@
                             <div class="product__details__container">
                                 <div class="tab_container big_img_container">
                                     <div class="big_img tab-pane fade show active" id="img1" role="tabpanel">
-                                        <img class="w-100" src="img/productos/grandes/760-x-760-quesillo.jpg" alt="Quesillo">
+                                        <img class="w-100" src="img/productos/grandes/760-x-760-cuajada.jpg" alt="Queso Cuajada">
                                     </div>
                                 </div>
                                 <div class="sm_roduct_nav nav nav-tabs" role="tablist">
                                     <a class="active" id="img1-tab" data-bs-toggle="tab" href="#img1" role="tab"
                                         aria-controls="img1" aria-selected="true">
-                                        <img src="img/productos/mini/210-x-210-quesillo.jpg" alt="Quesillo">
+                                        <img src="img/productos/mini/210-x-210-cuajada.jpg" alt="Queso Cuajada">
                                     </a>
                                     <!--
                                     <a id="nav-img2-tab" data-bs-toggle="tab" href="#img2" role="tab" aria-controls="img2"
@@ -102,7 +100,7 @@
                             <div class="product-details">
                                 <div class="inner">
                                     <div class="header">
-                                        <h4 class="heading heading-h4 text-white">Quesillo La Maporita</h4>
+                                        <h4 class="heading heading-h4 text-white">Cuajada Pasteurizada</h4>
                                     </div>
                                     <!--
                                     <div class="price">
@@ -110,8 +108,8 @@
                                     </div>
                                     -->
                                     <div class="description">
-                                        <p class="bk_pra text-white">El Quesillo La Maporita es un queso fresco, de pasta hilada, semigraso y semiduro. Elaborado bajo los más altos estándares de calidad para lograr las características propias de hilado, sabor, aroma y color. Ideal para platos gourmet como pizza, gratinados y demás. Producto listo para consumo.
-                                            <br><br><strong>Presentaciones:</strong> 2500g tajado y entero, 500g tajado y entero y 250g tajado y entero.</p>
+                                        <p class="bk_pra text-white">La cuajada La Maporita, es un queso fresco, semigraso y blando. Elaborado con leche pasteurizada y bajo los más altos estándares de calidad para lograr las características propias de sabor, aroma y color. Ideal para acompañar tus desayunos, puesto que son fuente de calcio y proteína láctea, necesarios para el buen funcionamientos de los huesos y el mantenimiento de los dientes.
+                                            <br><br><strong>Presentaciones:</strong> Bloque de 9 libras entero.</p>
                                     </div>
                                     <div class="product-meta">
                                         <div class="meta-item">

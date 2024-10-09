@@ -1310,8 +1310,6 @@
         offsetHeight: 80,
     });
 
-    
-
     // Map JS
     //     var data = [{
     //         lat: 23.76161,
@@ -1337,3 +1335,4 @@
     // }).Load();
 
 })(jQuery);
+
