@@ -7,12 +7,9 @@
     <title>Productos || Industria de Lácteos, La Maporita</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="img/icon.png">
-
-
     <!-- CSS
 	============================================ -->
     <!-- Plugins -->
@@ -25,20 +22,16 @@
 
     <!-- Custom Styles -->
     <!-- <link rel="stylesheet" href="css/custom.css"> -->
-
-
     <!-- Use the minified version files listed below for better performance and remove the files listed above -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/revoulation.css">
     <link rel="stylesheet" href="css/plugins.css">
     <link rel="stylesheet" href="scss/style.css">
 </head>
-
 <body class="template-color-39 template-font-1 bg_color--42">
     <!--[if lte IE 9]>
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
-
     <!-- Add your site or application content here -->
     <!-- Wrapper -->
     <div id="wrapper" class="wrapper">
@@ -69,7 +62,7 @@
                             <div class="portfolio with-caption">
                                 <div class="thumb video-with-thumb">
                                     <a href="portfolio-details.html">
-                                        <img src="img/restaurant-two/food/food1.jpg" alt="portfolio images">
+                                        <img src="img/productos/370-x-250-quesillo.jpg" alt="portfolio images">
                                     </a>
                                 </div>
                                 <div class="caption-bottom text-start">
@@ -87,7 +80,7 @@
                             <div class="portfolio with-caption mt_mobile--30">
                                 <div class="thumb">
                                     <a href="portfolio-details.html">
-                                        <img src="img/restaurant-two/food/food2.jpg" alt="portfolio images">
+                                        <img src="img/productos/370-x-250-cuajada.jpg" alt="portfolio images">
                                     </a>
                                 </div>
                                 <div class="caption-bottom text-start">
@@ -99,18 +92,74 @@
                             </div>
                         </div>
                         <!-- End Single Portfolio -->
-
+                        
                         <!-- Start Single Portfolio -->
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12 move-up wow animate" data-wow-delay=".16s" style="visibility: visible; animation-delay: 0.16s; opacity: 0;">
                             <div class="portfolio with-caption mt_sm--30 mt_md--30">
                                 <div class="thumb">
                                     <a href="portfolio-details.html">
-                                        <img src="img/restaurant-two/food/food3.jpg" alt="portfolio images">
+                                    <img src="img/productos/370-x-250-picado-salado.jpg" alt="portfolio images">
                                     </a>
                                 </div>
                                 <div class="caption-bottom text-start">
                                     <div class="info">
                                         <h5 class="heading heading-h5"><a href="portfolio-details.html">Queso Picado Salado</a></h5>
+                                        <p class="bk_pra">$2.90</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Portfolio -->
+
+                        <div class="bkseparator--30"></div>
+
+                        <!-- Start Single Portfolio -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12 move-up wow animate" data-wow-delay=".17s" style="visibility: visible; animation-delay: 0.16s; opacity: 0;">
+                            <div class="portfolio with-caption mt_sm--30 mt_md--30">
+                                <div class="thumb">
+                                    <a href="portfolio-details.html">
+                                    <img src="img/productos/370-x-250-tipo-cheddar.jpg" alt="portfolio images">
+                                    </a>
+                                </div>
+                                <div class="caption-bottom text-start">
+                                    <div class="info">
+                                        <h5 class="heading heading-h5"><a href="portfolio-details.html">Queso Tipo Cheddar</a></h5>
+                                        <p class="bk_pra">$2.90</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Portfolio -->
+
+                        <!-- Start Single Portfolio -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12 move-up wow animate" data-wow-delay=".18s" style="visibility: visible; animation-delay: 0.16s; opacity: 0;">
+                            <div class="portfolio with-caption mt_sm--30 mt_md--30">
+                                <div class="thumb">
+                                    <a href="portfolio-details.html">
+                                    <img src="img/productos/370-x-250-finas-hierbas.jpg" alt="portfolio images">
+                                    </a>
+                                </div>
+                                <div class="caption-bottom text-start">
+                                    <div class="info">
+                                        <h5 class="heading heading-h5"><a href="portfolio-details.html">Queso Finas Hierbas</a></h5>
+                                        <p class="bk_pra">$2.90</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Portfolio -->
+
+                        <!-- Start Single Portfolio -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12 move-up wow animate" data-wow-delay=".19s" style="visibility: visible; animation-delay: 0.16s; opacity: 0;">
+                            <div class="portfolio with-caption mt_sm--30 mt_md--30">
+                                <div class="thumb">
+                                    <a href="portfolio-details.html">
+                                    <img src="img/productos/370-x-250-queso-fiesta.jpg" alt="portfolio images">
+                                    </a>
+                                </div>
+                                <div class="caption-bottom text-start">
+                                    <div class="info">
+                                        <h5 class="heading heading-h5"><a href="portfolio-details.html">Queso Fiesta</a></h5>
                                         <p class="bk_pra">$2.90</p>
                                     </div>
                                 </div>
