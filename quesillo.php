@@ -103,17 +103,16 @@
                                     <div class="header">
                                         <h4 class="heading heading-h4 text-white">Quesillo La Maporita</h4>
                                     </div>
-
+                                    <!--
                                     <div class="price">
                                         <p class="theme-color text-white">$112.00</p>
                                     </div>
+                                    -->
 
                                     <div class="description">
-                                        <p class="bk_pra text-white">Descripción</p>
+                                        <p class="bk_pra text-white">El Quesillo La Maporita es un queso fresco, de pasta hilada, semigraso y semiduro. Elaborado bajo los más altos estándares de calidad para lograr las características propias de hilado, sabor, aroma y color. Ideal para platos gourmet como pizza, gratinados y demás. Producto listo para consumo.
+                                            <br><br><strong>Presentaciones:</strong> 2500g tajado y entero, 500g tajado y entero y 250g tajado y entero.</p>
                                     </div>
-
-                                    
-
                                     <div class="product-meta">
                                         <div class="meta-item">
                                             <h6 class="heading heading-h6 text-white">Categoría:</h6>
@@ -121,14 +120,7 @@
                                                 <a class="text-white" href="#">Quesos</a>
                                             </div>
                                         </div>
-                                        <div class="meta-item">
-                                            <h6 class="heading heading-h6 text-white">Etiqueta:</h6>
-                                            <div class="item-list">
-                                                <a class="text-white" href="#">standard</a>
-                                            </div>
-                                        </div>
                                     </div>
-
                                 </div>
                             </div>
                         </div>
@@ -136,63 +128,6 @@
                 </div>
             </div>
             <!-- End Single Product -->
-
-            <!-- Start Product Review -->
-            <div class="product_review pb--100 pb_md--80 pb_sm--60">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="description_nav nav nav-tabs d-block" role="tablist">
-                                <a class="active text-white" id="descrip-tab" data-bs-toggle="tab" href="#descrip" role="tab"
-                                    aria-controls="descrip" aria-selected="true">Descripción</a>
-                                <a class="text-white" id="nav-review" data-bs-toggle="tab" href="#review" role="tab" aria-controls="review"
-                                    aria-selected="false">Reviews</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab_container">
-                        <div class="single_review_content tab-pane fade show active" id="descrip" role="tabpanel">
-                            <div class="content text-white">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ornare, nulla eu mollis egestas, magna purus imperdiet ipsum, id volutpat ex orci eget est.</p>
-                            </div>
-                        </div>
-                        <div class="single_review_content tab-pane fade" id="review" role="tabpanel">
-                            <div class="classs__review__inner text-white">
-                                <h4 class="text-white">Sé el primero en evaluar el producto</h4>
-                                <p>Su Correo electrónico no será publicado. Espacios con * son requeridos</p>
-                                <span>Su puntuación</span>
-                                <ul class="rating">
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i> </li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                </ul>
-                                <form action="#">
-                                    <div class="input__box">
-                                        <span>Su calificación *</span>
-                                        <textarea name="message"></textarea>
-                                    </div>
-                                    <div class="input__box">
-                                        <span>Nombre*</span>
-                                        <input class="text-white" type="text">
-                                    </div>
-                                    <div class="input__box">
-                                        <span>Correo Electrónico*</span>
-                                        <input class="text-white" type="email">
-                                    </div>
-                                    <div class="submit__btn2 mt--30 text-center">
-                                        <a class="brook-btn bk-btn-theme btn-sd-size btn-rounded space-between text-white" href="#">Publica un
-                                            comentario</a>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- End Product Review -->
-
             <!-- Start Related Product -->
             <div class="brook-related-product pb--100 pb_md--80 pb_sm--60">
                 <div class="container">

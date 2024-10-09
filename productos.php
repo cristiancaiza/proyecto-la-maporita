@@ -65,12 +65,14 @@
                                         <img src="img/productos/370-x-250-quesillo.jpg" alt="portfolio images">
                                     </a>
                                 </div>
+                               
                                 <div class="caption-bottom text-start">
                                     <div class="info">
                                         <h5 class="heading heading-h5"><a href="portfolio-details.html">Quesillo</a></h5>
                                         <p class="bk_pra">$2.60</p>
                                     </div>
                                 </div>
+                                
                             </div>
                         </div>
                         <!-- End Single Portfolio -->
