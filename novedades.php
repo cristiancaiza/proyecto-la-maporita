@@ -65,7 +65,7 @@
             <div class="bk-blog-grid-area pt--70 pb--100 pt_md--80 pb_md--80 pb_sm--80 pt_sm--60">
                 <div class="container">
                     <div class="row">
-                        <!-- Start Single Portfolio -->
+                        <!-- Start Single Portfolio 
                         <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
                             <div class="blog blog-style--2 creative--blog">
                                 <div class="thumb">
@@ -85,7 +85,7 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- End Single Portfolio -->
+                         End Single Portfolio -->
 
                         <!-- Start Single Portfolio -->
                         <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
@@ -188,7 +188,6 @@
         <?php
             include_once 'footer.php';
         ?>
-
     </div>
     <!--// Wrapper -->
 
