@@ -80,7 +80,7 @@ Como reconocimiento a la calidad de productos comprometidos con la conservación
                                 <img class="w-100" src="img/about/about-us-03-image-02.jpg" alt="about images">
                             </div>
                         </div>
-                        <div class="col-lg-6 mt_sm--40 mt_md--40">
+                        <div class="col-lg-6 mt_sm--40 mt_md--40 texto-blanco">
                             <div class="bk-title--default text-start">
                                 <h5 class="heading heading-h5 theme-color wow move-up">What we do</h5>
                                 <div class="bkseparator--30"></div>

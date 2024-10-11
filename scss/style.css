@@ -49846,6 +49846,10 @@ body.template-color-25 .single-svg-icon-box .svg-icon svg * {
   stroke: #fff !important;
 }
 
+.texto-blanco {
+  color: #fff !important;
+}
+
 /* ======================
 Font Variation 
 ========================*/
