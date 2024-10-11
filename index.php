@@ -8,8 +8,8 @@
     <meta name="description" content="Somos una empresa familiar dedicada a la producción de derivados lácteos en el Caquetá. Impulsamos la industria colombiana y llevamos el mejor queso con el sello de Denominación de Origen Queso del Caquetá y la Marca Colectiva QC.">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
-    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
-    <link rel="apple-touch-icon" href="img/icon.png">
+    <link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="img/favicon/android-icon-192x192.png">
     <!-- CSS
 	============================================ -->
     <link rel="stylesheet" href="css/bootstrap.min.css">

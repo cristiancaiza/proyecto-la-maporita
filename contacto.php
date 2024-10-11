@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Contacto || Industria de Lácteos, La Maporita</title>
+    <title>Acerca || Industria de Lácteos, La Maporita</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
@@ -43,7 +43,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="breadcaump-inner text-center">
-                            <h2 class="heading heading-h2 font-60 text-white">Contact</h2>
+                            <h2 class="heading heading-h2 font-60 text-white">¡Contáctenos!</h2>
                         </div>
                     </div>
                 </div>
@@ -58,7 +58,7 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="brook-section-title text-center mb--40">
-                                <h4 class="heading heading-h4 text-white">Send us a message</h4>
+                                <h4 class="heading heading-h4 text-white">¡Escríbanos</h4>
                             </div>
                         </div>
                     </div>

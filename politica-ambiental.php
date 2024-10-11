@@ -4,12 +4,12 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Contacto || Industria de Lácteos, La Maporita</title>
+    <title>Política Ambiental || Industria de Lácteos, La Maporita</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
-    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
-    <link rel="apple-touch-icon" href="img/icon.png">
+    <link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="img/favicon/android-icon-192x192.png">
 
     <!-- CSS
 	============================================ -->
@@ -43,64 +43,20 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="breadcaump-inner text-start">
-                            <h1 class="heading heading-h1 font-60 text-white">We design & build <br> brands and digital
-                                projects <br> for businesses.</h1>
+                            <h1 class="heading heading-h1 font-60 text-white">Política <br> Ambiental</h1>
                         </div>
                     </div>
-                    <div class="col-lg-6 mt_md--30 mt_sm--30">
+                    <div class="col-lg-6">
                         <div class="row">
                             <!-- Strat Single Speach -->
-                            <div class="col-lg-12 col-xl-6 col-12">
+                            <div class="col-lg-12">
                                 <div class="single-motive-speach wow move-up">
-                                    <div class="icon">
-                                        <i class="ion-ios-infinite text-white"></i>
-                                    </div>
                                     <div class="content">
-                                        <h4 class="text-white">Digital marketing</h4>
-                                        <p class="bk_pra heading-font pr--40 text-white">We conduct the marketing of
-                                            products & services using latest digital technologies.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Single Speach -->
-                            <!-- Strat Single Speach -->
-                            <div class="col-lg-12 col-xl-6 col-12 mt_lg--40 mt_md--30 mt_sm--30">
-                                <div class="single-motive-speach wow move-up">
-                                    <div class="icon">
-                                        <i class="ion-monitor text-white"></i>
-                                    </div>
-                                    <div class="content">
-                                        <h4 class="text-white">UI/UX designs</h4>
-                                        <p class="bk_pra heading-font pr--40 text-white">We conduct the marketing of
-                                            products & services using latest digital technologies.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Single Speach -->
-                            <!-- Strat Single Speach -->
-                            <div class="col-lg-12 col-xl-6 col-12 mt--70 mt_lg--40 mt_md--30 mt_sm--30">
-                                <div class="single-motive-speach wow move-up">
-                                    <div class="icon">
-                                        <i class="ion-ios-baseball-outline text-white"></i>
-                                    </div>
-                                    <div class="content">
-                                        <h4 class="text-white">SEO marketing</h4>
-                                        <p class="bk_pra heading-font pr--40 text-white">We conduct the marketing of
-                                            products & services using latest digital technologies.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Single Speach -->
-                            <!-- Strat Single Speach -->
-                            <div class="col-lg-12 col-xl-6 col-12 mt--70 mt_lg--40 mt_md--30 mt_sm--30">
-                                <div class="single-motive-speach wow move-up">
-                                    <div class="icon">
-                                        <i class="ion-pinpoint text-white"></i>
-                                    </div>
-                                    <div class="content">
-                                        <h4 class="text-white">Resource use</h4>
-                                        <p class="bk_pra heading-font pr--40 text-white">We conduct the marketing of
-                                            products & services using latest digital technologies.</p>
+                                        <p class="bk_pra heading-font pr--40 text-white">En el camino hacia el fortalecimiento de nuestra cadena de valor, en la familia Maporita, trabajamos por aumentar la productividad con calidad, optimizando los recursos en las fincas de manera responsable, a través de buenas prácticas en la producción lechera.<br><br>
+La ganadería es una de las principales actividades económicas del sector agropecuario, siendo la “ganadería extensiva de pastoreo continuo”, la más utilizada, pero también, la que más afecta al medio ambiente.<br><br>
+Por esta razón, y queriendo dejar atrás la manera tradicional de la “ganadería extensiva”, la alianza comercial “Agromercado Los Potrillos – Industria de Lácteos La Maporita SAS”, busca promover las principales prácticas de producción ganadera, que permiten resultados de manera rápida y eficiente.<br><br>
+El compromiso ambiental de Industria de Lácteos La Maporita SAS, es lograr que sus proveedores de leche alcancen mayor productividad, con mayor calidad, para que sus empresas ganaderas sean sostenibles y más competitivas.<br><br>
+Como reconocimiento a la calidad de productos comprometidos con la conservación del medio ambiente y nuestro Piedemonte Amazónico, Industria de Lácteos La Maporita SAS, cuenta con el sello de Denominación de Origen Protegida "Queso del Caquetá", y el respaldo como miembros y pioneros de la Marca Colectiva QC.</p>
                                     </div>
                                 </div>
                             </div>
