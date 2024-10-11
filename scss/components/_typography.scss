@@ -430,9 +430,10 @@ p{
         font-size: 14px;
         font-family: $body-font;
         @media #{$sm-layout} {
+            /*
             br{
                 display: none;
-            }
+            }*/
         }
 
         &.heading-font{

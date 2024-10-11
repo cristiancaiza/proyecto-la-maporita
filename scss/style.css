@@ -19866,8 +19866,11 @@ p.bk_pra {
   font-family: "Poppins", sans-serif;
 }
 @media only screen and (max-width: 767px) {
-  p.bk_pra br {
-    display: none;
+  p.bk_pra {
+    /*
+    br{
+        display: none;
+    }*/
   }
 }
 p.bk_pra.heading-font {
@@ -28073,6 +28076,9 @@ header.br_header.header-default.header-fixed {
 }
 .single-motive-speach .icon i {
   font-size: 40px;
+}
+.single-motive-speach .politica-ambiental-txt p {
+  max-width: 750px !important;
 }
 .single-motive-speach .content {
   flex-grow: 1;
