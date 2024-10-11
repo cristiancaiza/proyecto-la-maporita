@@ -41,15 +41,15 @@
             data-black-overlay="6">
             <div class="container-fluid plr--180 plr_lg--100 plr_md--50 plr_sm--50">
                 <div class="row align-items-center">
-                    <div class="col-lg-6">
+                    <div class="col-lg-4 col-12">
                         <div class="breadcaump-inner text-start">
                             <h1 class="heading heading-h1 font-60 text-white">Política <br> Ambiental</h1>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-7 offset-lg-1 col-12 mt_md--30 mt_sm--30">
                         <div class="row">
                             <!-- Strat Single Speach -->
-                            <div class="col-lg-12">
+                            <div class="">
                                 <div class="single-motive-speach wow move-up">
                                     <div class="content">
                                         <p class="bk_pra heading-font pr--40 text-white">En el camino hacia el fortalecimiento de nuestra cadena de valor, en la familia Maporita, trabajamos por aumentar la productividad con calidad, optimizando los recursos en las fincas de manera responsable, a través de buenas prácticas en la producción lechera.<br><br>
