@@ -70,7 +70,6 @@
                                 <div class="navitem next">
                                     <a id="nextLink" class="text-white" href="#">Siguiente</a>
                                 </div>
-                               
                             </div>
                         </div>
                     </div>
