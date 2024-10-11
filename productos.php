@@ -69,7 +69,7 @@
                                 <div class="caption-bottom text-start">
                                     <div class="info">
                                         <h5 class="heading heading-h5"><a href="portfolio-details.html">Quesillo</a></h5>
-                                        <p class="bk_pra">$2.60</p>
+                                        <!--<p class="bk_pra">$2.60</p>-->
                                     </div>
                                 </div>
                                 
@@ -81,14 +81,14 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12 move-up wow animate" data-wow-delay=".15s" style="visibility: visible; animation-delay: 0.15s; opacity: 0;">
                             <div class="portfolio with-caption mt_mobile--30">
                                 <div class="thumb">
-                                    <a href="portfolio-details.html">
+                                    <a href="queso-cuajada.php">
                                         <img src="img/productos/370-x-250-cuajada.jpg" alt="portfolio images">
                                     </a>
                                 </div>
                                 <div class="caption-bottom text-start">
                                     <div class="info">
                                         <h5 class="heading heading-h5"><a href="portfolio-details.html">Queso Cuajada</a></h5>
-                                        <p class="bk_pra">$16.00</p>
+                                        <!--<p class="bk_pra">$16.00</p>-->
                                     </div>
                                 </div>
                             </div>
@@ -99,14 +99,14 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12 move-up wow animate" data-wow-delay=".16s" style="visibility: visible; animation-delay: 0.16s; opacity: 0;">
                             <div class="portfolio with-caption mt_sm--30 mt_md--30">
                                 <div class="thumb">
-                                    <a href="portfolio-details.html">
+                                    <a href="queso-picado-salado.php">
                                     <img src="img/productos/370-x-250-picado-salado.jpg" alt="portfolio images">
                                     </a>
                                 </div>
                                 <div class="caption-bottom text-start">
                                     <div class="info">
                                         <h5 class="heading heading-h5"><a href="portfolio-details.html">Queso Picado Salado</a></h5>
-                                        <p class="bk_pra">$2.90</p>
+                                        <!--<p class="bk_pra">$2.90</p>-->
                                     </div>
                                 </div>
                             </div>
@@ -119,14 +119,14 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12 move-up wow animate" data-wow-delay=".17s" style="visibility: visible; animation-delay: 0.16s; opacity: 0;">
                             <div class="portfolio with-caption mt_sm--30 mt_md--30">
                                 <div class="thumb">
-                                    <a href="portfolio-details.html">
+                                    <a href="queso-tipo-cheddar.php">
                                     <img src="img/productos/370-x-250-tipo-cheddar.jpg" alt="portfolio images">
                                     </a>
                                 </div>
                                 <div class="caption-bottom text-start">
                                     <div class="info">
                                         <h5 class="heading heading-h5"><a href="portfolio-details.html">Queso Tipo Cheddar</a></h5>
-                                        <p class="bk_pra">$2.90</p>
+                                        <!--<p class="bk_pra">$2.90</p>-->
                                     </div>
                                 </div>
                             </div>
@@ -137,14 +137,14 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12 move-up wow animate" data-wow-delay=".18s" style="visibility: visible; animation-delay: 0.16s; opacity: 0;">
                             <div class="portfolio with-caption mt_sm--30 mt_md--30">
                                 <div class="thumb">
-                                    <a href="portfolio-details.html">
+                                    <a href="queso-finas-hierbas.php">
                                     <img src="img/productos/370-x-250-finas-hierbas.jpg" alt="portfolio images">
                                     </a>
                                 </div>
                                 <div class="caption-bottom text-start">
                                     <div class="info">
                                         <h5 class="heading heading-h5"><a href="portfolio-details.html">Queso Finas Hierbas</a></h5>
-                                        <p class="bk_pra">$2.90</p>
+                                        <!--<p class="bk_pra">$2.90</p>-->
                                     </div>
                                 </div>
                             </div>
@@ -155,14 +155,14 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12 move-up wow animate" data-wow-delay=".19s" style="visibility: visible; animation-delay: 0.16s; opacity: 0;">
                             <div class="portfolio with-caption mt_sm--30 mt_md--30">
                                 <div class="thumb">
-                                    <a href="portfolio-details.html">
+                                    <a href="queso-fiesta.php">
                                     <img src="img/productos/370-x-250-queso-fiesta.jpg" alt="portfolio images">
                                     </a>
                                 </div>
                                 <div class="caption-bottom text-start">
                                     <div class="info">
                                         <h5 class="heading heading-h5"><a href="portfolio-details.html">Queso Fiesta</a></h5>
-                                        <p class="bk_pra">$2.90</p>
+                                        <!--<p class="bk_pra">$2.90</p>-->
                                     </div>
                                 </div>
                             </div>

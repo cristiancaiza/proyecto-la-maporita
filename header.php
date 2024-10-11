@@ -58,12 +58,15 @@
                     <ul class="menulist object-custom-menu">
                         <li><a href="index.php"><span>Inicio</span></a></li>
                         <li><a href="acerca.php"><span>Acerca</span></a></li>
-                        <li class="has-mega-menu"><a href="#"><span>Productos</span></a>
+                        <li class="has-mega-menu"><a href="productos.php"><span>Productos</span></a>
                             <!-- Start Dropdown Menu -->
                             <ul class="object-submenu">
-                                <li><a href="#"><span>Quesillo</span></a></li>
-                                <li><a href="#"><span>Queso Cuajada Pasteurizada</span></a></li>
-                                <li><a href="#"><span>Queso Picado Salado</span></a></li>
+                                    <li><a href="quesillo.php"><span>Quesillo</span></a></li>
+                                    <li><a href="queso-cuajada.php"><span>Queso Cuajada Pasteurizada</span></a></li>
+                                    <li><a href="queso-picado-salado.php"><span>Queso Picado Salado</span></a></li>
+                                    <li><a href="queso-tipo-cheddar.php"><span>Queso Tipo Cheddar</span></a></li>
+                                    <li><a href="queso-finas-hierbas.php"><span>Queso Finas Hierbas</span></a></li>
+                                    <li><a href="queso-fiesta.php"><span>Queso Fiesta</span></a></li>
                             </ul>
                         </li>
                         <li><a href="novedades.php"><span>Novedades</span></a></li>
@@ -84,12 +87,15 @@
                         <ul class="mainmenu">
                             <li class="lavel-1"><a href="index.php"><span>Inicio</span></a></li>
                             <li class="lavel-1"><a href="acerca.php"><span>Acerca</span></a></li>
-                            <li class="lavel-1 with--drop slide-dropdown"><a href="#"><span>Productos</span></a>
+                            <li class="lavel-1 with--drop slide-dropdown"><a href="productos.php"><span>Productos</span></a>
                                 <!-- Start Dropdown Menu -->
                                 <ul class="dropdown__menu">
-                                    <li><a href="#"><span>Quesillo</span></a></li>
-                                    <li><a href="#"><span>Queso Cuajada Pasteurizada</span></a></li>
-                                    <li><a href="#"><span>Queso Picado Salado</span></a></li>
+                                    <li><a href="quesillo.php"><span>Quesillo</span></a></li>
+                                    <li><a href="queso-cuajada.php"><span>Queso Cuajada Pasteurizada</span></a></li>
+                                    <li><a href="queso-picado-salado.php"><span>Queso Picado Salado</span></a></li>
+                                    <li><a href="queso-tipo-cheddar.php"><span>Queso Tipo Cheddar</span></a></li>
+                                    <li><a href="queso-finas-hierbas.php"><span>Queso Finas Hierbas</span></a></li>
+                                    <li><a href="queso-fiesta.php"><span>Queso Fiesta</span></a></li>
                                 </ul>
                                 <!-- End Dropdown Menu -->
                             </li>
