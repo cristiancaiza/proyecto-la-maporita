@@ -54,7 +54,7 @@
                                 <h2 class="widgettitle">Galería</h2>
 
                                 <div class="ft-instagram-list">
-                                      <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="https://cdn.lightwidget.com/widgets/e15a87c9087952f7baf89349b0071378.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+                                    
                                 </div>
                             </div>
                         </div>
