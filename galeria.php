@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Gallery || Brook Multipurpose Bootstrap4 Template</title>
+    <title>Galería || Industria de Lácteos, La Maporita</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="css/plugins.css">
 
     <!-- Style Css -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="scss/style.css">
 
     <!-- Custom Styles -->
     <link rel="stylesheet" href="css/custom.css">
