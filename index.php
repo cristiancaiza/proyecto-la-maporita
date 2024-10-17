@@ -285,19 +285,6 @@
                 </div>
             </div>
             <!-- End Best Service -->
-
-            <!-- Start Portfolio Caption -->
-           
-            <!-- End Portfolio Caption -->
-
-            <!-- Start Product Area -->
-            
-            <!-- End Product Area -->
-
-            <!-- Start Portfolio Area -->
-            
-            <!-- End Portfolio Area -->
-
             <!-- Start Blog Area -->
             <div class="bk-blog-area pt--50 pt_md--40 pt_sm--30 clearfix bg_color--3">
                 <div class="container">
