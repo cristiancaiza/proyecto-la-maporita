@@ -21,6 +21,20 @@
 
     <!-- Custom Styles -->
     <link rel="stylesheet" href="css/custom.css">
+    <!-- css galeria -->
+    <style>
+        .gallery_ {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 10px;
+        }
+        .gallery_ img {
+            width: 100%;
+            height: auto;
+            object-fit: cover;
+        }
+    </style>
+     <!-- css end galeria -->
 </head>
 
 <body class="template-color-1 template-font-1">
@@ -145,6 +159,8 @@
                 </div>
             </div>
             <!-- End Gallery Area -->
+
+            
              <!-- Start Call To Action -->
             <div class="brook-call-to-action bg_color--43 ptb--70">
                 <div class="container">
