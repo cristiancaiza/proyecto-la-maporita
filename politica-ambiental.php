@@ -67,10 +67,8 @@ Como reconocimiento a la calidad de productos comprometidos con la conservación
             </div>
         </div>
         <!-- End Breadcaump Area -->
-
         <!-- Page Conttent -->
         <main class="page-content">
-
             <!-- Start Work area -->
             <div class="brook-whatdo-area ptb--150 ptb-md--80 ptb-sm--60 bg_color--3">
                 <div class="container">
@@ -78,7 +76,7 @@ Como reconocimiento a la calidad de productos comprometidos con la conservación
                         <div class="col-lg-12 mt_sm--40 mt_md--40 texto-blanco">
                             <div class="bk-title--default text-start">
                                 <!--<div class="bkseparator--30"></div>-->
-                                <p class="bk_pr wow move-up pr--40">Tras este compromiso de mantener el equilibrio en el ecosistema y brindar a sus territorios oportunidades de desarrollo agroindustrial, orientamos la producción de nuestros proveedores de manera responsable, a través de:</p>
+                                <p class="wow move-up pr--40">Tras este compromiso de mantener el equilibrio en el ecosistema y brindar a sus territorios oportunidades de desarrollo agroindustrial, orientamos la producción de nuestros proveedores de manera responsable, a través de:</p>
                             </div>
                             <div class="row">
                                 <!-- Start Single -->
@@ -86,7 +84,7 @@ Como reconocimiento a la calidad de productos comprometidos con la conservación
                                     <div class="what-do mt--30">
                                         <div class="content">
                                             <div class="bkseparator--20"></div>
-                                            <p class="bk_pra wow move-up pr--40">✓  Implementar un sistema de Gestión ambiental SGA que permita establecer una estructura ambiental encaminada a controlar y mitigar prácticas que puedan producir efectos negativos en el medio ambiente.</p>
+                                            <p class="wow move-up pr--40">✓  Implementar un sistema de Gestión ambiental SGA que permita establecer una estructura ambiental encaminada a controlar y mitigar prácticas que puedan producir efectos negativos en el medio ambiente.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -96,7 +94,7 @@ Como reconocimiento a la calidad de productos comprometidos con la conservación
                                     <div class="what-do mt--30">
                                         <div class="content">
                                             <div class="bkseparator--20"></div>
-                                            <p class="bk_pra wow move-up pr--40">✓ Una adecuada clasificación de los residuos, sensibilizando a todos los actores sobre la importancia de hacerlo.</p>
+                                            <p class=" wow move-up pr--40">✓ Una adecuada clasificación de los residuos, sensibilizando a todos los actores sobre la importancia de hacerlo.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -106,7 +104,7 @@ Como reconocimiento a la calidad de productos comprometidos con la conservación
                                     <div class="what-do mt--30">
                                         <div class="content">
                                             <div class="bkseparator--20"></div>
-                                            <p class="bk_pra wow move-up pr--40">✓ Dar cumplimiento a las responsabilidades ambientales, enmarcadas en la legislación ambiental vigente en el país.</p>
+                                            <p class="wow move-up pr--40">✓ Dar cumplimiento a las responsabilidades ambientales, enmarcadas en la legislación ambiental vigente en el país.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -116,16 +114,14 @@ Como reconocimiento a la calidad de productos comprometidos con la conservación
                                     <div class="what-do mt--30">
                                         <div class="content">
                                             <div class="bkseparator--20"></div>
-                                            <p class="bk_pra wow move-up pr--40">✓ Sensibilizar a nuestro personal, proveedores, contratistas y clientes, sobre el compromiso con el medio ambiente, por medio de estrategias de concientización en el consumo de los recursos ambientales, al optimizar las acciones, generando mejoras y modernización en los equipos por modelos más eficientes.</p>
+                                            <p class="wow move-up pr--40">✓ Sensibilizar a nuestro personal, proveedores, contratistas y clientes, sobre el compromiso con el medio ambiente, por medio de estrategias de concientización en el consumo de los recursos ambientales, al optimizar las acciones, generando mejoras y modernización en los equipos por modelos más eficientes.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <!-- End Single -->
-
                             </div>
                         </div>
                     </div>
-
                 </div>
             </div>
             <!-- End Work area -->
