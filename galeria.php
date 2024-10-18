@@ -36,12 +36,12 @@
             include_once 'header.php';
         ?>
         <!-- Start Breadcaump Area -->
-        <div class="breadcaump-area pt--400 pt_lg--300 pt_md--250 pt_sm--200 pb--100 bg_image--8 breadcaump-title-bar breadcaump-title-white bg_color--3">
+        <div class="brook-breadcaump-area pt--300 pt_md--250 pt_sm--200 pb--300 pb_md--250 pb_sm--200 bg_image--133 breadcaump-title-bar breadcaump-title-white" data-black-overlay="5">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="breadcaump-inner text-center">
-                            <h2 class="heading">Galería</h2>
+                            <h2 class="heading heading-h2 font-60 text-white">Galería</h2>
                         </div>
                     </div>
                 </div>
