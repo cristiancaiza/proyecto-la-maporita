@@ -121,6 +121,26 @@
                                                     <!--<i class="fa fa-cow text-white"></i>-->
                                                 </div>
                                                 <div class="content">
+                                                    <div class="container_textos">
+                                                    <!--style-->
+                                                    <style>
+                                                        .container_textos{
+                                                            display: flex;
+                                                            align-items: center;
+                                                            background-color: #1a1a1a;
+                                                            padding: 20px;
+                                                        }
+                                                        .iconos-home-1 img {
+                                                                width: 40px; /* Ajusta el tamaño del ícono según sea necesario */
+                                                                height: auto;
+                                                                margin-right: 15px;
+                                                            }
+                                                    </style>
+                                                    <!--style fin-->
+                                                            <div class="iconos-home-1">
+                                                                <img src="img/iconos/vaca@2x.png" alt="Icono Vaca">
+                                                            </div>
+                                                        </div>
                                                     <h4 class="text-white">Leche de alta Calidad</h4>
                                                     <p class="bk_pra heading-font pr--40 text-white">Contamos con un clima y pasturas óptimas para la producción de leche con un alto valor nutricional.</p>
                                                 </div>
@@ -414,7 +434,6 @@
                                                     alt="logo image"></a> </div>
                                         <div class="brand"><a href="#"><img src="img/home/afiliados/afiliado-4.png"
                                                     alt="logo image"></a> </div>
-
                                     </div>
                                 </div>
                             </div>
@@ -424,7 +443,6 @@
             </div>
             
             <!-- End afiliados -->
-
             <!-- Start Call To Action -->
             <div class="brook-call-to-action bg_color--43 ptb--70">
                 <div class="container">
