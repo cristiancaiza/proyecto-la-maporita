@@ -125,8 +125,6 @@
                                                 </div>
                                                 <div class="content">
                                                     <div class="container_textos">
-                                                        <!--style-->
-                                                        <!--style fin-->
                                                         <h4 class="text-white">Leche de alta Calidad</h4>
                                                     </div>
                                                     <p class="bk_pra heading-font pr--40 text-white">Contamos con un clima y pasturas óptimas para la producción de leche con un alto valor nutricional.</p>
@@ -136,40 +134,55 @@
                                         <!-- End Single Speach -->
                                         <!-- Strat Single Speach -->
                                         <div class="col-lg-12 col-xl-6 col-12 mt_lg--40 mt_md--30 mt_sm--30">
-                                            <div class="single-motive-speach wow move-up animate" style="visibility: visible; opacity: 0;">
+                                        <div class="single-motive-speach wow move-up animate" style="visibility: visible; opacity: 0;">
                                                 <div class="icon">
-                                                    <!--<i class="ion-monitor text-white"></i>-->
+                                                    <!-- Icono dentro del div.icon -->
+                                                    <span class="iconos-home-1">
+                                                        <img src="img/iconos/vaca@2x.png" alt="Icono Vaca">
+                                                    </span>
                                                 </div>
                                                 <div class="content">
-                                                    <h4 class="text-white">Rentable y Sostenible</h4>
-                                                    <p class="bk_pra heading-font pr--40 text-white">Capacitamos al campesino con buenas prácticas de ordeño, reconversión ganadera y rotación de potreros.</p>
-                                                </div>
+                                                    <div class="container_textos">
+                                                        <h4 class="text-white">Leche de alta Calidad</h4>
+                                                    </div>
+                                                    <p class="bk_pra heading-font pr--40 text-white">Contamos con un clima y pasturas óptimas para la producción de leche con un alto valor nutricional.</p>
+                                                </div> 
                                             </div>
                                         </div>
                                         <!-- End Single Speach -->
                                         <!-- Strat Single Speach -->
                                         <div class="col-lg-12 col-xl-6 col-12 mt--70 mt_lg--40 mt_md--30 mt_sm--30">
-                                            <div class="single-motive-speach wow move-up animate" style="visibility: visible; opacity: 0;">
+                                        <div class="single-motive-speach wow move-up animate" style="visibility: visible; opacity: 0;">
                                                 <div class="icon">
-                                                    <!--<i class="ion-ios-baseball-outline text-white"></i>-->
+                                                    <!-- Icono dentro del div.icon -->
+                                                    <span class="iconos-home-1">
+                                                        <img src="img/iconos/vaca@2x.png" alt="Icono Vaca">
+                                                    </span>
                                                 </div>
                                                 <div class="content">
-                                                    <h4 class="text-white">Denominación de Origen</h4>
-                                                    <p class="bk_pra heading-font pr--40 text-white">"Queso del Caquetá", productos con denominación origen protegida.</p>
-                                                </div>
+                                                    <div class="container_textos">
+                                                        <h4 class="text-white">Leche de alta Calidad</h4>
+                                                    </div>
+                                                    <p class="bk_pra heading-font pr--40 text-white">Contamos con un clima y pasturas óptimas para la producción de leche con un alto valor nutricional.</p>
+                                                </div> 
                                             </div>
                                         </div>
                                         <!-- End Single Speach -->
                                         <!-- Strat Single Speach -->
                                         <div class="col-lg-12 col-xl-6 col-12 mt--70 mt_lg--40 mt_md--30 mt_sm--30">
-                                            <div class="single-motive-speach wow move-up animate" style="visibility: visible; opacity: 0;">
+                                        <div class="single-motive-speach wow move-up animate" style="visibility: visible; opacity: 0;">
                                                 <div class="icon">
-                                                    <!--<i class="ion-pinpoint text-white"></i>-->
+                                                    <!-- Icono dentro del div.icon -->
+                                                    <span class="iconos-home-1">
+                                                        <img src="img/iconos/vaca@2x.png" alt="Icono Vaca">
+                                                    </span>
                                                 </div>
                                                 <div class="content">
-                                                    <h4 class="text-white">Producto tipo Gourmet</h4>
-                                                    <p class="bk_pra heading-font pr--40 text-white">Por sus altos indices de calidad, su exquisita textura y facilidad de gratinado, un producto fino en su categoría.</p>
-                                                </div>
+                                                    <div class="container_textos">
+                                                        <h4 class="text-white">Leche de alta Calidad</h4>
+                                                    </div>
+                                                    <p class="bk_pra heading-font pr--40 text-white">Contamos con un clima y pasturas óptimas para la producción de leche con un alto valor nutricional.</p>
+                                                </div> 
                                             </div>
                                         </div>
                                         <!-- End Single Speach -->
