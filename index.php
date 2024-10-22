@@ -143,9 +143,9 @@
                                                 </div>
                                                 <div class="content">
                                                     <div class="container_textos">
-                                                        <h4 class="text-white">Leche de alta Calidad</h4>
+                                                        <h4 class="text-white">Rentable y Sostenible</h4>
                                                     </div>
-                                                    <p class="bk_pra heading-font pr--40 text-white">Contamos con un clima y pasturas óptimas para la producción de leche con un alto valor nutricional.</p>
+                                                    <p class="bk_pra heading-font pr--40 text-white">Capacitamos al campesino con buenas prácticas de ordeño, reconversión ganadera y rotación de potreros.</p>
                                                 </div> 
                                             </div>
                                         </div>
@@ -161,9 +161,9 @@
                                                 </div>
                                                 <div class="content">
                                                     <div class="container_textos">
-                                                        <h4 class="text-white">Leche de alta Calidad</h4>
+                                                        <h4 class="text-white">Denominación de Origen</h4>
                                                     </div>
-                                                    <p class="bk_pra heading-font pr--40 text-white">Contamos con un clima y pasturas óptimas para la producción de leche con un alto valor nutricional.</p>
+                                                    <p class="bk_pra heading-font pr--40 text-white">"Queso del Caquetá", productos con denominación origen protegida.</p>
                                                 </div> 
                                             </div>
                                         </div>
@@ -179,9 +179,9 @@
                                                 </div>
                                                 <div class="content">
                                                     <div class="container_textos">
-                                                        <h4 class="text-white">Leche de alta Calidad</h4>
+                                                        <h4 class="text-white">Producto tipo Gourmet</h4>
                                                     </div>
-                                                    <p class="bk_pra heading-font pr--40 text-white">Contamos con un clima y pasturas óptimas para la producción de leche con un alto valor nutricional.</p>
+                                                    <p class="bk_pra heading-font pr--40 text-white">Por sus altos indices de calidad, su exquisita textura y facilidad de gratinado, un producto fino en su categoría.</p>
                                                 </div> 
                                             </div>
                                         </div>
