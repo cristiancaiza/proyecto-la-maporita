@@ -28070,7 +28070,7 @@ header.br_header.header-default.header-fixed {
 }
 .single-motive-speach .icon {
   font-size: 40px;
-  margin-right: 20px;
+  /**margin-right: 20px;**/
   display: inline-block;
   flex-shrink: 0;
 }
@@ -28106,6 +28106,30 @@ header.br_header.header-default.header-fixed {
 }
 .single-motive-speach.theme-color-2 .icon i {
   color: #0069FF;
+}
+
+.container_textos {
+  display: flex;
+  align-items: center;
+}
+
+.container_textos h4 {
+  margin: 0; /* Elimina cualquier margen predeterminado en el h4 */
+}
+
+.iconos-home-1 {
+  margin-right: 10px;
+}
+
+.iconos-home-1 img {
+  width: 40px; /* Ajusta el tamaño del icono según sea necesario */
+  height: auto; /* Mantiene la proporción de la imagen */
+}
+
+/* Estilos adicionales para el contenedor del icono */
+.icon {
+  display: flex;
+  align-items: center;
 }
 
 /* ======================

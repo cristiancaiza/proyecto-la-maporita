@@ -118,32 +118,19 @@
                                         <div class="col-lg-12 col-xl-6 col-12">
                                             <div class="single-motive-speach wow move-up animate" style="visibility: visible; opacity: 0;">
                                                 <div class="icon">
-                                                    <!--<i class="fa fa-cow text-white"></i>-->
+                                                    <!-- Icono dentro del div.icon -->
+                                                    <span class="iconos-home-1">
+                                                        <img src="img/iconos/vaca@2x.png" alt="Icono Vaca">
+                                                    </span>
                                                 </div>
                                                 <div class="content">
                                                     <div class="container_textos">
-                                                    <!--style-->
-                                                    <style>
-                                                        .container_textos{
-                                                            display: flex;
-                                                            align-items: center;
-                                                            background-color: #1a1a1a;
-                                                            padding: 20px;
-                                                        }
-                                                        .iconos-home-1 img {
-                                                                width: 40px; /* Ajusta el tamaño del ícono según sea necesario */
-                                                                height: auto;
-                                                                margin-right: 15px;
-                                                            }
-                                                    </style>
-                                                    <!--style fin-->
-                                                            <div class="iconos-home-1">
-                                                                <img src="img/iconos/vaca@2x.png" alt="Icono Vaca">
-                                                            </div>
-                                                        </div>
-                                                    <h4 class="text-white">Leche de alta Calidad</h4>
+                                                        <!--style-->
+                                                        <!--style fin-->
+                                                        <h4 class="text-white">Leche de alta Calidad</h4>
+                                                    </div>
                                                     <p class="bk_pra heading-font pr--40 text-white">Contamos con un clima y pasturas óptimas para la producción de leche con un alto valor nutricional.</p>
-                                                </div>
+                                                </div> 
                                             </div>
                                         </div>
                                         <!-- End Single Speach -->
