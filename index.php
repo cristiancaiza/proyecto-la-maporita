@@ -298,9 +298,9 @@ $page_title = "Industria de Lácteos | La Maporita";
                                 </div>
                                 <div class="content">
                                     <h4>Sostenibilidad</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                                    <p>Impulsamos la sostenibilidad a través de nuestro acompañamiento técnico y veterinario, apoyando a las fincas locales para que se conviertan en empresas familiares sostenibles. Trabajamos junto a los productores para implementar prácticas responsables que cuiden del medio ambiente, optimicen recursos y aseguren el bienestar animal.
                                     </p>
-                                    <a class="service-btn" href="#"><span>Conoce más</span> <i class="fa fa-arrow-right"></i></a>
+                                    <!--<a class="service-btn" href="#"><span>Conoce más</span> <i class="fa fa-arrow-right"></i></a>-->
                                 </div>
                             </div>
                         </div>
