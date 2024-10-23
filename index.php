@@ -1,12 +1,17 @@
 <!doctype html>
-<html lang="es" class="no-js" lang="zxx">
+<html lang="es" class="no-js">
 <head> 
     <meta name="robots" content="noindex, nofollow">
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Industria de Lácteos | La Maporita</title>
     <meta name="description" content="Somos una empresa familiar dedicada a la producción de derivados lácteos en el Caquetá. Impulsamos la industria colombiana y llevamos el mejor queso con el sello de Denominación de Origen Queso del Caquetá y la Marca Colectiva QC.">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> 
+    <meta name="keywords" content="queso, lácteos, derivados lácteos, Caquetá, Colombia, Queso del Caquetá, queso artesanal">
+    <meta property="og:title" content="Industria de Lácteos | La Maporita">
+    <meta property="og:description" content="Empresa dedicada a la producción de derivados lácteos con Denominación de Origen en el Caquetá.">
+    <meta property="og:image" content="url_del_logo_o_imagen_destacada.jpg">
+    <meta property="og:url" content="url_de_la_pagina">
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="img/favicon/android-icon-192x192.png">
@@ -101,7 +106,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-6">
                             <div class="about-thumb text-center text-lg-end pr--100 pr_md--15 pr_sm--15">
-                                <img src="img/home/queso-caqueta-hilado-artesanal.jpg" alt="Queso Caqueta Hilado Artesanal">
+                                <img src="img/home/queso-caqueta-hilado-artesanal.jpg" alt="Queso Caqueta Hilado Artesanal" loading="lazy">
                             </div>
                         </div>
                         <div class="col-lg-6 ">
