@@ -120,7 +120,7 @@
                                                 <div class="icon">
                                                     <!-- Icono dentro del div.icon -->
                                                     <span class="iconos-home-1">
-                                                        <img src="img/iconos/vaca@2x.png" alt="Icono Vaca">
+                                                        <img src="img/iconos/calidad-leche.png" alt="Calidad Leche">
                                                     </span>
                                                 </div>
                                                 <div class="content">
@@ -138,7 +138,7 @@
                                                 <div class="icon">
                                                     <!-- Icono dentro del div.icon -->
                                                     <span class="iconos-home-1">
-                                                        <img src="img/iconos/vaca@2x.png" alt="Icono Vaca">
+                                                        <img src="img/iconos/rentable-y-sostenible.png" alt="Rentable y Sostenible">
                                                     </span>
                                                 </div>
                                                 <div class="content">
@@ -156,7 +156,7 @@
                                                 <div class="icon">
                                                     <!-- Icono dentro del div.icon -->
                                                     <span class="iconos-home-1">
-                                                        <img src="img/iconos/vaca@2x.png" alt="Icono Vaca">
+                                                        <img src="img/iconos/denominacion-de-origen.png" alt="Denominación de Origen">
                                                     </span>
                                                 </div>
                                                 <div class="content">
@@ -174,7 +174,7 @@
                                                 <div class="icon">
                                                     <!-- Icono dentro del div.icon -->
                                                     <span class="iconos-home-1">
-                                                        <img src="img/iconos/vaca@2x.png" alt="Icono Vaca">
+                                                        <img src="img/iconos/gourmet.png" alt="Gourmet">
                                                     </span>
                                                 </div>
                                                 <div class="content">
