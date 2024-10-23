@@ -1,16 +1,29 @@
+<?php 
+/*Variables*/
+$meta_description = "Somos una empresa familiar dedicada a la producción de derivados lácteos en el Caquetá. Impulsamos la industria colombiana y llevamos el mejor queso con el sello de Denominación de Origen Queso del Caquetá y la Marca Colectiva QC.";
+$meta_keywords = "queso, lácteos, derivados lácteos, Caquetá, Colombia, Queso del Caquetá, queso artesanal";
+$og_title = "Industria de Lácteos | La Maporita";
+$og_description = "Empresa dedicada a la producción de derivados lácteos con Denominación de Origen en el Caquetá.";
+$og_image = "img/home/queso-caqueta-hilado-artesanal.jpg";
+$og_url = "https://lacteoslamaporita.com/"; 
+
+$page_title = "Industria de Lácteos | La Maporita";
+/*Variables*/
+?>
+
 <!doctype html>
 <html lang="es" class="no-js">
 <head> 
     <meta name="robots" content="noindex, nofollow">
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Industria de Lácteos | La Maporita</title>
-    <meta name="description" content="Somos una empresa familiar dedicada a la producción de derivados lácteos en el Caquetá. Impulsamos la industria colombiana y llevamos el mejor queso con el sello de Denominación de Origen Queso del Caquetá y la Marca Colectiva QC.">
+    <title><?= $page_title ?></title>
+    <meta name="description" content="<?= $meta_description ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> 
-    <meta name="keywords" content="queso, lácteos, derivados lácteos, Caquetá, Colombia, Queso del Caquetá, queso artesanal">
-    <meta property="og:title" content="Industria de Lácteos | La Maporita">
-    <meta property="og:description" content="Empresa dedicada a la producción de derivados lácteos con Denominación de Origen en el Caquetá.">
-    <meta property="og:image" content="url_del_logo_o_imagen_destacada.jpg">
+    <meta name="keywords" content="<?= $meta_keywords ?>">
+    <meta property="og:title" content="<?= $og_title ?>">
+    <meta property="og:description" content="<?= $og_description ?>">
+    <meta property="og:image" content="<?= $og_image ?>">
     <meta property="og:url" content="url_de_la_pagina">
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
@@ -80,7 +93,43 @@
                                 style="z-index: 6; min-width: 630px; max-width: 630px; white-space: normal; font-size: 0px; font-weight: 700; color: #ffffff; letter-spacing: 0px;"><span class="texto-slider-home" style="font-weight:200; font-size: 40%;">Con Calidad y mucho amor</span>
                                 <span style="font-size:80px; padding: 40px 0px 20px 0px; display: block;">La Maporita</span><span style="display:block; padding:20px 0px 0px 0px !important; font-weight:200; font-size: 40%;">Se convierte en un experiencia, para llevarte lo mejor de nuestra tierra Caqueteña.</span>
                             </div> -->
-                            <!-- LAYER NR. 3 -->
+                            <!-- LAYER NR. 3  boton conocer mas-->
+                            <a class="tp-caption rev-btn   smooth-scroll-link" href="#section-about" target="_self" id="slide-16-layer-24"
+                                data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']"
+                                data-voffset="['140','140','140','100']" data-width="160" data-height="55"
+                                data-whitespace="normal" data-type="button" data-actions='' data-responsive_offset="on"
+                                data-responsive="off" data-frames='[{"delay":1000,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(255,255,255);bg:rgb(34,34,34);transform:translateY(-3px);"}]'
+                                data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
+                                data-paddingright="[20,20,20,20]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[20,20,20,20]"
+                                style="z-index: 7; min-width: 160px; max-width: 160px; max-width: 55px; max-width: 55px; white-space: normal; font-size: 16px; line-height: 55px; font-weight: 700; color: #222222; letter-spacing: 0px;background-color:rgb(247,211,141);border-radius:0px 0px 0px 0px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;text-decoration: none;">Conoce más <i class="fa fa-sharp fa-regular fa-angle-right"></i>
+                            </a>
+                        </li>
+                        <!--slide 2-->
+                        <li data-index="rs-17" data-transition="incube,incube-horizontal,turnoff-vertical,turnoff"
+                            data-slotamount="default,default,default,default" data-hideafterloop="0"
+                            data-hideslideonmobile="off" data-easein="default,default,default,default" data-easeout="default,default,default,default"
+                            data-masterspeed="default,default,default,default" data-thumb="img/revoulation/100x50_slider-authentic-studio-slide-02-bg.jpg"
+                            data-rotate="0,0,0,0" data-saveperformance="off" data-title="Slide" data-param1="02"
+                            data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7=""
+                            data-param8="" data-param9="" data-param10="" data-description="">
+                            <!-- MAIN IMAGE -->
+                            <img src="img/home/slider/slider1.jpg" alt="" data-bgposition="center center"
+                                data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                            <!-- LAYERS -->
+
+                            <!-- LAYER NR. 5 
+                            <div class="tp-caption   tp-resizeme" id="slide-17-layer-1" data-x="['center','center','center','center']"
+                                data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']"
+                                data-voffset="['-25','-28','-28','-10']" data-fontsize="['80','60','45','30']"
+                                data-lineheight="['90','67','50','34']" data-width="['630','630','620','380']"
+                                data-height="['none','135','none','none']" data-whitespace="normal" data-type="text"
+                                data-responsive_offset="on" data-frames='[{"delay":700,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
+                                data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                                style="z-index: 6; min-width: 1180px; max-width: 1180px; white-space: normal; font-size: 80px; line-height: 90px; font-weight: 700; color: #ffffff; letter-spacing: 0px;">the food <br>
+                                heaven</div>
+                                -->
+                            <!-- LAYER NR. 6 boton conocer mas-->
                             <a class="tp-caption rev-btn   smooth-scroll-link" href="#section-about" target="_self" id="slide-16-layer-24"
                                 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']"
                                 data-voffset="['140','140','140','100']" data-width="160" data-height="55"
