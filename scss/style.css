@@ -981,7 +981,7 @@ Animation Css
 }
 
 .creative-color {
-  color: #FE378C;
+  color: #FFC851;
 }
 
 .red-color {
@@ -13329,14 +13329,14 @@ Blog Default Style
   background-image: linear-gradient(-133deg, #FE5B34 0, #FE378C 100%);
 }
 .blog.blog-style--2.creative--blog .blog-content::before {
-  background-color: #FE378C;
-  background-image: linear-gradient(-133deg, #FE5B34 0, #FE378C 100%);
+  background-color: #f7d38d;
+  /*background-image: linear-gradient(-133deg,#FE5B34 0,#FE378C 100%);*/
 }
 .blog.blog-style--2.creative--blog .blog-content .content ul.meta li a:hover {
-  color: #FE378C;
+  color: #FFC851;
 }
 .blog.blog-style--2.creative--blog .blog-content .content h3.the-title a:hover {
-  color: #FE378C;
+  color: #FFC851;
 }
 .blog.blog-style--2:hover {
   transform: translateY(-5px);

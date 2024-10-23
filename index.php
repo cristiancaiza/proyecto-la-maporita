@@ -266,9 +266,9 @@ $page_title = "Industria de Lácteos | La Maporita";
                                 </div>
                                 <div class="content">
                                     <h4>Calidad</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                                    <p>La calidad de nuestros quesos comienza con la excelencia de la leche que utilizamos. Proveniente de vacas criadas bajo estrictas buenas prácticas ganaderas, garantizamos su bienestar y alimentación natural.
                                     </p>
-                                    <a class="service-btn" href="#"><span>Conoce más</span> <i class="fa fa-arrow-right"></i></a>
+                                    <!--<a class="service-btn" href="#"><span>Conoce más</span> <i class="fa fa-arrow-right"></i></a>-->
                                 </div>
                             </div>
                         </div>
@@ -282,9 +282,9 @@ $page_title = "Industria de Lácteos | La Maporita";
                                 </div>
                                 <div class="content">
                                     <h4>Tradición</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                                    <p>Cada queso es una obra artesanal que honra la tradición de lo hecho a mano, reflejan el esmero y la dedicación que ponemos en cada paso, manteniendo viva la esencia de lo auténtico y natural.
                                     </p>
-                                    <a class="service-btn" href="#"><span>Conoce más</span> <i class="fa fa-arrow-right"></i></a>
+                                    <!--<a class="service-btn" href="#"><span>Conoce más</span> <i class="fa fa-arrow-right"></i></a>-->
                                 </div>
                             </div>
                         </div>
@@ -371,7 +371,7 @@ $page_title = "Industria de Lácteos | La Maporita";
                             <div class="bkseparator--40"></div>
                             <div class="section-title--between wow move-up">
                                 <div class="section-btn mt_mobile--30">
-                                    <a class="button-text" href="#"><span>Ver más</span><i class="fa fa-arrow-right"></i></a>
+                                    <a class="button-text" href="novedades.php"><span>Ver más</span><i class="fa fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
