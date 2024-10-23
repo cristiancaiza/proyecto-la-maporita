@@ -376,23 +376,20 @@ $page_title = "Industria de Lácteos | La Maporita";
                             </div>
                         </div>
                     </div>
-
                     <div class="row mt--40">
-
                         <!-- Start Single Portfolio -->
                         <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
                             <div class="blog blog-style--2 creative--blog">
                                 <!-- Swip Slide -->
                                 <div class="thumb">
-                                    <a href="blog-details.html"><img src="img/home/blog/blog-1.jpg" alt="La Maporita"></a>
+                                    <a href="novedades.php"><img src="img/home/blog/blog-1.jpg" alt="La Maporita"></a>
                                 </div>
-
                                 <div class="blog-content">
                                     <div class="content">
-                                        <h3 class="the-title"><a href="blog-details.html">Día mundial de la leche</a></h3>
+                                        <h3 class="the-title"><a href="novedades.php">Día mundial de la leche</a></h3>
                                         <ul class="meta">
                                             <li>Enero 7, 2024</li>
-                                            <li><a href="#">Categoría</a></li>
+                                            <li><a href="novedades.php">Categoría</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -404,14 +401,14 @@ $page_title = "Industria de Lácteos | La Maporita";
                         <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
                             <div class="blog blog-style--2 creative--blog">
                                 <div class="thumb">
-                                    <a href="blog-details.html"><img src="img/home/blog/blog-4.jpg" alt="Blog Images"></a>
+                                    <a href="novedades.php"><img src="img/home/blog/blog-4.jpg" alt="Blog Images"></a>
                                 </div>
                                 <div class="blog-content">
                                     <div class="content">
-                                        <h3 class="the-title"><a href="blog-details.html">Unión Europea visita La Maporita</a></h3>
+                                        <h3 class="the-title"><a href="novedades.php">Unión Europea visita La Maporita</a></h3>
                                         <ul class="meta">
                                             <li>Enero 7, 2024</li>
-                                            <li><a href="#">Categoría</a></li>
+                                            <li><a href="novedades.php">Categoría</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -422,14 +419,14 @@ $page_title = "Industria de Lácteos | La Maporita";
                         <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
                             <div class="blog blog-style--2 creative--blog">
                                 <div class="thumb">
-                                    <a href="blog-details.html"><img src="img/home/blog/blog-2.jpg" alt="Blog Images"></a>
+                                    <a href="novedades.php"><img src="img/home/blog/blog-2.jpg" alt="Blog Images"></a>
                                 </div>
                                 <div class="blog-content">
                                     <div class="content">
-                                        <h3 class="the-title"><a href="blog-details.html">Premio Nacional del Queso 2023</a></h3>
+                                        <h3 class="the-title"><a href="novedades.php">Premio Nacional del Queso 2023</a></h3>
                                         <ul class="meta">
                                             <li>Enero 7, 2024</li>
-                                            <li><a href="#">Categoría</a></li>
+                                            <li><a href="novedades.php">Categoría</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -441,14 +438,14 @@ $page_title = "Industria de Lácteos | La Maporita";
                         <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
                             <div class="blog blog-style--2 creative--blog">
                                 <div class="thumb">
-                                    <a href="blog-details.html"><img src="img/home/blog/blog-1.jpg" alt="Blog Images"></a>
+                                    <a href="novedades.php"><img src="img/home/blog/blog-1.jpg" alt="Blog Images"></a>
                                 </div>
                                 <div class="blog-content">
                                     <div class="content">
-                                        <h3 class="the-title"><a href="blog-details.html">Día Mundial de la Leche</a></h3>
+                                        <h3 class="the-title"><a href="novedades.php">Día Mundial de la Leche</a></h3>
                                         <ul class="meta">
                                             <li>Enero 9, 2024</li>s
-                                            <li><a href="#">Categoría</a></li>
+                                            <li><a href="novedades.php">Categoría</a></li>
                                         </ul>
                                     </div>
                                 </div>
