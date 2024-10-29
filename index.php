@@ -298,7 +298,7 @@ $page_title = "Industria de Lácteos | La Maporita";
                                 </div>
                                 <div class="content">
                                     <h4>Sostenibilidad</h4>
-                                    <p>Impulsamos la sostenibilidad a través de nuestro acompañamiento técnico y veterinario, apoyando a las fincas locales para que se conviertan en empresas familiares sostenibles. Trabajamos junto a los productores para implementar prácticas responsables que cuiden del medio ambiente, optimicen recursos y aseguren el bienestar animal.
+                                    <p>Brindamos apoyo técnico y veterinario para transformar fincas locales en negocios familiares sostenibles. Junto a nuestros productores, implementamos prácticas que cuidan el medio ambiente, maximizan recursos y aseguran el bienestar animal.
                                     </p>
                                     <!--<a class="service-btn" href="#"><span>Conoce más</span> <i class="fa fa-arrow-right"></i></a>-->
                                 </div>

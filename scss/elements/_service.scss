@@ -5,6 +5,10 @@
 .service{
     &.service--1{
         &.theme-color{
+            background-image: url('../img/fondos/textura-slots-home.png')!important;
+            background-size: cover; /* Hace que la imagen cubra todo el contenedor */
+            background-position: center; /* Centra la imagen en el contenedor */
+            background-repeat: no-repeat; /* Evita que la imagen se repita */
             background: $theme-color;
             &::before{
                 border: 1px solid #000;
@@ -31,6 +35,7 @@
                 }
             }
         }
+        height: 460px;
         position: relative;
         padding: 60px 35px 64px;
         background: #fff;
@@ -112,6 +117,14 @@
                     }
                 }
             }
+        }
+
+        @media #{$sm-layout} {
+            min-height: 100px; 
+         }
+
+        @media #{$md-layout} {
+           min-height: 300px; 
         }
     }
     &.bg-transparent{
