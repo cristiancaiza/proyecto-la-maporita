@@ -150,7 +150,7 @@ $page_title = "Industria de Lácteos | La Maporita";
         <!-- Page Conttent -->
         <main class="page-content">
             <!-- Start About Area -->
-            <div class="brook-about-area pt--120 pt_md--80 pt_sm--60 bg_color--3">
+            <div class="textura-1 brook-about-area pt--120 pt_md--80 pt_sm--60 bg_color--3">
                 <div class="container-fluid plr--180 plr_lg--100 plr_md--50 plr_sm--50">
                     <div class="row align-items-center">
                         <div class="col-lg-6">
