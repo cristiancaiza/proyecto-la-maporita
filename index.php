@@ -255,7 +255,7 @@ $page_title = "Industria de Lácteos | La Maporita";
             <!-- End About Area -->
 
             <!-- Start Service Area -->
-            <div class="bk-service-area pt--90 pt_md--50 pt_sm--30 pb--120 pb_md--80 pb_sm--60 bg_color--3">
+            <div class="textura-2 bk-service-area pt--90 pt_md--50 pt_sm--30 pb--120 pb_md--80 pb_sm--60 bg_color--3">
                 <div class="container">
                     <div class="row">
                         <!-- Start Single Service -->
