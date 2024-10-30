@@ -360,7 +360,7 @@ $page_title = "Industria de Lácteos | La Maporita";
             </div>
             <!-- End Best Service -->
             <!-- Start Blog Area -->
-            <div class="bk-blog-area pt--50 pt_md--40 pt_sm--30 clearfix bg_color--3">
+            <div class="textura-2 bk-blog-area pt--50 pt_md--40 pt_sm--30 clearfix bg_color--3">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">

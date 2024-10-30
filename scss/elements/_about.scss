@@ -36,20 +36,17 @@
     background-size: cover; /* Hace que la imagen cubra todo el contenedor */
     background-position: center; /* Centra la imagen en el contenedor */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
+    @media #{$sm-layout} {
+        background-position: top; // Cambia la posición según la necesidad
+    }
 }
 
 .textura-2{
     background-image: url('../img/fondos/textura-fondo-2.png') !important;
-    @media (max-width: 600px) {
-        background-position: top; // Cambia la posición según la necesidad
-    }
     }
 
 .textura-1{
-    background-image: url('../img/fondos/textura-queso.png') !important;
-    @media (max-width: 600px) {
-        background-position: top; // Cambia la posición según la necesidad
-    }    
+    background-image: url('../img/fondos/textura-queso.png') !important;   
     }
 
 

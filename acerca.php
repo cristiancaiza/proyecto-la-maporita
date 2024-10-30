@@ -11,8 +11,6 @@
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="img/favicon/android-icon-192x192.png">
-
-
     <!-- CSS
 	============================================ -->
     <!-- Plugins -->
@@ -72,7 +70,7 @@
         <!-- Page Conttent -->
         <main class="page-content">
             <!-- Start Service Modern -->
-            <div class="brook-service-modern ptb--120 ptb-md--80 ptb-sm--60 bg_color--3">
+            <div class="textura-1 brook-service-modern ptb--120 ptb-md--80 ptb-sm--60 bg_color--3">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-4 col-12">
@@ -94,7 +92,7 @@
                     </div>
                 </div>
             </div>
-            <div class="brook-service-modern ptb--120 ptb-md--80 ptb-sm--60 bg_color--3">
+            <div class="textura-2  brook-service-modern ptb--120 ptb-md--80 ptb-sm--60 bg_color--3">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-4 col-12">

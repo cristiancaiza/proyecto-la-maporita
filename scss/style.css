@@ -14031,23 +14031,18 @@ Contact Form Style 01
   background-position: center; /* Centra la imagen en el contenedor */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
+@media only screen and (max-width: 767px) {
+  .textura-1, .textura-2 {
+    background-position: top;
+  }
+}
 
 .textura-2 {
   background-image: url("../img/fondos/textura-fondo-2.png") !important;
 }
-@media (max-width: 600px) {
-  .textura-2 {
-    background-position: top;
-  }
-}
 
 .textura-1 {
   background-image: url("../img/fondos/textura-queso.png") !important;
-}
-@media (max-width: 600px) {
-  .textura-1 {
-    background-position: top;
-  }
 }
 
 .brook-about-area.bg-shape {
