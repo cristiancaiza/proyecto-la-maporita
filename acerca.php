@@ -121,6 +121,40 @@ Debido a las exigencias y demandas del mercado la empresa ha venido creciendo y 
                 </div>
             </div>
             <!-- End Service Modern -->
+
+            <!--timeline-->
+            <div class="container-timeline">
+			<div class="main">
+				<ul class="cbp_tmtimeline">
+					<li>
+						<time class="cbp_tmtime" datetime="1997-01-01 00:00"><span>1997</span></time>
+						<div class="cbp_tmicon cbp_tmicon-phone">O</div>
+						<div class="cbp_tmlabel">
+							<h2>Los Inicios</h2>
+							<p>En septiembre del año 1997, debido al orden público del departamento, la familia Trujillo Arcila decide salir del país, confiando su empresa en dos personas idóneas para sostener la calidad y mantener la buena imagen alcanzada por la empresa. Con esta gran responsabilidad en sus manos el Zootecnista José Humberto Maya Montoya como representante legal y arrendador de las instalaciones, y su esposa la Administradora de Emtpresas Gladys Arias Villalba, inician sus primeros pasos con La Maporita, ubicada a un kilómetro vía al municipio de El Doncello.</p>
+						</div>
+					</li>
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-11T12:04"><span>4/11/13</span> <span>12:04</span></time>
+						<div class="cbp_tmicon cbp_tmicon-screen"></div>
+						<div class="cbp_tmlabel">
+							<h2>Greens radish arugula</h2>
+							<p>Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery coriander bitterleaf epazote radicchio shallot winter purslane collard greens spring onion squash lentil. Artichoke salad bamboo shoot black-eyed pea brussels sprout garlic kohlrabi.</p>
+						</div>
+					</li>
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-13 05:36"><span>4/13/13</span> <span>05:36</span></time>
+						<div class="cbp_tmicon cbp_tmicon-mail"></div>
+						<div class="cbp_tmlabel">
+							<h2>Sprout garlic kohlrabi</h2>
+							<p>Parsnip lotus root celery yarrow seakale tomato collard greens tigernut epazote ricebean melon tomatillo soybean chicory broccoli beet greens peanut salad. Lotus root burdock bell pepper chickweed shallot groundnut pea sprouts welsh onion wattle seed pea salsify turnip scallion peanut arugula bamboo shoot onion swiss chard. Avocado tomato peanut soko amaranth grape fennel chickweed mung bean soybean endive squash beet greens carrot chicory green bean. Tigernut dandelion sea lettuce garlic daikon courgette celery maize parsley komatsuna black-eyed pea bell pepper aubergine cauliflower zucchini. Quandong pea chickweed tomatillo quandong cauliflower spinach water spinach.</p>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+            <!--end-timeline-->
+
             <!-- Start Call To Action -->
             <div class="brook-call-to-action bg_color--43 ptb--70">
                 <div class="container">
