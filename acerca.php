@@ -130,24 +130,65 @@ Debido a las exigencias y demandas del mercado la empresa ha venido creciendo y 
 						<time class="cbp_tmtime" datetime="1997-01-01 00:00"><span>1997</span></time>
 						<div class="cbp_tmicon cbp_tmicon-phone">O</div>
 						<div class="cbp_tmlabel">
-							<h2>Los Inicios</h2>
-							<p>En septiembre del año 1997, debido al orden público del departamento, la familia Trujillo Arcila decide salir del país, confiando su empresa en dos personas idóneas para sostener la calidad y mantener la buena imagen alcanzada por la empresa. Con esta gran responsabilidad en sus manos el Zootecnista José Humberto Maya Montoya como representante legal y arrendador de las instalaciones, y su esposa la Administradora de Emtpresas Gladys Arias Villalba, inician sus primeros pasos con La Maporita, ubicada a un kilómetro vía al municipio de El Doncello.</p>
+							
+							<p>La pareja de esposos, José Humberto Maya Montoya y Gladys Arias Villalba, llegan a la Maporita para continuar con el legado de responsabilidad y legalidad, que la caracterizaba a la FAMILIA TRUJILLO ARCILA fundadores. </p>
 						</div>
 					</li>
 					<li>
-						<time class="cbp_tmtime" datetime="2013-04-11T12:04"><span>4/11/13</span> <span>12:04</span></time>
+						<time class="cbp_tmtime" datetime="2013-04-11T12:04"><span>2002</span></time>
 						<div class="cbp_tmicon cbp_tmicon-screen"></div>
 						<div class="cbp_tmlabel">
-							<h2>Greens radish arugula</h2>
-							<p>Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery coriander bitterleaf epazote radicchio shallot winter purslane collard greens spring onion squash lentil. Artichoke salad bamboo shoot black-eyed pea brussels sprout garlic kohlrabi.</p>
+							<p>Se inaugura las instalaciones de LA MAPORITA, en la calle 6ª No 7-76, barrio El Pardo del municipio de El Paujil, en el patio de la casa familiar. </p>
 						</div>
 					</li>
 					<li>
-						<time class="cbp_tmtime" datetime="2013-04-13 05:36"><span>4/13/13</span> <span>05:36</span></time>
+						<time class="cbp_tmtime" datetime="2013-04-13 05:36"><span>2009</span></time>
 						<div class="cbp_tmicon cbp_tmicon-mail"></div>
 						<div class="cbp_tmlabel">
-							<h2>Sprout garlic kohlrabi</h2>
-							<p>Parsnip lotus root celery yarrow seakale tomato collard greens tigernut epazote ricebean melon tomatillo soybean chicory broccoli beet greens peanut salad. Lotus root burdock bell pepper chickweed shallot groundnut pea sprouts welsh onion wattle seed pea salsify turnip scallion peanut arugula bamboo shoot onion swiss chard. Avocado tomato peanut soko amaranth grape fennel chickweed mung bean soybean endive squash beet greens carrot chicory green bean. Tigernut dandelion sea lettuce garlic daikon courgette celery maize parsley komatsuna black-eyed pea bell pepper aubergine cauliflower zucchini. Quandong pea chickweed tomatillo quandong cauliflower spinach water spinach.</p>
+							<p>Se emprenden la alianza comercial Agropecuaria Los Potrillos y La Maporita. Asistencia gratuita de un equipo de profesionales en medicina veterinaria, contribuyendo a la transformación de una ganadería sostenible y sustentable. </p>
+						</div>
+					</li>
+                    <li>
+						<time class="cbp_tmtime" datetime="2013-04-13 05:36"><span>2010</span></time>
+						<div class="cbp_tmicon cbp_tmicon-mail"></div>
+						<div class="cbp_tmlabel">
+							<p>Registro de las marcas y enseñas MAPORITA®️ </p>
+						</div>
+					</li>
+                    <li>
+						<time class="cbp_tmtime" datetime="2013-04-13 05:36"><span>2011</span></time>
+						<div class="cbp_tmicon cbp_tmicon-mail"></div>
+						<div class="cbp_tmlabel">
+							<p>La Superintendencia de Industria y Comercio de Colombia, aprueba el “Trámite de la Marca QC y Reglamento de Uso de la Marca Colectiva QC” y la primera denominación de origen de quesos en Colombia QUESO del CAQUETA mediante resolución No. 0068463, de cual La Maporita fue pionera.</p>
+						</div>
+					</li>
+                    <li>
+						<time class="cbp_tmtime" datetime="2013-04-13 05:36"><span>2015</span></time>
+						<div class="cbp_tmicon cbp_tmicon-mail"></div>
+						<div class="cbp_tmlabel">
+							<p>Se firma del Pacto Caquetá (Propuesta del gremio ganadero caqueteño que busca el fomento de la contención de la deforestación y devolución de área al bosque mediante la generación de capacidades para liderar procesos de reconciliación ganadera teniendo un programa transversal de servicios y oportunidades para el desarrollo regional sostenible).</p>
+						</div>
+					</li>
+                    <li>
+						<time class="cbp_tmtime" datetime="2013-04-13 05:36"><span>2017</span></time>
+						<div class="cbp_tmicon cbp_tmicon-mail"></div>
+						<div class="cbp_tmlabel">
+							<p>La Maporita recibe la segunda generación y se conforma una Sociedad por Acciones Simplificada S.A.S., FABIÁN HUMBERTO MAYA MONTOYA Y LUISA FERNANDA MAYA ARIAS.</p>
+						</div>
+					</li>
+                    <li>
+						<time class="cbp_tmtime" datetime="2013-04-13 05:36"><span>2023</span></time>
+						<div class="cbp_tmicon cbp_tmicon-mail"></div>
+						<div class="cbp_tmlabel">
+							<p>Firma del Acuerdo Cero Deforestación de la Cadena Láctea, con el fin de mitigar y contrarrestar las cifras de deforestación y jugar un papel importante para estimular la transformación de las cadenas de proveeduría y escalar de forma local la producción de leche libre de deforestación.</p>
+                            <p>En noviembre se recibe el galardón de medalla de plata con una puntuación de 94 como producto Calidad Extra en la categoría 2 de Quesos de pasta Hilada I Quesillo. En la 10° Versión del Premio Nacional Del Queso - CNLM®️</p>
+						</div>
+					</li>
+                    <li>
+						<time class="cbp_tmtime" datetime="2013-04-13 05:36"><span>2024</span></time>
+						<div class="cbp_tmicon cbp_tmicon-mail"></div>
+						<div class="cbp_tmlabel">
+							<p>Se recibe dos galardones, en la Categoría 01 – Quesos Blandos “Cuajada pasteurizada” con medalla de plata calificación extra y en la Categoría 02 – Quesos de Pasta Hilada I “Quesillo” con medalla de bronce calificación extra. En la 11° Versión del Premio Nacional Del Queso - CNLM®️</p>
 						</div>
 					</li>
 				</ul>
