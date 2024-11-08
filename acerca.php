@@ -68,7 +68,7 @@
         </div>
         <!-- End Breadcaump Area -->
         <!-- Page Conttent -->
-        <main class="page-content">
+        <main class="page-content bg_color--3">
             <!-- Start Service Modern -->
             <div class="textura-1 brook-service-modern ptb--120 ptb-md--80 ptb-sm--60 bg_color--3">
                 <div class="container">
@@ -123,7 +123,7 @@ Debido a las exigencias y demandas del mercado la empresa ha venido creciendo y 
             <!-- End Service Modern -->
 
             <!--timeline-->
-            <div class="container-timeline">
+            <div class="container-timeline bg_color--3 textura-2">
 			<div class="main">
 				<ul class="cbp_tmtimeline">
 					<li>

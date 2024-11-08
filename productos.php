@@ -54,7 +54,7 @@
         <!-- Page Conttent -->
         <main class="page-content bg_color--3">
             <!-- Start Shop Minimal Area -->
-            <div class="brook-shop-minimal ptb--150">
+            <div class="brook-shop-minimal ptb--150 textura-2">
                 <div class="container">
                     <div class="row">
                         <!-- Start Single Portfolio -->

@@ -58,7 +58,7 @@
         <!-- Page Conttent -->
         <main class="page-content">
             <!-- Start Single Product -->
-            <div class="brook-single-product mt--100 mt_md--80 mt_sm--60 plr--160 plr_lg--100 plr_md--50 plr_sm--50 bg_color--3">
+            <div class="brook-single-product mt--100 mt_md--80 mt_sm--60 plr--160 plr_lg--100 plr_md--50 plr_sm--50 bg_color--3 textura-2">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="nextprev-btn">
@@ -77,13 +77,13 @@
                             <div class="product__details__container">
                                 <div class="tab_container big_img_container">
                                     <div class="big_img tab-pane fade show active" id="img1" role="tabpanel">
-                                        <img class="w-100" src="img/productos/grandes/760-x-760-picado-salado.jpg" alt="Queso Picado Salado">
+                                        <img class="w-100" src="img/productos/grandes/760-x-760-tipo-cheddar.jpg" alt="Queso Picado Salado">
                                     </div>
                                 </div>
                                 <div class="sm_roduct_nav nav nav-tabs" role="tablist">
                                     <a class="active" id="img1-tab" data-bs-toggle="tab" href="#img1" role="tab"
                                         aria-controls="img1" aria-selected="true">
-                                        <img src="img/productos/mini/210-x-210-picado-salado.jpg" alt="Queso Cuajada">
+                                        <img src="img/productos/mini/210-x-210-tipo-cheddar.jpg" alt="Queso Cuajada">
                                     </a>
                                     <!--
                                     <a id="nav-img2-tab" data-bs-toggle="tab" href="#img2" role="tab" aria-controls="img2"

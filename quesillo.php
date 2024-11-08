@@ -59,7 +59,7 @@
         <!-- Page Conttent -->
         <main class="page-content">
             <!-- Start Single Product -->
-            <div class="brook-single-product mt--100 mt_md--80 mt_sm--60 plr--160 plr_lg--100 plr_md--50 plr_sm--50 bg_color--3">
+            <div class="brook-single-product mt--100 mt_md--80 mt_sm--60 plr--160 plr_lg--100 plr_md--50 plr_sm--50 bg_color--3 textura-2">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="nextprev-btn">
