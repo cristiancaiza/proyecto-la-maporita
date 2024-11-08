@@ -62,7 +62,7 @@
         <!-- Page Conttent -->
         <main class="page-content">
             <!-- Start Blog Grid Area -->
-            <div class="bk-blog-grid-area pt--70 pb--100 pt_md--80 pb_md--80 pb_sm--80 pt_sm--60">
+            <div class="bk-blog-grid-area pt--70 pb--100 pt_md--80 pb_md--80 pb_sm--80 pt_sm--60 bg_color--3 textura-2">
                 <div class="container">
                     <div class="row">
                         <!-- Start Single Portfolio 

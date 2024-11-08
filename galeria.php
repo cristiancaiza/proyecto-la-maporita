@@ -68,7 +68,7 @@
             
 
             <!-- Start Gallery Area -->
-            <div class="brook-gallery-area ptb--150 ptb-md--80 ptb-sm--60 bg_color--3 basic-thine-line">
+            <div class="brook-gallery-area ptb--150 ptb-md--80 ptb-sm--60 bg_color--3 basic-thine-line bg_color--3 textura-2">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">

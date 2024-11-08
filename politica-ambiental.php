@@ -70,7 +70,7 @@ Como reconocimiento a la calidad de productos comprometidos con la conservación
         <!-- Page Conttent -->
         <main class="page-content">
             <!-- Start Work area -->
-            <div class="brook-whatdo-area ptb--150 ptb-md--80 ptb-sm--60 bg_color--3">
+            <div class="brook-whatdo-area ptb--150 ptb-md--80 ptb-sm--60 bg_color--3 textura-2">
                 <div class="container">
                     <div class="row align-items-center">                        
                         <div class="col-lg-12 mt_sm--40 mt_md--40 texto-blanco">

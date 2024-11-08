@@ -53,7 +53,7 @@
         <!-- Page Conttent -->
         <main class="page-content">
             <!-- Start Contact Form  -->
-            <div class="brook-contact-form-area ptb--150 ptb-md--80 ptb-sm--60">
+            <div class="brook-contact-form-area ptb--150 ptb-md--80 ptb-sm--60 bg_color--3 textura-2">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
@@ -97,7 +97,7 @@
             <!-- End Contact Form  -->
 
             <!--Google Map Area Start-->
-            <div class="google-map-area section text-center pb--150 pb-md--80 pb-sm--60">
+            <div class="google-map-area section text-center pb--150 pb-md--80 pb-sm--60 bg_color--3 textura-2">
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
