@@ -11,8 +11,6 @@
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="img/favicon/android-icon-192x192.png">
-
-
     <!-- CSS
 	============================================ -->
     <!-- Plugins -->
@@ -86,6 +84,24 @@
                             </div>
                         </div>
                          End Single Portfolio -->
+                         <!-- Start Single Portfolio -->
+                         <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
+                            <div class="blog blog-style--2 creative--blog">
+                                <div class="thumb">
+                                    <a href="2do-ciclo-de-vacunacion-contra-la-fiebre-aftosa-en-colombia.php"><img src="img/novedades/image-min-2do-ciclo-de-vacuancion.jpg" alt="Novedades - La Maporita"></a>
+                                </div>
+                                <div class="blog-content">
+                                    <div class="content">
+                                        <h3 class="the-title"><a href="detalle-noticia.php">2do ciclo de vacunación contra la fiebre aftosa en Colombia</a></h3>
+                                        <ul class="meta">
+                                            <li>Junio 01, 2024</li>
+                                            <li><a href="#">Categoría</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Portfolio -->
 
                         <!-- Start Single Portfolio -->
                         <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
@@ -213,9 +229,6 @@
     <script src="js/revolution.extension.parallax.min.js"></script>
     <script src="js/revolution.extension.slideanims.min.js"></script>
     <script src="js/revolution.extension.video.min.js"></script> -->
-
-
-
     <!-- Use the minified version files listed below for better performance and remove the files listed above -->
     <script src="js/vendor/vendor.min.js"></script>
     <script src="js/plugins.min.js"></script>

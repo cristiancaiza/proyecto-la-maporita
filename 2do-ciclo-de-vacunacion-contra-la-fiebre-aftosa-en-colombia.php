@@ -79,7 +79,7 @@
                                     </div>
                                     <!-- Start Thumbnail -->
                                     <div class="thumbnail mb--60">
-                                        <img class="w-100" src="img/novedades/detalle-novedad.jpg" alt="La Maporita">
+                                        <img class="w-100" src="img/novedades/image-blog-2do-ciclo-de-vacunacion.jpg" alt="2do ciclo de vacunación contra la fiebre aftosa en Colombia">
                                     </div>
                                     <!-- Start Content -->
                                     <div class="content basic-dark2-line-1px pb--50 mb--35">
