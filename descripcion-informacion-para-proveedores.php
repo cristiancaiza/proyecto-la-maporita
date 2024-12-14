@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>2do ciclo de vacunación contra la fiebre aftosa en Colombia | La Maporita</title>
+    <title>Descripción Información para proveedores | La Maporita</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -51,7 +51,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="breadcaump-inner text-center">
-                            <h2 class="heading heading-h2 font-60 text-white">2do ciclo de vacunación contra la fiebre aftosa en Colombia</h2>
+                            <h2 class="heading heading-h2 font-60 text-white">Descripción Entrada de Información para Proveedores</h2>
                         </div>
                     </div>
                 </div>
@@ -163,22 +163,6 @@
                                         </div>
                                     </div>
                                     <!-- End Single Widget -->
-                                    
-
-                                    <!-- Start Single Widget -->
-                                    <div class="bl-sidebar archive mt--50 wow move-up">
-                                        <h5 class="widget-title">Archives</h5>
-                                        <div class="inner">
-                                            <select>
-                                                <option>Select Month</option>
-                                                <option>January 2019 </option>
-                                                <option>July 2018 </option>
-                                                <option> January 2018 </option>
-                                            </select>
-                                        </div>
-                                    </div>
-                                    <!-- End Single Widget -->
-
                                     <!-- Start Single Widget -->
                                     <div class="bl-sidebar tag mt--50 wow move-up">
                                         <h5 class="widget-title">Etiquetas</h5>
@@ -187,7 +171,6 @@
                                                 <li><a href="#">ganadería</a></li>
                                                 <li><a href="#">quesos</a></li>
                                                 <li><a href="#">sostenibilidad</a></li>
-                                                
                                             </ul>
                                         </div>
                                     </div>

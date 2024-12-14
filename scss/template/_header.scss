@@ -971,7 +971,7 @@ header.br_header.header-default.header-fixed {
     }
 
     .header-default.header-bar .header__wrapper {
-        margin-right: 84px;
+        margin-right: 10px;
     }
 
     .header-default.header-bar.header-new-bar .header__wrapper {
@@ -997,7 +997,7 @@ header.br_header.header-default.header-fixed {
         top: -68px;
     }
     .header-default.header-bar .header__wrapper {
-        margin-right: 60px;
+        margin-right: 10px;
     }
     .header-default.header-bar.header-new-bar .header__wrapper {
         margin-right: 0;
@@ -1009,13 +1009,13 @@ header.br_header.header-default.header-fixed {
 
 @media #{$large-mobile} {
     .header-default.header-bar .header__wrapper {
-        margin-right: 110px;
+        margin-right: 10px;
     }
 }
 
 @media #{$small-mobile} {
     .header-default.header-bar .header__wrapper {
-        margin-right: 68px;
+        margin-right: 10px;
     }
 }
 

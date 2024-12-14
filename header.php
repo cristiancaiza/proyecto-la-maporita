@@ -70,6 +70,8 @@
                             </ul>
                         </li>
                         <li><a href="novedades.php"><span>Novedades</span></a></li>
+                        <li><a href="informacion-para-proveedores.php"><span>Info. Proveedores</span></a></li>
+                        <li><a href="almom.php"><span>ALMOM</span></a></li>
                         <li><a href="galeria.php"><span>Galería</span></a></li>
                         <li><a href="politica-ambiental.php"><span>Política Ambiental</span></a></li>
                         <li><a href="contacto.php"><span>Contáctenos</span></a></li>
@@ -100,6 +102,8 @@
                                 <!-- End Dropdown Menu -->
                             </li>
                             <li class="lavel-1"><a href="novedades.php"><span>Novedades</span></a></li>
+                            <li class="lavel-1"><a href="informacion-para-proveedores.php"><span>Info. Proveedores</span></a></li>
+                            <li class="lavel-1"><a href="almom.php"><span>ALMOM</span></a></li>
                             <li class="lavel-1"><a href="galeria.php"><span>Galería</span></a></li>
                             <li class="lavel-1"><a href="politica-ambiental.php"><span>Política Ambiental</span></a></li>
                             <li class="lavel-1"><a href="contacto.php"><span>Contáctenos</span></a></li> 
