@@ -69,8 +69,8 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                            <div class="copyright-right text-md-end text-center">
-                                <p>Copyright © 2024 Lácteos La Maporita <a href="">Todos los derechos reservados</a></p>
+                            <div class="copyright-right">
+                                <p>Copyright © 2024 Lácteos La Maporita <a href="">Todos los derechos reservados</a></p> 
                             </div>
                         </div>
                     </div>
