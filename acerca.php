@@ -128,57 +128,73 @@ Debido a las exigencias y demandas del mercado la empresa ha venido creciendo y 
 				<ul class="cbp_tmtimeline">
 					<li>
 						<time class="cbp_tmtime" datetime="1997-01-01 00:00"><span>1997</span></time>
-						<div class="cbp_tmicon cbp_tmicon-phone">O</div>
-						<div class="cbp_tmlabel">
-							
+						<!--<div class="cbp_tmicon cbp_tmicon-phone"><i class="fa fa-angle-up"></i></div>-->
+                        <div class="cbp_tmicon">
+                            <img src="img/iconos/linea-tiempo/icon-timeline-1.png" alt="Icono - La Maporita">
+                        </div>
+						<div class="cbp_tmlabel">							
 							<p>La pareja de esposos, José Humberto Maya Montoya y Gladys Arias Villalba, llegan a la Maporita para continuar con el legado de responsabilidad y legalidad, que la caracterizaba a la FAMILIA TRUJILLO ARCILA fundadores. </p>
 						</div>
 					</li>
 					<li>
 						<time class="cbp_tmtime" datetime="2013-04-11T12:04"><span>2002</span></time>
-						<div class="cbp_tmicon cbp_tmicon-screen"></div>
+						<div class="cbp_tmicon">
+                            <img src="img/iconos/linea-tiempo/icon-timeline-2.png" alt="Icono - La Maporita">
+                        </div>
 						<div class="cbp_tmlabel">
 							<p>Se inaugura las instalaciones de LA MAPORITA, en la calle 6ª No 7-76, barrio El Pardo del municipio de El Paujil, en el patio de la casa familiar. </p>
 						</div>
 					</li>
 					<li>
 						<time class="cbp_tmtime" datetime="2013-04-13 05:36"><span>2009</span></time>
-						<div class="cbp_tmicon cbp_tmicon-mail"></div>
+						<div class="cbp_tmicon">
+                            <img src="img/iconos/linea-tiempo/icon-timeline-3.png" alt="Icono - La Maporita">
+                        </div>
 						<div class="cbp_tmlabel">
 							<p>Se emprenden la alianza comercial Agropecuaria Los Potrillos y La Maporita. Asistencia gratuita de un equipo de profesionales en medicina veterinaria, contribuyendo a la transformación de una ganadería sostenible y sustentable. </p>
 						</div>
 					</li>
                     <li>
 						<time class="cbp_tmtime" datetime="2013-04-13 05:36"><span>2010</span></time>
-						<div class="cbp_tmicon cbp_tmicon-mail"></div>
+						<div class="cbp_tmicon">
+                            <img src="img/iconos/linea-tiempo/icon-timeline-4.png" alt="Icono - La Maporita">
+                        </div>
 						<div class="cbp_tmlabel">
 							<p>Registro de las marcas y enseñas MAPORITA®️ </p>
 						</div>
 					</li>
                     <li>
 						<time class="cbp_tmtime" datetime="2013-04-13 05:36"><span>2011</span></time>
-						<div class="cbp_tmicon cbp_tmicon-mail"></div>
+						<div class="cbp_tmicon">
+                            <img src="img/iconos/linea-tiempo/icon-timeline-5.png" alt="Icono - La Maporita">
+                        </div>
 						<div class="cbp_tmlabel">
 							<p>La Superintendencia de Industria y Comercio de Colombia, aprueba el “Trámite de la Marca QC y Reglamento de Uso de la Marca Colectiva QC” y la primera denominación de origen de quesos en Colombia QUESO del CAQUETA mediante resolución No. 0068463, de cual La Maporita fue pionera.</p>
 						</div>
 					</li>
                     <li>
 						<time class="cbp_tmtime" datetime="2013-04-13 05:36"><span>2015</span></time>
-						<div class="cbp_tmicon cbp_tmicon-mail"></div>
+						<div class="cbp_tmicon">
+                            <img src="img/iconos/linea-tiempo/icon-timeline-6.png" alt="Icono - La Maporita">
+                        </div>
 						<div class="cbp_tmlabel">
 							<p>Se firma del Pacto Caquetá (Propuesta del gremio ganadero caqueteño que busca el fomento de la contención de la deforestación y devolución de área al bosque mediante la generación de capacidades para liderar procesos de reconciliación ganadera teniendo un programa transversal de servicios y oportunidades para el desarrollo regional sostenible).</p>
 						</div>
 					</li>
                     <li>
 						<time class="cbp_tmtime" datetime="2013-04-13 05:36"><span>2017</span></time>
-						<div class="cbp_tmicon cbp_tmicon-mail"></div>
+						<div class="cbp_tmicon">
+                            <img src="img/iconos/linea-tiempo/icon-timeline-7.png" alt="Icono - La Maporita">
+                        </div>
 						<div class="cbp_tmlabel">
 							<p>La Maporita recibe la segunda generación y se conforma una Sociedad por Acciones Simplificada S.A.S., FABIÁN HUMBERTO MAYA MONTOYA Y LUISA FERNANDA MAYA ARIAS.</p>
 						</div>
 					</li>
                     <li>
 						<time class="cbp_tmtime" datetime="2013-04-13 05:36"><span>2023</span></time>
-						<div class="cbp_tmicon cbp_tmicon-mail"></div>
+						<div class="cbp_tmicon">
+                            <img src="img/iconos/linea-tiempo/icon-timeline-8.png" alt="Icono - La Maporita">
+                        </div>
 						<div class="cbp_tmlabel">
 							<p>Firma del Acuerdo Cero Deforestación de la Cadena Láctea, con el fin de mitigar y contrarrestar las cifras de deforestación y jugar un papel importante para estimular la transformación de las cadenas de proveeduría y escalar de forma local la producción de leche libre de deforestación.</p>
                             <p>En noviembre se recibe el galardón de medalla de plata con una puntuación de 94 como producto Calidad Extra en la categoría 2 de Quesos de pasta Hilada I Quesillo. En la 10° Versión del Premio Nacional Del Queso - CNLM®️</p>
@@ -186,7 +202,9 @@ Debido a las exigencias y demandas del mercado la empresa ha venido creciendo y 
 					</li>
                     <li>
 						<time class="cbp_tmtime" datetime="2013-04-13 05:36"><span>2024</span></time>
-						<div class="cbp_tmicon cbp_tmicon-mail"></div>
+						<div class="cbp_tmicon">
+                            <img src="img/iconos/linea-tiempo/icon-timeline-9.png" alt="Icono - La Maporita">
+                        </div>
 						<div class="cbp_tmlabel">
 							<p>Se recibe dos galardones, en la Categoría 01 – Quesos Blandos “Cuajada pasteurizada” con medalla de plata calificación extra y en la Categoría 02 – Quesos de Pasta Hilada I “Quesillo” con medalla de bronce calificación extra. En la 11° Versión del Premio Nacional Del Queso - CNLM®️</p>
 						</div>

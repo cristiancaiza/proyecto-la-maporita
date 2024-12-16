@@ -129,7 +129,7 @@
                             <div class="bk-hover mb--40">
                                 <h5 class="heading heading-h5 text-white">Conéctate con nosotros</h5>
                                 <div class="bkseparator--20"></div>
-                                <p class="bk_pra font-16">Calle 6ᵃ No 7-76 Barrio El Prado, El Paujil Caquetá</p>
+                                <p class="bk_pra font-16 text-white">Calle 6ᵃ No 7-76 Barrio El Prado, El Paujil Caquetá</p>
                                 <p class="bk_pra font-16"><a href="#">info@lacteoslamaporita.co</a></p>
                             </div>
                             <ul class="social-icon text-start tooltip-layout icon-size-large">

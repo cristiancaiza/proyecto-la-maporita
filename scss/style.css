@@ -14181,7 +14181,7 @@ Contact Form Style 01
 .cbp_tmtimeline > li .cbp_tmtime {
   display: block;
   width: 25%;
-  padding-right: 100px;
+  padding-right: 140px;
   position: absolute;
 }
 
@@ -14262,11 +14262,12 @@ Contact Form Style 01
   color: #fff;
   background: #000;
   border-radius: 50%;
-  box-shadow: 0 0 0 8px #fff;
+  box-shadow: 0 0 0 3px #fff;
   text-align: center;
   left: 20%;
   top: 0;
   margin: 0 0 0 -25px;
+  padding: 3px;
 }
 
 .cbp_tmicon-phone:before {
@@ -14313,12 +14314,12 @@ Contact Form Style 01
     right: auto;
     left: 20px;
     border-right-color: transparent;
-    border-bottom-color: #3594cb;
+    border-bottom-color: #f7d38d;
     top: -20px;
   }
   .cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel:after {
     border-right-color: transparent;
-    border-bottom-color: #6cbfee;
+    border-bottom-color: #f7d38d;
   }
   .cbp_tmtimeline > li .cbp_tmicon {
     position: relative;
@@ -14327,6 +14328,48 @@ Contact Form Style 01
     margin: -55px 5px 0 0px;
   }
 }
+.cbp_tmtimeline {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+.cbp_tmtimeline li {
+  position: relative;
+  margin-bottom: 50px;
+  padding-left: 40px;
+}
+
+.cbp_tmicon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50px; /* Ajusta el tamaño según sea necesario */
+  height: 50px;
+  border-radius: 50%;
+  background-color: #fff; /* Fondo opcional */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Sombra opcional */
+}
+
+.cbp_tmicon img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: contain;
+     object-fit: contain; /* Asegura que la imagen se ajuste correctamente */
+  border-radius: 50%; /* Aplica borde redondeado si es necesario */
+}
+
+.cbp_tmlabel {
+  background: #f9f9f9; /* Fondo opcional */
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1); /* Sombra opcional */
+}
+
 /*Fin Linea de Tiempo*/
 /*Maporita ajustes acerca home*/
 .video-home {
@@ -19263,7 +19306,7 @@ Breadcaump Area
   background: rgba(0, 0, 0, 0.9);
   visibility: hidden;
   opacity: 0;
-  cursor: url(../../img/icons/light-close.png) 16 16, pointer;
+  cursor: url(../img/icons/light-close.png) 16 16, pointer;
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   z-index: 99999;
 }
