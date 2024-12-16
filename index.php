@@ -8,6 +8,25 @@ $og_image = "img/home/queso-caqueta-hilado-artesanal.jpg";
 $og_url = "https://lacteoslamaporita.com/"; 
 
 $page_title = "Industria de Lácteos | La Maporita";
+
+/*slider*/
+$slide_src1 = "img/home/slider/slider1.jpg";
+$slidethumb_src1 = "img/slider/thumb/slider-thumb-1.jpg";
+$slide_alt1 = "img/home/slider/slider1.jpg";
+
+
+/*Acerca*/
+$img_acerca_vertical = "img/iconos/calidad-leche.png";
+$img_acerca_vertical_alt = "Calidad Leche";
+
+/*Video Youtube*/
+$video_ytube_home= "https://www.youtube.com/embed/r9_LCjhqyXw?si=aeVFAW10_7T9RxvK";
+$txt_ytube_home = "Le damos la bienvenida a Lácteos La Maporita. Somos una empresa familiar dedicada a la producción de derivados lácteos en el Caquetá, con más de 20 años en el mercado, plasmando en cada producto nuestro esfuerzo y amor, para que los colombianos tengan el placer de disfrutar una experiencia gastronómica con el sello de Denominación de Origen \"Queso del Caquetá\"  y la Marca Colectiva QC, como reconocimiento a la calidad de productos comprometidos con la conservación del medio ambiente y nuestro Piedemonte Amazónico.";
+
+
+
+
+$page_title = "Industria de Lácteos | La Maporita";
 /*Variables*/
 ?>
 
@@ -35,11 +54,9 @@ $page_title = "Industria de Lácteos | La Maporita";
     <link rel="stylesheet" href="css/plugins.css">
     <!-- Style Css -->
     <link rel="stylesheet" href="scss/style.css">
-
     <!-- Custom Styles -->
     <link rel="stylesheet" href="css/custom.css">
 </head>
-
 <body class="template-color-39 template-font-1 bg_color--42">
     <!--[if lte IE 9]>
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
@@ -56,7 +73,6 @@ $page_title = "Industria de Lácteos | La Maporita";
         </div>
     </div> 
     -->
-
     <!-- Wrapper -->
     <div id="wrapper" class="wrapper">
         <?php
@@ -72,12 +88,12 @@ $page_title = "Industria de Lácteos | La Maporita";
                         <li data-index="rs-16" data-transition="curtain-1,curtain-3,curtain-2" data-slotamount="default,default,default,default"
                             data-hideafterloop="0" data-hideslideonmobile="off" data-randomtransition="on" data-easein="default,default,default,default"
                             data-easeout="default,default,default,default" data-masterspeed="default,default,default,default"
-                            data-thumb="img/revoulation/100x50_slider-authentic-studio-slide-01-bg.jpg" data-rotate="0,0,0,0"
+                            data-thumb="<?= $slidethumb_src1 ?>" data-rotate="0,0,0,0"
                             data-saveperformance="off" data-title="Slide" data-param1="01" data-param2="" data-param3=""
                             data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9=""
                             data-param10="" data-description="">
-                            <!-- MAIN IMAGE -->
-                            <img src="img/home/slider/slider1.jpg" alt="La Maporita" data-bgposition="center center"
+                            <!-- MAIN IMAGE   -->
+                            <img src="<?= $slide_src1 ?>" alt="<?= $slide_alt1 ?>" data-bgposition="center center"
                                 data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                             <!-- LAYERS -->
                             <!-- LAYER NR. 2 -->
@@ -146,7 +162,6 @@ $page_title = "Industria de Lácteos | La Maporita";
             </div>
             <!-- END REVOLUTION SLIDER -->
         </div>
-
         <!-- Page Conttent -->
         <main class="page-content">
             <!-- Start About Area -->
@@ -174,7 +189,7 @@ $page_title = "Industria de Lácteos | La Maporita";
                                                 <div class="icon">
                                                     <!-- Icono dentro del div.icon -->
                                                     <span class="iconos-home-1">
-                                                        <img src="img/iconos/calidad-leche.png" alt="Calidad Leche">
+                                                        <img src="<?= $img_acerca_vertical ?>" alt="<?= $img_acerca_vertical_alt ?>">
                                                     </span>
                                                 </div>
                                                 <div class="content">
@@ -242,11 +257,8 @@ $page_title = "Industria de Lácteos | La Maporita";
                                         <!-- End Single Speach -->
                                     </div>
                                 </div>
-                                
                                 <div class="bkseparator--65"></div>
-
                                 <a class="moredetails-btn text-white" href="acerca.php"><span>Conoce más</span> <i class="fa fa-arrow-right"></i></a>
-
                             </div>
                         </div>
                     </div>
@@ -317,11 +329,11 @@ $page_title = "Industria de Lácteos | La Maporita";
                 <div class="bkseparator--40"></div>
                 <div class="container">
                     <div class="video-home">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/r9_LCjhqyXw?si=aeVFAW10_7T9RxvK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="<?= $video_ytube_home ?>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
                     <div class="bkseparator--40"></div>
                     <p class="font-16 text-white">
-                        Le damos la bienvenida a Lácteos La Maporita. Somos una empresa familiar dedicada a la producción de derivados lácteos en el Caquetá, con más de 20 años en el mercado, plasmando en cada producto nuestro esfuerzo y amor, para que los colombianos tengan el placer de disfrutar una experiencia gastronómica con el sello de Denominación de Origen "Queso del Caquetá" y la Marca Colectiva QC, como reconocimiento a la calidad de productos comprometidos con la conservación del medio ambiente y nuestro Piedemonte Amazónico.
+                        <?= $txt_ytube_home ?>
                     </p>
                 </div>
                 <div class="bkseparator--40"></div>
