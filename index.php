@@ -19,9 +19,15 @@ $slide_alt1 = "img/home/slider/slider1.jpg";
 $img_acerca_vertical = "img/iconos/calidad-leche.png";
 $img_acerca_vertical_alt = "Calidad Leche";
 
+
+$txt_acerca_nosotros = "Le damos la bienvenida a Lácteos La Maporita. Somos una empresa familiar dedicada a la producción de derivados lácteos en el Caquetá, con más de 20 años en el mercado, plasmando en cada producto nuestro esfuerzo y amor, para que los colombianos tengan el placer de disfrutar una experiencia gastronómica con el sello de Denominación de Origen \"Queso del Caquetá\" y la Marca Colectiva QC, como reconocimiento a la calidad de productos comprometidos con la conservación del medio ambiente y nuestro Piedemonte Amazónico.";
+
+
+
 /*Video Youtube*/
 $video_ytube_home= "https://www.youtube.com/embed/r9_LCjhqyXw?si=aeVFAW10_7T9RxvK";
 $txt_ytube_home = "Le damos la bienvenida a Lácteos La Maporita. Somos una empresa familiar dedicada a la producción de derivados lácteos en el Caquetá, con más de 20 años en el mercado, plasmando en cada producto nuestro esfuerzo y amor, para que los colombianos tengan el placer de disfrutar una experiencia gastronómica con el sello de Denominación de Origen \"Queso del Caquetá\"  y la Marca Colectiva QC, como reconocimiento a la calidad de productos comprometidos con la conservación del medio ambiente y nuestro Piedemonte Amazónico.";
+
 
 
 
@@ -352,14 +358,12 @@ $page_title = "Industria de Lácteos | La Maporita";
                             <div class="content">
                                 <div class="bkseparator--40"></div>
                                 <h6 class="heading heading-h6 font-16 line-height-1-88 font-medium body-color">
-                                    Le damos la bienvenida a Lácteos La Maporita. Somos una empresa familiar dedicada a la producción de derivados lácteos en el Caquetá, con más de 20 años en el mercado, plasmando en cada producto nuestro esfuerzo y amor, para que los colombianos tengan el placer de disfrutar una experiencia gastronómica con el sello de Denominación de Origen "Queso del Caquetá" y la Marca Colectiva QC, como reconocimiento a la calidad de productos comprometidos con la conservación del medio ambiente y nuestro Piedemonte Amazónico.
+                                <?= $txt_acerca_nosotros ?>
                                 </h6>
                                 <div class="bkseparator--60 bkseparator_lg--30 bkseparator_md--20 bkseparator_sm--20"></div>
                                 <p class="font-16 body-color">
                                    <b> Familia Maya Arias</b><br><span>Fundadores de La Maporita</span>
                                 </p>
-                                
-                               
                             </div>
                         </div>
                     </div>
@@ -519,7 +523,7 @@ $page_title = "Industria de Lácteos | La Maporita";
                             <div class="text-center text-md-end text-center mt_sm--30 mt_md--40 contact-form contact-form--4 yellow-color-2">
                                 <form action="#">
                                     <div class="input-box">
-                                        <input type="email" placeholder="Your e-mail">
+                                        <input type="email" placeholder="Tu correo electrónico">
                                         <button>Subscríbete</button>
                                     </div>
                                 </form>
