@@ -141,8 +141,8 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div class="copyright-right text-end">
-                            <p class="bk_pra font-16">Copyright © 2024 Lácteos La Maporita Todos los derechos reservados</p>
+                        <div class="copyright-right text-end ">
+                            <p class="bk_pra font-16 text-white">Copyright © 2024 Lácteos La Maporita Todos los derechos reservados</p>
                         </div>
                     </div>
                 </div>

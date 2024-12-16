@@ -29,6 +29,31 @@ $video_ytube_home= "https://www.youtube.com/embed/r9_LCjhqyXw?si=aeVFAW10_7T9Rxv
 $txt_ytube_home = "Le damos la bienvenida a Lácteos La Maporita. Somos una empresa familiar dedicada a la producción de derivados lácteos en el Caquetá, con más de 20 años en el mercado, plasmando en cada producto nuestro esfuerzo y amor, para que los colombianos tengan el placer de disfrutar una experiencia gastronómica con el sello de Denominación de Origen \"Queso del Caquetá\"  y la Marca Colectiva QC, como reconocimiento a la calidad de productos comprometidos con la conservación del medio ambiente y nuestro Piedemonte Amazónico.";
 
 
+/*Afiliados y sponsors*/
+
+// Array con los datos de los afiliados
+$afiliados = [
+    ["src" => "img/home/afiliados/afiliado-1.png", "link" => "#link1", "alt" => "Afiliado 1"],
+    ["src" => "img/home/afiliados/afiliado-2.png", "link" => "#link2", "alt" => "Afiliado 2"],
+    ["src" => "img/home/afiliados/afiliado-3.png", "link" => "#link3", "alt" => "Afiliado 3"],
+    ["src" => "img/home/afiliados/afiliado-4.png", "link" => "#link4", "alt" => "Afiliado 4"]
+];
+
+// Configuración dinámica del carrusel
+$carrusel_config = [
+    "spaceBetween" => 15,
+    "slidesToShow" => 5,
+    "slidesToScroll" => 1,
+    "arrows" => false,
+    "infinite" => true
+];
+
+// Configuración para tamaños responsivos
+$carrusel_responsive = [
+    ["breakpoint" => 768, "settings" => ["slidesToShow" => 3]],
+    ["breakpoint" => 577, "settings" => ["slidesToShow" => 3]],
+    ["breakpoint" => 481, "settings" => ["slidesToShow" => 2]]
+];
 
 
 
@@ -473,34 +498,25 @@ $page_title = "Industria de Lácteos | La Maporita";
             </div>
             <div class="bkseparator--40 bg_color--3"></div>
             <!-- End Blog Area --> 
-            <!-- Start afiliados  -->
+            <!-- Start afiliados -->
             <div class="bk-brand-area bg_color--1 ptb--150 ptb-md--80 ptb-sm--60">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="brand-wrapper">
                                 <div class="brand__list brand-default brand-style--1">
-                                    <div class="brook-element-carousel" data-slick-options='{
-                                        "spaceBetween": 15, 
-                                        "slidesToShow": 5, 
-                                        "slidesToScroll": 1, 
-                                        "arrows": false, 
-                                        "infinite": true
-                                    }'
-                                        data-slick-responsive='[
-                                        {"breakpoint":768, "settings": {"slidesToShow": 3}},
-                                        {"breakpoint":577, "settings": {"slidesToShow": 3}},
-                                        {"breakpoint":481, "settings": {"slidesToShow": 2}}
-                                    ]'>
+                                    <div class="brook-element-carousel" 
+                                        data-slick-options='<?php echo json_encode($carrusel_config); ?>'
+                                        data-slick-responsive='<?php echo json_encode($carrusel_responsive); ?>'>
 
-                                        <div class="brand"><a href="#"><img src="img/home/afiliados/afiliado-1.png"
-                                                    alt="logo image"></a> </div>
-                                        <div class="brand"><a href="#"><img src="img/home/afiliados/afiliado-2.png"
-                                                    alt="logo image"></a> </div>
-                                        <div class="brand"><a href="#"><img src="img/home/afiliados/afiliado-3.png"
-                                                    alt="logo image"></a> </div>
-                                        <div class="brand"><a href="#"><img src="img/home/afiliados/afiliado-4.png"
-                                                    alt="logo image"></a> </div>
+                                        <?php foreach ($afiliados as $afiliado): ?>
+                                            <div class="brand">
+                                                <a href="<?php echo $afiliado['link']; ?>">
+                                                    <img src="<?php echo $afiliado['src']; ?>" alt="<?php echo $afiliado['alt']; ?>">
+                                                </a>
+                                            </div>
+                                        <?php endforeach; ?>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -508,7 +524,6 @@ $page_title = "Industria de Lácteos | La Maporita";
                     </div>
                 </div>
             </div>
-            
             <!-- End afiliados -->
             <!-- Start Call To Action -->
             <div class="brook-call-to-action bg_color--43 ptb--70">
@@ -535,13 +550,11 @@ $page_title = "Industria de Lácteos | La Maporita";
             <!-- End Call To Action -->
         </main>
         <!--// Page Conttent -->
-
         <?php
             include_once 'footer.php';
         ?>
     </div>
     <!--// Wrapper -->
-
     <!-- Js Files -->
     <!-- <script src="js/vendor/modernizr-3.6.0.min.js"></script>
     <script src="js/vendor/jquery.min.js"></script>

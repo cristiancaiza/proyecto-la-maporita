@@ -22,11 +22,11 @@
                                 <h2 class="widgettitle">Enlaces directos</h2>
                                 <div class="footer-menu">
                                     <ul class="ft-menu-list bk-hover">
-                                        <li><a href="about-us-01.html">Acerca de nosotros</a></li>
-                                        <li><a href="team.html">Valores corporativos</a></li>                                        
-                                        <li><a href="services-classic.html">Servicios</a></li>
-                                        <li><a href="#">Novedades</a></li>
-                                        <li><a href="contact.html">Contacto</a></li>
+                                        <li><a href="acerca.php">Acerca de nosotros</a></li>
+                                        <li><a href="acerca.php">Valores corporativos</a></li>                                        
+                                        <li><a href="acerca.php">Servicios</a></li>
+                                        <li><a href="novedades.php">Novedades</a></li>
+                                        <li><a href="contacto.php">Contacto</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -37,7 +37,7 @@
                                 <h2 class="widgettitle">Visítanos</h2>
                                 <div class="footer-address">
                                     <div class="bk-hover">
-                                        <p>Planta Caquetá<br>Calle 6ᵃ No 7-76 BArrio El Prado, El Paujil Caquetá</p>
+                                        <p>Planta Caquetá<br>Calle 6ᵃ No 7-76 Barrio El Prado, El Paujil Caquetá</p>
                                         <p>Sede Cali<br>Calle 49N No 2AN-77 Barrio La Merced</p>
                                        <p>Teléfonos:<br><a href="#">313-455-5207 / 310-752-8724 / 313-495-4947</a></p>
                                     </div>
