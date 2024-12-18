@@ -12,7 +12,19 @@ $page_title = "Industria de Lácteos | La Maporita";
 /*slider*/
 $slide_src1 = "img/home/slider/slider1.jpg";
 $slidethumb_src1 = "img/slider/thumb/slider-thumb-1.jpg";
-$slide_alt1 = "img/home/slider/slider1.jpg";
+$slide_alt1 = "La Maporita";
+
+
+$slide_src2 = "img/home/slider/slider2.jpg";
+$slidethumb_src2 = "img/slider/thumb/slider-thumb-2.jpg";
+$slide_alt2 = "La Maporita";
+
+
+$slide_src3 = "img/home/slider/slider3.jpg";
+$slidethumb_src3 = "img/slider/thumb/slider-thumb-3.jpg";
+$slide_alt3 = "La Maporita";
+
+
 
 
 /*Acerca*/
@@ -142,7 +154,7 @@ $page_title = "Industria de Lácteos | La Maporita";
                             </div> -->
                             <!-- LAYER NR. 3  boton conocer mas-->
                             <a class="tp-caption rev-btn   smooth-scroll-link" href="novedades.php" target="_self" id="slide-16-layer-24"
-                                data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']"
+                                data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','bottom','bottom']"
                                 data-voffset="['140','140','140','100']" data-width="160" data-height="55"
                                 data-whitespace="normal" data-type="button" data-actions='' data-responsive_offset="on"
                                 data-responsive="off" data-frames='[{"delay":1000,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(255,255,255);bg:rgb(34,34,34);transform:translateY(-3px);"}]'
@@ -155,12 +167,12 @@ $page_title = "Industria de Lácteos | La Maporita";
                         <li data-index="rs-17" data-transition="incube,incube-horizontal,turnoff-vertical,turnoff"
                             data-slotamount="default,default,default,default" data-hideafterloop="0"
                             data-hideslideonmobile="off" data-easein="default,default,default,default" data-easeout="default,default,default,default"
-                            data-masterspeed="default,default,default,default" data-thumb="img/revoulation/100x50_slider-authentic-studio-slide-02-bg.jpg"
+                            data-masterspeed="default,default,default,default" data-thumb="<?= $slidethumb_src2 ?>"
                             data-rotate="0,0,0,0" data-saveperformance="off" data-title="Slide" data-param1="02"
                             data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7=""
                             data-param8="" data-param9="" data-param10="" data-description="">
                             <!-- MAIN IMAGE -->
-                            <img src="img/home/slider/slider1.jpg" alt="" data-bgposition="center center"
+                            <img src="<?= $slide_src2 ?>" alt="<?= $slide_alt2 ?>" data-bgposition="center center"
                                 data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                             <!-- LAYERS -->
 
@@ -178,7 +190,43 @@ $page_title = "Industria de Lácteos | La Maporita";
                                 -->
                             <!-- LAYER NR. 6 boton conocer mas-->
                             <a class="tp-caption rev-btn   smooth-scroll-link" href="novedades.php" target="_self" id="slide-16-layer-24"
-                                data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']"
+                                data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','bottom','bottom']"
+                                data-voffset="['140','140','140','100']" data-width="160" data-height="55"
+                                data-whitespace="normal" data-type="button" data-actions='' data-responsive_offset="on"
+                                data-responsive="off" data-frames='[{"delay":1000,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(255,255,255);bg:rgb(34,34,34);transform:translateY(-3px);"}]'
+                                data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
+                                data-paddingright="[20,20,20,20]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[20,20,20,20]"
+                                style="z-index: 7; min-width: 160px; max-width: 160px; max-width: 55px; max-width: 55px; white-space: normal; font-size: 16px; line-height: 55px; font-weight: 700; color: #222222; letter-spacing: 0px;background-color:rgb(247,211,141);border-radius:0px 0px 0px 0px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;text-decoration: none;">Conoce más <i class="fa fa-sharp fa-regular fa-angle-right"></i>
+                            </a>
+                        </li>
+                        <!--slide 3-->
+                        <li data-index="rs-18" data-transition="incube,incube-horizontal,turnoff-vertical,turnoff"
+                            data-slotamount="default,default,default,default" data-hideafterloop="0"
+                            data-hideslideonmobile="off" data-easein="default,default,default,default" data-easeout="default,default,default,default"
+                            data-masterspeed="default,default,default,default" data-thumb="<?= $slidethumb_src3 ?>"
+                            data-rotate="0,0,0,0" data-saveperformance="off" data-title="Slide" data-param1="03"
+                            data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7=""
+                            data-param8="" data-param9="" data-param10="" data-description="">
+                            <!-- MAIN IMAGE -->
+                            <img src="<?= $slide_src3 ?>" alt="<?= $slide_alt3 ?>" data-bgposition="center center"
+                                data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                            <!-- LAYERS -->
+
+                            <!-- LAYER NR. 5 
+                            <div class="tp-caption   tp-resizeme" id="slide-17-layer-1" data-x="['center','center','center','center']"
+                                data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']"
+                                data-voffset="['-25','-28','-28','-10']" data-fontsize="['80','60','45','30']"
+                                data-lineheight="['90','67','50','34']" data-width="['630','630','620','380']"
+                                data-height="['none','135','none','none']" data-whitespace="normal" data-type="text"
+                                data-responsive_offset="on" data-frames='[{"delay":700,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
+                                data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                                style="z-index: 6; min-width: 1180px; max-width: 1180px; white-space: normal; font-size: 80px; line-height: 90px; font-weight: 700; color: #ffffff; letter-spacing: 0px;">the food <br>
+                                heaven</div>
+                                -->
+                            <!-- LAYER NR. 6 boton conocer mas-->
+                            <a class="tp-caption rev-btn   smooth-scroll-link" href="novedades.php" target="_self" id="slide-16-layer-24"
+                                data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','bottom','bottom']"
                                 data-voffset="['140','140','140','100']" data-width="160" data-height="55"
                                 data-whitespace="normal" data-type="button" data-actions='' data-responsive_offset="on"
                                 data-responsive="off" data-frames='[{"delay":1000,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(255,255,255);bg:rgb(34,34,34);transform:translateY(-3px);"}]'

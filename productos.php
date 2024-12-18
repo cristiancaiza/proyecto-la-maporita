@@ -39,7 +39,7 @@
             include_once 'header.php';
         ?>
         <!-- Start Breadcaump Area --> 
-        <div class="brook-breadcaump-area pt--300 pt_md--250 pt_sm--200 pb--300 pb_md--250 pb_sm--200 bg_image--133 breadcaump-title-bar breadcaump-title-white" data-black-overlay='5'>
+        <div class="brook-breadcaump-area pt--300 pt_md--250 pt_sm--200 pb--300 pb_md--250 pb_sm--200 bg_image--136 breadcaump-title-bar breadcaump-title-white" data-black-overlay='5'>
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
