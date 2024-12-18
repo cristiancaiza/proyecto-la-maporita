@@ -1,13 +1,34 @@
+<?php 
+/*Variables*/
+$meta_description = "Somos una empresa familiar dedicada a la producción de derivados lácteos en el Caquetá. Impulsamos la industria colombiana y llevamos el mejor queso con el sello de Denominación de Origen Queso del Caquetá y la Marca Colectiva QC.";
+$meta_keywords = "queso, lácteos, derivados lácteos, Caquetá, Colombia, Queso del Caquetá, queso artesanal";
+
+
+$og_image = "img/home/queso-caqueta-hilado-artesanal.jpg";
+$og_url = "https://lacteoslamaporita.com/acerca"; 
+
+$page_title = "Acerca | La Maporita";
+
+/*Acerca textos*/
+
+$txt_acerca_1 = "Podríamos decir que somos una empresa que hace productos lácteos. Pero somos más que eso, somos una gran familia donde cada uno de sus integrantes es indíspensable para hacer de Lácteos La Maporita, lo que es hoy.<br><br> La familia Maporita está conformada por sus proveedores, campesinos honestos comprometidos con la conservación del medio ambiente, para producir leche de muy buena calidad; los operarios, que con su esfuerzo y conocimiento transforman la leche en productos tipo gourmet. Otros miembros importantes de esta familia, son todo el cuerpo administrativo, que contribuyen al buen funcionamiento y crecimiento de la empresa. Juntos contribuimos al desarrollo rural del municipio de El Paujil Caquetá.";
+$txt_acerca_2 = "En septiembre del año 1997, debido al orden público del departamento, la familia Trujillo Arcila decide salir del país, confiando su empresa en dos personas idóneas para sostener la calidad y mantener la buena imagen alcanzada por la empresa. Con esta gran responsabilidad en sus manos el Zootecnista José Humberto Maya Montoya como representante legal y arrendador de las instalaciones, y su esposa la Administradora de Emtpresas Gladys Arias Villalba, inician sus primeros pasos con La Maporita, ubicada a un kilómetro vía al municipio de El Doncello.<br><br>Gracias a la perseverancia de Gladys, en mayo del año 2002 Industria de Lácteos La Maporita, se traslada a la calle 6ª No 7-76 Barrio El Prado del municipio de El Paujil, a sus instalacones propias.<br><br>Al observar las necesidades del mercado y una calidad estandarizada, en el año 2009, emprenden una alianza comercial con la Agropecuaria Los Potrillos, con el fin de brindar acompañamiento profesional gratuito a sus proveedores de leche desde sus ordeños, mayores beneficios al del precio pagado por litro de leche, contribuyendo así, a la transformación de una ganadería sostenible y sustentable. La empresa ha venido logrando poco a poco un posicionamiento importante gracias a la calidad de su producto estrella \"Quesillo\".<br><br>A finales del año 2011, Industria de Lácteos La Maporita fue escogida por el Comité Departamental de Ganaderos del Caquetá, para hacer parte del proyecto \"Denominación de Origen Queso del Caquetá\" y la Marca Colectiva QC, como empresa pionera por su calidad y se inicia un trabajo arduo en pro de fotalecer el camino ya iniciado por la empresa, en la transformación de la ganadería tradicional a una amigable con el medio ambiente.<br><br>En el año 2016, se inaugura la primera Ruta del Queso que contó con la visita del reconocido Chef Mark Rausch, y quien hoy hace el producto Pizza Antideforestación, con Quesillo del Caquetá producido por La Maporita.<br><br>Debido a las exigencias y demandas del mercado la empresa ha venido creciendo y es así como, en mayo de 2017, pasó a ser Sociedad por Acciones Simplificada S.A.S. empresa familiar dirigida por sus propietarios José Humberto Maya Montoya, Gladys Arias Villalba, Fabián Humberto Maya Arias y Luisa Fernanda Maya Arias.";
+
+?>
+
 <!doctype html>
 <html class="no-js" lang="zxx"> 
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Acerca || Industria de Lácteos, La Maporita</title>
-    <meta name="description" content="">
+    <title><?= $page_title ?></title>
+    <meta name="description" content="<?= $meta_description ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+    <meta name="keywords" content="<?= $meta_keywords ?>">
+    <meta property="og:title" content="<?= $page_title ?>">
+    <meta property="og:description" content="<?= $meta_description ?>">
+    <meta property="og:image" content="<?= $og_image ?>">
+    <meta property="og:url" content="<?= $og_url ?>">
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="img/favicon/android-icon-192x192.png">
@@ -85,8 +106,7 @@
                                 <!--<h5 class="heading heading-h5 text-white">Our story</h5>-->
                                 <!--<div class="bkseparator--20"></div>-->
                                 <!--<h5 class="heading heading-h5 body-color text-white line-height-1-62"></h5>-->
-                                <p class="bk_pra text-white font-16">Podríamos decir que somos una empresa que hace productos lácteos. Pero somos más que eso, somos una gran familia donde cada uno de sus integrantes es indíspensable para hacer de Lácteos La Maporita, lo que es hoy.<br><br>
-                                    La familia Maporita está conformada por sus proveedores, campesinos honestos comprometidos con la conservación del medio ambiente, para producir leche de muy buena calidad; los operarios, que con su esfuerzo y conocimiento transforman la leche en productos tipo gourmet. Otros miembros importantes de esta familia, son todo el cuerpo administrativo, que contribuyen al buen funcionamiento y crecimiento de la empresa. Juntos contribuimos al desarrollo rural del municipio de El Paujil Caquetá.</p>
+                                <p class="bk_pra text-white font-16"><?= $txt_acerca_1 ?></p>
                             </div>
                         </div>
                     </div>
@@ -108,12 +128,7 @@
                                 <!--<div class="bkseparator--20"></div>-->
                                 <!--<h5 class="heading heading-h5 body-color text-white line-height-1-62"></h5>-->
                                 <p class="bk_pra text-white font-16">
-                                En septiembre del año 1997, debido al orden público del departamento, la familia Trujillo Arcila decide salir del país, confiando su empresa en dos personas idóneas para sostener la calidad y mantener la buena imagen alcanzada por la empresa. Con esta gran responsabilidad en sus manos el Zootecnista José Humberto Maya Montoya como representante legal y arrendador de las instalaciones, y su esposa la Administradora de Emtpresas Gladys Arias Villalba, inician sus primeros pasos con La Maporita, ubicada a un kilómetro vía al municipio de El Doncello.<br><br>
-Gracias a la perseverancia de Gladys, en mayo del año 2002 Industria de Lácteos La Maporita, se traslada a la calle 6ª No 7-76 Barrio El Prado del municipio de El Paujil, a sus instalacones propias.<br><br>
-Al observar las necesidades del mercado y una calidad estandarizada, en el año 2009, emprenden una alianza comercial con la Agropecuaria Los Potrillos, con el fin de brindar acompañamiento profesional gratuito a sus proveedores de leche desde sus ordeños, mayores beneficios al del precio pagado por litro de leche, contribuyendo así, a la transformación de una ganadería sostenible y sustentable. La empresa ha venido logrando poco a poco un posicionamiento importante gracias a la calidad de su producto estrella "Quesillo".<br><br>
-A finales del año 2011, Industria de Lácteos La Maporita fue escogida por el Comité Departamental de Ganaderos del Caquetá, para hacer parte del proyecto "Denominación de Origen Queso del Caquetá" y la Marca Colectiva QC, como empresa pionera por su calidad y se inicia un trabajo arduo en pro de fotalecer el camino ya iniciado por la empresa, en la transformación de la ganadería tradicional a una amigable con el medio ambiente.<br><br>
-En el año 2016, se inaugura la primera Ruta del Queso que contó con la visita del reconocido Chef Mark Rausch, y quien hoy hace el producto Pizza Antideforestación, con Quesillo del Caquetá producido por La Maporita.<br><br>
-Debido a las exigencias y demandas del mercado la empresa ha venido creciendo y es así como, en mayo de 2017, pasó a ser Sociedad por Acciones Simplificada S.A.S. empresa familiar dirigida por sus propietarios José Humberto Maya Montoya, Gladys Arias Villalba, Fabián Humberto Maya Arias y Luisa Fernanda Maya Arias.
+                                    <?= $txt_acerca_2 ?>
                                 </p>
                             </div>
                         </div>
@@ -213,7 +228,6 @@ Debido a las exigencias y demandas del mercado la empresa ha venido creciendo y 
 			</div>
 		</div>
             <!--end-timeline-->
-
             <!-- Start Call To Action -->
             <div class="brook-call-to-action bg_color--43 ptb--70">
                 <div class="container">
@@ -244,7 +258,6 @@ Debido a las exigencias y demandas del mercado la empresa ha venido creciendo y 
         ?>
     </div>
     <!--// Wrapper -->
-
     <!-- Js Files -->
     <!-- <script src="js/vendor/modernizr-3.6.0.min.js"></script>
     <script src="js/vendor/jquery.min.js"></script>
@@ -267,9 +280,6 @@ Debido a las exigencias y demandas del mercado la empresa ha venido creciendo y 
     <script src="js/revolution.extension.parallax.min.js"></script>
     <script src="js/revolution.extension.slideanims.min.js"></script>
     <script src="js/revolution.extension.video.min.js"></script> -->
-
-
-
     <!-- Use the minified version files listed below for better performance and remove the files listed above -->
     <script src="js/vendor/vendor.min.js"></script>
     <script src="js/plugins.min.js"></script>

@@ -68,8 +68,6 @@ $carrusel_responsive = [
 ];
 
 
-
-$page_title = "Industria de Lácteos | La Maporita";
 /*Variables*/
 ?>
 
@@ -153,7 +151,7 @@ $page_title = "Industria de Lácteos | La Maporita";
                                 <span style="font-size:80px; padding: 40px 0px 20px 0px; display: block;">La Maporita</span><span style="display:block; padding:20px 0px 0px 0px !important; font-weight:200; font-size: 40%;">Se convierte en un experiencia, para llevarte lo mejor de nuestra tierra Caqueteña.</span>
                             </div> -->
                             <!-- LAYER NR. 3  boton conocer mas-->
-                            <a class="tp-caption rev-btn   smooth-scroll-link" href="novedades.php" target="_self" id="slide-16-layer-24"
+                            <a class="tp-caption rev-btn   smooth-scroll-link" href="acerca.php" target="_self" id="slide-16-layer-24"
                                 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','bottom','bottom']"
                                 data-voffset="['140','140','140','100']" data-width="160" data-height="55"
                                 data-whitespace="normal" data-type="button" data-actions='' data-responsive_offset="on"
@@ -225,7 +223,7 @@ $page_title = "Industria de Lácteos | La Maporita";
                                 heaven</div>
                                 -->
                             <!-- LAYER NR. 6 boton conocer mas-->
-                            <a class="tp-caption rev-btn   smooth-scroll-link" href="novedades.php" target="_self" id="slide-16-layer-24"
+                            <a class="tp-caption rev-btn   smooth-scroll-link" href="productos.php" target="_self" id="slide-16-layer-24"
                                 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','bottom','bottom']"
                                 data-voffset="['140','140','140','100']" data-width="160" data-height="55"
                                 data-whitespace="normal" data-type="button" data-actions='' data-responsive_offset="on"
