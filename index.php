@@ -394,7 +394,7 @@ $page_title = "Industria de Lácteos | La Maporita";
                     </div>
                     <div class="col-lg-12 col-xl-6">
                         <div class="bext-service thumb">
-                            <img src="img/home/foto-familia-home.png" alt="images">
+                            <img src="img/home/familia-maya-arias-todos.jpg" alt="Familia Maya Arias - La Maporita">
                         </div>
                     </div>
                 </div>
