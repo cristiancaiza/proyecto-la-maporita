@@ -1,56 +1,68 @@
+<?php 
+/*Variables*/
+$meta_description = "Somos una empresa familiar dedicada a la producción de derivados lácteos en el Caquetá. Impulsamos la industria colombiana y llevamos el mejor queso con el sello de Denominación de Origen Queso del Caquetá y la Marca Colectiva QC.";
+$meta_keywords = "queso, lácteos, derivados lácteos, Caquetá, Colombia, Queso del Caquetá, queso artesanal";
+
+
+$og_image = "img/home/queso-caqueta-hilado-artesanal.jpg";
+$og_url = "https://lacteoslamaporita.com/acerca"; 
+
+
+$page_title = "Galería | La Maporita";
+
+/* textos*/
+
+
+
+?>
+
 <!doctype html>
-<html class="no-js" lang="zxx">
+<html class="no-js" lang="zxx"> 
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Galería || Industria de Lácteos, La Maporita</title>
-    <meta name="description" content="">
+    <title><?= $page_title ?></title>
+    <meta name="description" content="<?= $meta_description ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="keywords" content="<?= $meta_keywords ?>">
+    <meta property="og:title" content="<?= $page_title ?>">
+    <meta property="og:description" content="<?= $meta_description ?>">
+    <meta property="og:image" content="<?= $og_image ?>">
+    <meta property="og:url" content="<?= $og_url ?>">
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="img/favicon/android-icon-192x192.png">
-
     <!-- CSS
 	============================================ -->
+    <!-- Plugins -->
+    <!-- <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/revoulation.css">
+    <link rel="stylesheet" href="css/plugins.css"> -->
+
+    <!-- Style Css -->
+    <!-- <link rel="stylesheet" href="style.css"> -->
+
+    <!-- Custom Styles -->
+    <!-- <link rel="stylesheet" href="css/custom.css"> -->
+    <!-- Use the minified version files listed below for better performance and remove the files listed above -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/revoulation.css">
     <link rel="stylesheet" href="css/plugins.css">
-
-    <!-- Style Css -->
     <link rel="stylesheet" href="scss/style.css">
-
-    <!-- Custom Styles -->
-    <link rel="stylesheet" href="css/custom.css">
-    <!-- css galeria -->
-    <style>
-        .gallery_ {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-            gap: 10px;
-        }
-        .gallery_ img {
-            width: 100%;
-            height: auto;
-            object-fit: cover;
-        }
-    </style>
-     <!-- css end galeria -->
 </head>
-
-<body class="template-color-1 template-font-1">
+<body class="template-color-39 template-font-1 bg_color--42">
     <!--[if lte IE 9]>
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
-
-
-
+    <!-- Add your site or application content here -->
     <!-- Wrapper -->
     <div id="wrapper" class="wrapper">
         <?php
             include_once 'header.php';
         ?>
-        <!-- Start Breadcaump Area -->
-        <div class="brook-breadcaump-area pt--300 pt_md--250 pt_sm--200 pb--300 pb_md--250 pb_sm--200 bg_image--133 breadcaump-title-bar breadcaump-title-white" data-black-overlay="5">
+        <!-- Start Breadcaump Area --> 
+        <div class="brook-breadcaump-area pt--300 pt_md--250 pt_sm--200 pb--300 pb_md--250 pb_sm--200 bg_image--136 breadcaump-title-bar breadcaump-title-white" data-black-overlay='5'>
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -62,106 +74,88 @@
             </div>
         </div>
         <!-- End Breadcaump Area -->
-
         <!-- Page Conttent -->
-        <main class="page-content">
-            
-
-            <!-- Start Gallery Area -->
-            <div class="brook-gallery-area ptb--150 ptb-md--80 ptb-sm--60 bg_color--3 basic-thine-line bg_color--3 textura-2">
+        <main class="page-content bg_color--3">
+            <!-- Start Shop Minimal Area -->
+            <div class="brook-shop-minimal ptb--150 textura-2">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-12">
-                            <div class="gallery-wrapper gallery-grid" id="animated-thumbnials2">
-
-                                <!-- Start Single Gallery -->
-                                <a class="gallery" href="img/gallery/gallery-1/cat-lg-1.jpg">
-                                    <div class="thumb">
-                                        <img src="img/gallery/gallery-1/cat-md-1.jpg" alt="Gallery Images">
+                        <!-- Start Single Portfolio -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="portfolio with-caption">
+                                <div class="thumb video-with-thumb">
+                                    <a href="quesillo.php">
+                                        <img src="img/galeria/galeria-cat-eventos.jpg" alt="Galería - La Maporita">
+                                    </a>
+                                </div>
+                               
+                                <div class="caption-bottom text-start">
+                                    <div class="info">
+                                        <h5 class="heading heading-h5"><a href="detalles-galeria.php">Eventos</a></h5>
+                                        <!--<p class="bk_pra">$2.60</p>-->
                                     </div>
-                                    <div class="hover-overlay">
-                                        <div class="inner">
-                                            <span class="ion ion-android-add"></span>
-                                        </div>
-                                    </div>
-                                </a>
-                                <!-- End Single Gallery -->
-
-                                <!-- Start Single Gallery -->
-                                <a class="gallery" href="img/gallery/gallery-1/cat-lg-2.jpg">
-                                    <div class="thumb">
-                                        <img src="img/gallery/gallery-1/cat-md-2.jpg" alt="Gallery Images">
-                                    </div>
-                                    <div class="hover-overlay">
-                                        <div class="inner">
-                                            <span class="ion ion-android-add"></span>
-                                        </div>
-                                    </div>
-                                </a>
-                                <!-- End Single Gallery -->
-
-                                <!-- Start Single Gallery -->
-                                <a class="gallery" href="img/gallery/gallery-1/cat-lg-3.jpg">
-                                    <div class="thumb">
-                                        <img src="img/gallery/gallery-1/cat-md-3.jpg" alt="Gallery Images">
-                                    </div>
-                                    <div class="hover-overlay">
-                                        <div class="inner">
-                                            <span class="ion ion-android-add"></span>
-                                        </div>
-                                    </div>
-                                </a>
-                                <!-- End Single Gallery -->
-
-                                <!-- Start Single Gallery -->
-                                <a class="gallery" href="img/gallery/gallery-1/cat-lg-4.jpg">
-                                    <div class="thumb">
-                                        <img src="img/gallery/gallery-1/cat-md-4.jpg" alt="Gallery Images">
-                                    </div>
-                                    <div class="hover-overlay">
-                                        <div class="inner">
-                                            <span class="ion ion-android-add"></span>
-                                        </div>
-                                    </div>
-                                </a>
-                                <!-- End Single Gallery -->
-
-                                <!-- Start Single Gallery -->
-                                <a class="gallery" href="img/gallery/gallery-1/cat-lg-5.jpg">
-                                    <div class="thumb">
-                                        <img src="img/gallery/gallery-1/cat-md-5.jpg" alt="Gallery Images">
-                                    </div>
-                                    <div class="hover-overlay">
-                                        <div class="inner">
-                                            <span class="ion ion-android-add"></span>
-                                        </div>
-                                    </div>
-                                </a>
-                                <!-- End Single Gallery -->
-
-                                <!-- Start Single Gallery -->
-                                <a class="gallery" href="img/gallery/gallery-1/cat-lg-6.jpg">
-                                    <div class="thumb">
-                                        <img src="img/gallery/gallery-1/cat-md-6.jpg" alt="Gallery Images">
-                                    </div>
-                                    <div class="hover-overlay">
-                                        <div class="inner">
-                                            <span class="ion ion-android-add"></span>
-                                        </div>
-                                    </div>
-                                </a>
-                                <!-- End Single Gallery -->
-
-
+                                </div>
+                                
                             </div>
                         </div>
+                        <!-- End Single Portfolio -->
+
+                        <!-- Start Single Portfolio -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12 move-up wow animate" data-wow-delay=".15s" style="visibility: visible; animation-delay: 0.15s; opacity: 0;">
+                            <div class="portfolio with-caption mt_mobile--30">
+                                <div class="thumb">
+                                    <a href="queso-cuajada.php">
+                                        <img src="img/galeria/galeria-cat-instalaciones.jpg" alt="Galería - La Maporita">
+                                    </a>
+                                </div>
+                                <div class="caption-bottom text-start">
+                                    <div class="info">
+                                        <h5 class="heading heading-h5"><a href="detalles-galeria.php">Instalaciones</a></h5>
+                                        <!--<p class="bk_pra">$16.00</p>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Portfolio -->
+                        
+                        <!-- Start Single Portfolio -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12 move-up wow animate" data-wow-delay=".16s" style="visibility: visible; animation-delay: 0.16s; opacity: 0;">
+                            <div class="portfolio with-caption mt_sm--30 mt_md--30">
+                                <div class="thumb">
+                                    <a href="queso-picado-salado.php">
+                                        <img src="img/galeria/galeria-cat-asistencia-tecnica.jpg" alt="Galería - La Maporita">
+                                    </a>
+                                </div>
+                                <div class="caption-bottom text-start">
+                                    <div class="info">
+                                        <h5 class="heading heading-h5"><a href="detalles-galeria.php">Asistencia Técnica</a></h5>
+                                        <!--<p class="bk_pra">$2.90</p>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Portfolio -->
+
+                        <div class="bkseparator--30"></div>
+
+                        <!-- Start Single Portfolio -->
+                       
+                        <!-- End Single Portfolio -->
+
+                        <!-- Start Single Portfolio -->
+                        
+                        <!-- End Single Portfolio -->
+
+                        <!-- Start Single Portfolio -->
+                        
+                        <!-- End Single Portfolio -->
+                        
                     </div>
                 </div>
             </div>
-            <!-- End Gallery Area -->
+            <!-- End Shop Minimal Area -->
 
-            
-             <!-- Start Call To Action -->
+            <!-- Start Call To Action -->
             <div class="brook-call-to-action bg_color--43 ptb--70">
                 <div class="container">
                     <div class="row align-items-center">
@@ -186,14 +180,14 @@
             <!-- End Call To Action -->
         </main>
         <!--// Page Conttent -->
-    </div>
 
-    <?php
+        <?php
             include_once 'footer.php';
-    ?>
+        ?>
 
-
+    </div>
     <!--// Wrapper -->
+
     <!-- Js Files -->
     <!-- <script src="js/vendor/modernizr-3.6.0.min.js"></script>
     <script src="js/vendor/jquery.min.js"></script>
@@ -216,6 +210,9 @@
     <script src="js/revolution.extension.parallax.min.js"></script>
     <script src="js/revolution.extension.slideanims.min.js"></script>
     <script src="js/revolution.extension.video.min.js"></script> -->
+
+
+
     <!-- Use the minified version files listed below for better performance and remove the files listed above -->
     <script src="js/vendor/vendor.min.js"></script>
     <script src="js/plugins.min.js"></script>
@@ -225,7 +222,6 @@
     <script src="js/revolution.extension.min.js"></script>
     <script src="js/main.js"></script>
     <script src="js/revoulation.js"></script>
-
 
 </body>
 
