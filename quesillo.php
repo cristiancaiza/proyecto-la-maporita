@@ -1,11 +1,40 @@
+<?php 
+
+$meta_description = "El Quesillo La Maporita es un queso fresco, de pasta hilada, semigraso y semiduro. Elaborado bajo los más altos estándares de calidad para lograr las características propias de hilado, sabor, aroma y color. Ideal para platos gourmet como pizza, gratinados y demás. Producto listo para consumo.";
+$meta_keywords = "queso, lácteos, derivados lácteos, Caquetá, Colombia, Queso del Caquetá, queso artesanal";
+
+
+$og_image = "img/home/queso-caqueta-hilado-artesanal.jpg";
+$og_url = "https://lacteoslamaporita.com/acerca"; 
+
+
+$page_title = "Quesillo | La Maporita";
+
+
+/*Productos descripcion*/
+
+$nombre_producto = "Quesillo";
+$titulo_producto = "Quesillo La Maporita";
+$descripcion_producto = "El Quesillo La Maporita es un queso fresco, de pasta hilada, semigraso y semiduro. Elaborado bajo los más altos estándares de calidad para lograr las características propias de hilado, sabor, aroma y color. Ideal para platos gourmet como pizza, gratinados y demás. Producto listo para consumo.";
+$presentaciones_producto = "2500g tajado y entero, 500g tajado y entero y 250g tajado y entero.";
+$cat_producto = "Quesos";
+
+
+?>
+
 <!doctype html>
 <html class="no-js" lang="zxx"> 
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Quesillo || Industria de Lácteos, La Maporita</title>
-    <meta name="description" content="">
+    <title><?= $page_title ?></title>
+    <meta name="description" content="<?= $meta_description ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="keywords" content="<?= $meta_keywords ?>">
+    <meta property="og:title" content="<?= $page_title ?>">
+    <meta property="og:description" content="<?= $meta_description ?>">
+    <meta property="og:image" content="<?= $og_image ?>">
+    <meta property="og:url" content="<?= $og_url ?>">
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
@@ -49,7 +78,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="breadcaump-inner text-center">
-                            <h2 class="heading heading-h2 font-60 text-white">Quesillo</h2>
+                            <h2 class="heading heading-h2 font-60 text-white"><?= $nombre_producto ?></h2>
                         </div>
                     </div>
                 </div>
@@ -101,7 +130,7 @@
                             <div class="product-details">
                                 <div class="inner">
                                     <div class="header">
-                                        <h4 class="heading heading-h4 text-white">Quesillo La Maporita</h4>
+                                        <h4 class="heading heading-h4 text-white"><?= $titulo_producto ?></h4>
                                     </div>
                                     <!--
                                     <div class="price">
@@ -109,14 +138,14 @@
                                     </div>
                                     -->
                                     <div class="description">
-                                        <p class="bk_pra text-white">El Quesillo La Maporita es un queso fresco, de pasta hilada, semigraso y semiduro. Elaborado bajo los más altos estándares de calidad para lograr las características propias de hilado, sabor, aroma y color. Ideal para platos gourmet como pizza, gratinados y demás. Producto listo para consumo.
-                                            <br><br><strong>Presentaciones:</strong> 2500g tajado y entero, 500g tajado y entero y 250g tajado y entero.</p>
+                                        <p class="bk_pra text-white"><?= $descripcion_producto ?>
+                                            <br><br><strong>Presentaciones:</strong> <?= $presentaciones_producto ?></p>
                                     </div>
                                     <div class="product-meta">
                                         <div class="meta-item">
                                             <h6 class="heading heading-h6 text-white">Categoría:</h6>
                                             <div class="item-list">
-                                                <a class="text-white" href="#">Quesos</a>
+                                                <a class="text-white" href="#"><?= $cat_producto ?></a>
                                             </div>
                                         </div>
                                     </div>
@@ -141,7 +170,7 @@
                             <div class="text-center text-md-end text-center mt_sm--30 mt_md--40 contact-form contact-form--4 yellow-color-2">
                                 <form action="#">
                                     <div class="input-box">
-                                        <input type="email" placeholder="Su Correo Electrónico">
+                                        <input type="email" placeholder="Tu Correo Electrónico">
                                         <button>Subscríbete</button>
                                     </div>
                                 </form>

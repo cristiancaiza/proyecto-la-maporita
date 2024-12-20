@@ -25,8 +25,6 @@ $slidethumb_src3 = "img/slider/thumb/slider-thumb-3.jpg";
 $slide_alt3 = "La Maporita";
 
 
-
-
 /*Acerca*/
 $img_acerca_vertical = "img/iconos/calidad-leche.png";
 $img_acerca_vertical_alt = "Calidad Leche";

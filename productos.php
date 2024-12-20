@@ -1,6 +1,6 @@
 <?php 
 /*Variables*/
-$meta_description = "Somos una empresa familiar dedicada a la producción de derivados lácteos en el Caquetá. Impulsamos la industria colombiana y llevamos el mejor queso con el sello de Denominación de Origen Queso del Caquetá y la Marca Colectiva QC.";
+$meta_description = "En La Maporita sabemos cómo hacer queso de la mejor calidad, tenemos tres tipos de queso, quesillo, cuajada pasteurizada y queso picado salado, cuidamos cada detalle en la elaboración del queso para que pueda disfrutarlo como lo desee.";
 $meta_keywords = "queso, lácteos, derivados lácteos, Caquetá, Colombia, Queso del Caquetá, queso artesanal";
 
 
@@ -252,9 +252,6 @@ $page_title = "Productos | La Maporita";
     <script src="js/revolution.extension.parallax.min.js"></script>
     <script src="js/revolution.extension.slideanims.min.js"></script>
     <script src="js/revolution.extension.video.min.js"></script> -->
-
-
-
     <!-- Use the minified version files listed below for better performance and remove the files listed above -->
     <script src="js/vendor/vendor.min.js"></script>
     <script src="js/plugins.min.js"></script>

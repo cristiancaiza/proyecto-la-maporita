@@ -1,6 +1,6 @@
 <?php 
 /*Variables*/
-$meta_description = "Somos una empresa familiar dedicada a la producción de derivados lácteos en el Caquetá. Impulsamos la industria colombiana y llevamos el mejor queso con el sello de Denominación de Origen Queso del Caquetá y la Marca Colectiva QC.";
+$meta_description = "Somos una familia conformada por proveedores y campesinos comprometidos con el medio ambiente, que al pertenecer a las actividades económicas de Colombia más importantes, buscamos impulsar el desarrollo en nuestro municipio Paujil, Caquetá.";
 $meta_keywords = "queso, lácteos, derivados lácteos, Caquetá, Colombia, Queso del Caquetá, queso artesanal";
 
 
