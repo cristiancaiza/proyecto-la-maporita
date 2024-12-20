@@ -11,9 +11,6 @@ $og_url = "";
 
 $page_title = "Galería - Eventos  || Industria de Lácteos, La Maporita";
 
-
-
-
 /*Galeria* */
 
 $titulo_catGaleria = "Eventos"; 

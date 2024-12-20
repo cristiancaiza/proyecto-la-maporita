@@ -1,6 +1,6 @@
 <?php 
 /*Variables*/
-$meta_description = "Somos una empresa familiar dedicada a la producción de derivados lácteos en el Caquetá. Impulsamos la industria colombiana y llevamos el mejor queso con el sello de Denominación de Origen Queso del Caquetá y la Marca Colectiva QC.";
+$meta_description = "Siga el registro fotográfico de nuestros eventos corporativos y conozca más de nuestra familia Industria de Lácteos La Maporita";
 $meta_keywords = "queso, lácteos, derivados lácteos, Caquetá, Colombia, Queso del Caquetá, queso artesanal";
 
 
@@ -84,11 +84,10 @@ $page_title = "Galería | La Maporita";
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                             <div class="portfolio with-caption">
                                 <div class="thumb video-with-thumb">
-                                    <a href="quesillo.php">
+                                    <a href="detalles-galeria.php">
                                         <img src="img/galeria/galeria-cat-eventos.jpg" alt="Galería - La Maporita">
                                     </a>
-                                </div>
-                               
+                                </div>                               
                                 <div class="caption-bottom text-start">
                                     <div class="info">
                                         <h5 class="heading heading-h5"><a href="detalles-galeria.php">Eventos</a></h5>
@@ -104,7 +103,7 @@ $page_title = "Galería | La Maporita";
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12 move-up wow animate" data-wow-delay=".15s" style="visibility: visible; animation-delay: 0.15s; opacity: 0;">
                             <div class="portfolio with-caption mt_mobile--30">
                                 <div class="thumb">
-                                    <a href="queso-cuajada.php">
+                                    <a href="detalles-galeria.php">
                                         <img src="img/galeria/galeria-cat-instalaciones.jpg" alt="Galería - La Maporita">
                                     </a>
                                 </div>
@@ -117,12 +116,11 @@ $page_title = "Galería | La Maporita";
                             </div>
                         </div>
                         <!-- End Single Portfolio -->
-                        
                         <!-- Start Single Portfolio -->
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12 move-up wow animate" data-wow-delay=".16s" style="visibility: visible; animation-delay: 0.16s; opacity: 0;">
                             <div class="portfolio with-caption mt_sm--30 mt_md--30">
                                 <div class="thumb">
-                                    <a href="queso-picado-salado.php">
+                                    <a href="detalles-galeria.php">
                                         <img src="img/galeria/galeria-cat-asistencia-tecnica.jpg" alt="Galería - La Maporita">
                                     </a>
                                 </div>
@@ -168,7 +166,7 @@ $page_title = "Galería | La Maporita";
                             <div class="text-center text-md-end text-center mt_sm--30 mt_md--40 contact-form contact-form--4 yellow-color-2">
                                 <form action="#">
                                     <div class="input-box">
-                                        <input type="email" placeholder="Your e-mail">
+                                        <input type="email" placeholder="Tu Correo Electrónico">
                                         <button>Subscríbete</button>
                                     </div>
                                 </form>
