@@ -18,10 +18,7 @@ $titulo_producto = "Quesillo La Maporita";
 $descripcion_producto = "El Quesillo La Maporita es un queso fresco, de pasta hilada, semigraso y semiduro. Elaborado bajo los más altos estándares de calidad para lograr las características propias de hilado, sabor, aroma y color. Ideal para platos gourmet como pizza, gratinados y demás. Producto listo para consumo.";
 $presentaciones_producto = "2500g tajado y entero, 500g tajado y entero y 250g tajado y entero.";
 $cat_producto = "Quesos";
-
-
 ?>
-
 <!doctype html>
 <html class="no-js" lang="zxx"> 
 <head>
