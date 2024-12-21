@@ -1,12 +1,34 @@
+<?php 
+
+/*Variables*/
+$meta_description = "";
+$meta_keywords = "queso, lácteos, derivados lácteos, Caquetá, Colombia, Queso del Caquetá, queso artesanal";
+
+
+$og_image = "img/home/queso-caqueta-hilado-artesanal.jpg";
+$og_url = "https://lacteoslamaporita.com/acerca"; 
+
+$page_title = "Plata y Bronce en el Salón del Queso 2024";
+
+/* Detalle noticia*/
+
+$titulo_noticia = "$page_title | La Maporita ";
+
+?>
+
 <!doctype html>
 <html class="no-js" lang="zxx"> 
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Plata y Bronce en el Salón del Queso 2024 | La Maporita</title>
+    <title><?= $page_title ?></title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="keywords" content="<?= $meta_keywords ?>">
+    <meta property="og:title" content="<?= $page_title ?>">
+    <meta property="og:description" content="<?= $meta_description ?>">
+    <meta property="og:image" content="<?= $og_image ?>">
+    <meta property="og:url" content="<?= $og_url ?>">
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
@@ -58,7 +80,6 @@
             </div>
         </div>
         <!-- End Breadcaump Area -->
-
         <!-- Page Conttent -->
         <main class="page-content">
             <!-- Start Blog Details -->
