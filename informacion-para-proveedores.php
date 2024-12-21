@@ -1,12 +1,32 @@
+<?php 
+
+/*Variables*/
+$meta_description = "";
+$meta_keywords = "queso, lácteos, derivados lácteos, Caquetá, Colombia, Queso del Caquetá, queso artesanal";
+
+
+$og_image = "img/home/queso-caqueta-hilado-artesanal.jpg";
+$og_url = "https://lacteoslamaporita.com/acerca"; 
+
+$page_title = "Información para proveedores || Industria de Lácteos, La Maporita";
+
+?>
+
+
 <!doctype html>
 <html class="no-js" lang="zxx"> 
 
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Información para proveedores || Industria de Lácteos, La Maporita</title>
-    <meta name="description" content="">
+    <title><?= $page_title ?></title>
+    <meta name="description" content="<?= $meta_description ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="keywords" content="<?= $meta_keywords ?>">
+    <meta property="og:title" content="<?= $page_title ?>">
+    <meta property="og:description" content="<?= $meta_description ?>">
+    <meta property="og:image" content="<?= $og_image ?>">
+    <meta property="og:url" content="<?= $og_url ?>">
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
@@ -23,8 +43,6 @@
 
     <!-- Custom Styles -->
     <!-- <link rel="stylesheet" href="css/custom.css"> -->
-
-
     <!-- Use the minified version files listed below for better performance and remove the files listed above -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/revoulation.css">
@@ -188,7 +206,7 @@
                             <div class="text-center text-md-end text-center mt_sm--30 mt_md--40 contact-form contact-form--4 yellow-color-2">
                                 <form action="#">
                                     <div class="input-box">
-                                        <input type="email" placeholder="Su Correo Electrónico">
+                                        <input type="email" placeholder="Tu Correo Electrónico">
                                         <button>Subscríbete</button>
                                     </div>
                                 </form>

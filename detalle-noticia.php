@@ -8,11 +8,11 @@ $meta_keywords = "queso, lácteos, derivados lácteos, Caquetá, Colombia, Queso
 $og_image = "img/home/queso-caqueta-hilado-artesanal.jpg";
 $og_url = "https://lacteoslamaporita.com/acerca"; 
 
-$page_title = "Plata y Bronce en el Salón del Queso 2024";
+$page_title = "$titulo_noticia | La Maporita";
 
 /* Detalle noticia*/
 
-$titulo_noticia = "$page_title | La Maporita ";
+$titulo_noticia = "Plata y Bronce en el Salón del Queso 2024";
 
 ?>
 
