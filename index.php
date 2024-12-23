@@ -4,10 +4,10 @@ $meta_description = "Somos una empresa familiar dedicada a la producción de der
 $meta_keywords = "queso, lácteos, derivados lácteos, Caquetá, Colombia, Queso del Caquetá, queso artesanal";
 $og_title = "Industria de Lácteos | La Maporita";
 $og_description = "Empresa dedicada a la producción de derivados lácteos con Denominación de Origen en el Caquetá.";
-$og_image = "img/home/queso-caqueta-hilado-artesanal.jpg";
+$og_image = "img/home/familia-maya-arias-todos.jpg";
 $og_url = "https://lacteoslamaporita.com/"; 
 
-$page_title = "Industria de Lácteos | La Maporita";
+$page_title = "Inicio || Industria de Lácteos, La Maporita";
 
 /*slider*/
 $slide_src1 = "img/home/slider/slider1.jpg";

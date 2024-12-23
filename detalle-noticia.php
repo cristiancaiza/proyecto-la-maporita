@@ -237,7 +237,7 @@ Industria de Lácteos La Maporita logró dos importantes premios este año, Meda
                             <div class="text-center text-md-end text-center mt_sm--30 mt_md--40 contact-form contact-form--4 yellow-color-2">
                                 <form action="#">
                                     <div class="input-box">
-                                        <input type="email" placeholder="Su Correo Electrónico">
+                                        <input type="email" placeholder="Tu Correo Electrónico">
                                         <button>Subscríbete</button>
                                     </div>
                                 </form>

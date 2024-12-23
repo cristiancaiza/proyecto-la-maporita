@@ -54,6 +54,99 @@
                                 <h2 class="widgettitle">Galería</h2>
 
                                 <div class="ft-instagram-list">
+                                <div class="instagram-grid-wrap">
+
+                                        <!-- Start Single Instagram -->
+                                        <div class="item-grid grid-style--1">
+                                            <div class="thumb">
+                                                <a href="#">
+                                                    <img src="img/instagram/instagram-1/instagram-7.jpg" alt="Galería multimedia - La Maporita">
+                                                </a>
+                                                <div class="item-info">
+                                                    <div class="inner">
+                                                        <a href="galeria.php"><i class="fas fa-eye"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- Start Single Instagram -->
+
+                                        <!-- Start Single Instagram -->
+                                        <div class="item-grid grid-style--1">
+                                            <div class="thumb">
+                                                <a href="#">
+                                                    <img src="img/instagram/instagram-1/instagram-8.jpg" alt="instagram images">
+                                                </a>
+                                                <div class="item-info">
+                                                    <div class="inner">
+                                                        <a href="galeria.php"><i class="fas fa-eye"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- Start Single Instagram -->
+
+                                        <!-- Start Single Instagram -->
+                                        <div class="item-grid grid-style--1">
+                                            <div class="thumb">
+                                                <a href="#">
+                                                    <img src="img/instagram/instagram-1/instagram-9.jpg" alt="instagram images">
+                                                </a>
+                                                <div class="item-info">
+                                                    <div class="inner">
+                                                        <a href="galeria.php"><i class="fas fa-eye"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- Start Single Instagram -->
+
+                                        <!-- Start Single Instagram -->
+                                        <div class="item-grid grid-style--1">
+                                            <div class="thumb">
+                                                <a href="#">
+                                                    <img src="img/instagram/instagram-1/instagram-10.jpg" alt="instagram images">
+                                                </a>
+                                                <div class="item-info">
+                                                    <div class="inner">
+                                                        <a href="galeria.php"><i class="fas fa-eye"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- Start Single Instagram -->
+
+                                        <!-- Start Single Instagram -->
+                                        <div class="item-grid grid-style--1">
+                                            <div class="thumb">
+                                                <a href="#">
+                                                    <img src="img/instagram/instagram-1/instagram-11.jpg" alt="instagram images">
+                                                </a>
+                                                <div class="item-info">
+                                                    <div class="inner">
+                                                        <a href="galeria.php"><i class="fas fa-eye"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- Start Single Instagram -->
+
+                                        <!-- Start Single Instagram -->
+                                        <div class="item-grid grid-style--1">
+                                            <div class="thumb">
+                                                <a href="#">
+                                                    <img src="img/instagram/instagram-1/instagram-12.jpg" alt="instagram images">
+                                                </a>
+                                                <div class="item-info">
+                                                    <div class="inner">
+                                                        <a href="galeria.php"><i class="fas fa-eye"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- Start Single Instagram -->
+
+                                    </div>
                                     
                                 </div>
                             </div>
