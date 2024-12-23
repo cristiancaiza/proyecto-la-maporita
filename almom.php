@@ -12,7 +12,7 @@ $page_title = "ALMOM | La Maporita";
 /*Acerca textos*/
 
 $txt_acerca_1 = "En ALMOM, llevamos a tu mesa el auténtico sabor de la tradición. Nuestras almojábanas son horneadas con amor y dedicación, utilizando ingredientes cuidadosamente seleccionados y una receta que ha pasado de generación en generación.<br><br>El secreto de su sabor único está en el queso con el que las elaboramos: un queso galardonado con la medalla de plata en el Premio Nacional del Queso 2024. Este reconocimiento avala su calidad y resalta el compromiso que tenemos por ofrecerte lo mejor.<br><br>Perfectas para acompañar tus comidas, compartir momentos especiales o simplemente disfrutar solas, nuestras almojábanas son la combinación ideal de tradición, calidad y un toque de excelencia.<br><br><strong>¡Descubre el placer de un bocado lleno de historia con ALMOM!</strong>";
-$txt_acerca_2 = "Horario de atención<br><br>Lunes a viernes 6:30 a.m. - 9:00 p.m.<br><br>Fin de semana y festivos 7:00 a.m. - 9:00 p.m.<br><br>Contacto 314 842 0509 / Cra. 82A #30-61 Medellín<br><br>Frente al C.C. Los Molinos entrada del Éxito<br><br>ALMOM es punto de venta autorizado para los Quesos de La Maporita en Medellín";
+$txt_acerca_2 = "Lunes a viernes 6:30 a.m. - 9:00 p.m.<br><br>Fin de semana y festivos 7:00 a.m. - 9:00 p.m.<br><br>Contacto 314 842 0509 / Cra. 82A #30-61 Medellín<br><br>Frente al C.C. Los Molinos entrada del Éxito<br><br>ALMOM es punto de venta autorizado para los Quesos de La Maporita en Medellín";
 
 ?>
 
