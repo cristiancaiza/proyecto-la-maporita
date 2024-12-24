@@ -30,7 +30,7 @@ $img_acerca_vertical = "img/iconos/calidad-leche.png";
 $img_acerca_vertical_alt = "Calidad Leche";
 
 
-$txt_acerca_nosotros = "Le damos la bienvenida a Lácteos La Maporita. Somos una empresa familiar dedicada a la producción de derivados lácteos en el Caquetá, con más de 20 años en el mercado, plasmando en cada producto nuestro esfuerzo y amor, para que los colombianos tengan el placer de disfrutar una experiencia gastronómica con el sello de Denominación de Origen \"Queso del Caquetá\" y la Marca Colectiva QC, como reconocimiento a la calidad de productos comprometidos con la conservación del medio ambiente y nuestro Piedemonte Amazónico.";
+$txt_acerca_nosotros = "En Lácteos La Maporita no solo elaboramos productos lácteos, creamos experiencias que nacen del esfuerzo y la pasión de nuestra gran familia. Cada integrante es esencial en este proceso, desde quienes cuidan con dedicación las vacas bajo buenas prácticas ganaderas, hasta quienes perfeccionan cada detalle en la elaboración artesanal de nuestros quesos frescos. Somos más que una empresa; somos un compromiso con la calidad, la tradición y la sostenibilidad, trabajando juntos para ofrecer nuestros productos con calidad y mucho amor.";
 
 
 
@@ -171,7 +171,7 @@ $carrusel_responsive = [
                                 data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
                                 data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                 style="z-index: 6; min-width: 630px; max-width: 630px; white-space: normal; font-size: 0px; font-weight: 700; color: #ffffff; letter-spacing: 0px;"><span class="texto-slider-home" style="font-weight:200; font-size: 40%;">Con Calidad y mucho amor</span>
-                                <span style="font-size:80px; padding: 40px 0px 20px 0px; display: block;">La Maporita</span><span style="display:block; padding:20px 0px 0px 0px !important; font-weight:200; font-size: 40%;">Se convierte en un experiencia, para llevarte lo mejor de nuestra tierra Caqueteña.</span>
+                                <span class="texto-slider-home" style="font-size:80px; padding: 40px 0px 20px 0px; display: block;">La Maporita</span><span class="texto-slider-home" style="display:block; padding:20px 0px 0px 0px !important; font-weight:200; font-size: 40%;">Se convierte en un experiencia, para llevarte lo mejor de nuestra tierra Caqueteña.</span>
                             </div> <!---->
                             <!-- LAYER NR. 6 boton conocer mas-->
                             <a class="tp-caption rev-btn   smooth-scroll-link" href="novedades.php" target="_self" id="slide-16-layer-24"
@@ -314,7 +314,7 @@ $carrusel_responsive = [
                                                     <div class="container_textos">
                                                         <h4 class="text-white">Producto tipo Gourmet</h4>
                                                     </div>
-                                                    <p class="bk_pra heading-font pr--40 text-white">Por sus altos indices de calidad, su exquisita textura y facilidad de gratinado, un producto fino en su categoría.</p>
+                                                    <p class="bk_pra heading-font pr--40 text-white">Por sus altos índices de calidad, su exquisita textura y facilidad de gratinado, un producto fino en su categoría.</p>
                                                 </div> 
                                             </div>
                                         </div>
@@ -456,13 +456,13 @@ $carrusel_responsive = [
                             <div class="blog blog-style--2 creative--blog">
                                 <!-- Swip Slide -->
                                 <div class="thumb">
-                                    <a href="novedades.php"><img src="img/home/blog/blog-1.jpg" alt="La Maporita"></a>
+                                    <a href="novedades.php"><img src="img/novedades/thumb-blog-1.jpg" alt="Novedades - La Maporita"></a>
                                 </div>
                                 <div class="blog-content">
                                     <div class="content">
-                                        <h3 class="the-title"><a href="novedades.php">Día mundial de la leche</a></h3>
+                                        <h3 class="the-title"><a href="novedades.php">Plata y Bronce en el Salón del Queso 2024</a></h3>
                                         <ul class="meta">
-                                            <li>Enero 7, 2024</li>
+                                            <li>Agosto 20, 2024</li>
                                             <li><a href="novedades.php">Categoría</a></li>
                                         </ul>
                                     </div>
@@ -475,13 +475,13 @@ $carrusel_responsive = [
                         <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
                             <div class="blog blog-style--2 creative--blog">
                                 <div class="thumb">
-                                    <a href="novedades.php"><img src="img/home/blog/blog-4.jpg" alt="Blog Images"></a>
+                                    <a href="novedades.php"><img src="img/novedades/thumb-blog-2.jpg" alt="Novedades - La Maporita"></a>
                                 </div>
                                 <div class="blog-content">
                                     <div class="content">
-                                        <h3 class="the-title"><a href="novedades.php">Unión Europea visita La Maporita</a></h3>
+                                        <h3 class="the-title"><a href="novedades.php">Laboratorio Digital para Emprendedores en el Paujil</a></h3>
                                         <ul class="meta">
-                                            <li>Enero 7, 2024</li>
+                                            <li>Junio 28, 2024</li>
                                             <li><a href="novedades.php">Categoría</a></li>
                                         </ul>
                                     </div>
@@ -493,32 +493,32 @@ $carrusel_responsive = [
                         <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
                             <div class="blog blog-style--2 creative--blog">
                                 <div class="thumb">
-                                    <a href="novedades.php"><img src="img/home/blog/blog-2.jpg" alt="Blog Images"></a>
-                                </div>
-                                <div class="blog-content">
-                                    <div class="content">
-                                        <h3 class="the-title"><a href="novedades.php">Premio Nacional del Queso 2023</a></h3>
-                                        <ul class="meta">
-                                            <li>Enero 7, 2024</li>
-                                            <li><a href="novedades.php">Categoría</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Portfolio -->
-
-                        <!-- Start Single Portfolio -->
-                        <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
-                            <div class="blog blog-style--2 creative--blog">
-                                <div class="thumb">
-                                    <a href="novedades.php"><img src="img/home/blog/blog-1.jpg" alt="Blog Images"></a>
+                                    <a href="novedades.php"><img src="img/novedades/thumb-blog-3.jpg" alt="Novedades - La Maporita"></a>
                                 </div>
                                 <div class="blog-content">
                                     <div class="content">
                                         <h3 class="the-title"><a href="novedades.php">Día Mundial de la Leche</a></h3>
                                         <ul class="meta">
-                                            <li>Enero 9, 2024</li>s
+                                            <li>Junio 1, 2024</li>
+                                            <li><a href="novedades.php">Categoría</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Portfolio -->
+
+                        <!-- Start Single Portfolio -->
+                        <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
+                            <div class="blog blog-style--2 creative--blog">
+                                <div class="thumb">
+                                    <a href="novedades.php"><img src="img/novedades/thumb-blog-4.jpg" alt="Novedades - La Maporita"></a>
+                                </div>
+                                <div class="blog-content">
+                                    <div class="content">
+                                        <h3 class="the-title"><a href="novedades.php">Unión Europea visita La Maporita</a></h3>
+                                        <ul class="meta">
+                                            <li>Enero 9, 2024</li>
                                             <li><a href="novedades.php">Categoría</a></li>
                                         </ul>
                                     </div>

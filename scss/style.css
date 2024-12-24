@@ -15898,6 +15898,11 @@ a:hover.hint--bottom::after {
   background: #ffffff;
 }
 
+/* Slider */
+.texto-slider-home {
+  text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.9);
+}
+
 /* =======================
     Custom Carousel Area 
 ===========================*/
@@ -27976,7 +27981,7 @@ header.br_header.header-default.vertical-slide-portfolio {
 }
 
 .header-default.headroom--not-top .header__wrapper .header-left .logo a img {
-  width: 150px;
+  width: 280px;
 }
 
 .header-default.header-architecture.headroom--not-top .header__wrapper .header-left .logo a img {
