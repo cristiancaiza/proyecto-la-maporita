@@ -43,16 +43,18 @@ $txt_ytube_home = "Le damos la bienvenida a Lácteos La Maporita. Somos una empr
 
 // Array con los datos de los afiliados
 $afiliados = [
-    ["src" => "img/home/afiliados/afiliado-1.png", "link" => "#link1", "alt" => "Afiliado 1"],
-    ["src" => "img/home/afiliados/afiliado-2.png", "link" => "#link2", "alt" => "Afiliado 2"],
-    ["src" => "img/home/afiliados/afiliado-3.png", "link" => "#link3", "alt" => "Afiliado 3"],
-    ["src" => "img/home/afiliados/afiliado-4.png", "link" => "#link4", "alt" => "Afiliado 4"]
+    ["src" => "img/home/afiliados/afiliado-1.png", "alt" => "Afiliado 1"],
+    ["src" => "img/home/afiliados/afiliado-2.png", "alt" => "Afiliado 2"],
+    ["src" => "img/home/afiliados/afiliado-3.png", "alt" => "Afiliado 3"],
+    ["src" => "img/home/afiliados/afiliado-4.png", "alt" => "Afiliado 4"],
+    ["src" => "img/home/afiliados/afiliado-5.png", "alt" => "Afiliado 5"],
+    ["src" => "img/home/afiliados/afiliado-6.png", "alt" => "Afiliado 6"]
 ];
 
 // Configuración dinámica del carrusel
 $carrusel_config = [
     "spaceBetween" => 15,
-    "slidesToShow" => 5,
+    "slidesToShow" => 6,
     "slidesToScroll" => 1,
     "arrows" => false,
     "infinite" => true
@@ -433,6 +435,71 @@ $carrusel_responsive = [
                 </div>
             </div>
             <!-- End Best Service -->
+            <!-- Reconocimientos -->
+            <div class="brook-product-area pb--120 pb_md--80 pb_sm--60">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="brook-section-title text-center">
+                                <div class="bkseparator--120"></div>
+                                <h2 class="heading heading-h2 text-white">Reconocimientos</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row mt--30">
+
+                        <!-- Start Single Product -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="product mt--30">
+                                <div class="product-thumbnail">
+                                    <div class="thumbnail">
+                                        <div class="product-main-image">
+                                            <img src="img/reconocimientos/reconocimiento-1.png" alt="Reconocimiento - La Maporita">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Product -->
+
+                        <!-- Start Single Product -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="product mt--30">
+                                <div class="product-thumbnail">
+                                    <div class="thumbnail">
+                                        <div class="product-main-image">
+                                            <img src="img/reconocimientos/reconocimiento-2.png" alt="Reconocimiento - La Maporita">
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Product -->
+
+                        <!-- Start Single Product -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="product mt--30">
+                                <div class="product-thumbnail">
+                                    <div class="thumbnail">
+                                        <div class="product-main-image">
+                                            <img src="img/reconocimientos/reconocimiento-3.png" alt="Reconocimiento - La Maporita">
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <!-- End Single Product -->
+
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Fin Reconocimientos -->
+
             <!-- Start Blog Area -->
             <div class="textura-2 bk-blog-area pt--50 pt_md--40 pt_sm--30 clearfix bg_color--3">
                 <div class="container">
@@ -507,7 +574,6 @@ $carrusel_responsive = [
                             </div>
                         </div>
                         <!-- End Single Portfolio -->
-
                         <!-- Start Single Portfolio -->
                         <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
                             <div class="blog blog-style--2 creative--blog">
@@ -544,9 +610,9 @@ $carrusel_responsive = [
 
                                         <?php foreach ($afiliados as $afiliado): ?>
                                             <div class="brand">
-                                                <a href="<?php echo $afiliado['link']; ?>">
+                                                <!--<a href="<?php  // echo $afiliado['link']; ?>">-->
                                                     <img src="<?php echo $afiliado['src']; ?>" alt="<?php echo $afiliado['alt']; ?>">
-                                                </a>
+                                               <!-- </a>-->
                                             </div>
                                         <?php endforeach; ?>
                                         
