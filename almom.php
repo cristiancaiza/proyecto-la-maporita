@@ -99,7 +99,7 @@ $txt_acerca_2 = "Lunes a viernes 6:30 a.m. - 9:00 p.m.<br><br>Fin de semana y fe
                                 <h2 class="heading heading-h2 text-white">Almojábanas de Mamá</h2>
                             </div>
                             <div class="bkseparator--20"></div>
-                            <img src="img/almom/almom-medellin.jpg" alt="ALMOM" alt="ALMOM">
+                            <img src="img/almom/logo-almom.png" alt="ALMOM">
                         </div>
                         <div class="col-lg-7 offset-lg-1 col-12 mt_md--30 mt_sm--30">
                             <div class="modern-service wow move-up">
@@ -118,6 +118,7 @@ $txt_acerca_2 = "Lunes a viernes 6:30 a.m. - 9:00 p.m.<br><br>Fin de semana y fe
                         <div class="col-lg-4 col-12">
                             <div class="modern-service">
                                <h2 class="heading heading-h2 text-white">Horario de Atención</h2>
+                               <div class="bkseparator--20"></div>
                                <img src="img/almom/almom-medellin.jpg" alt="ALMOM">
                             </div>
                         </div>
