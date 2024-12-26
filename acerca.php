@@ -121,7 +121,6 @@ $txt_acerca_1 = "Podríamos decir que somos una empresa que hace productos láct
                             <div class="modern-service">
                                 <h2 class="heading heading-h2 text-white">Nuestra Historia</h2>
                                 <div class="bkseparator--100"></div>
-                                <img src="img/acerca/img-acerca-nuestra-historia-2.jpg" alt="Lácteos La Maporita">
                             </div>
                         </div>
                         <div class="col-lg-7 offset-lg-1 col-12 mt_md--30 mt_sm--30">
@@ -129,9 +128,9 @@ $txt_acerca_1 = "Podríamos decir que somos una empresa que hace productos láct
                                 <!--<h5 class="heading heading-h5 text-white">Our story</h5>-->
                                 <!--<div class="bkseparator--20"></div>-->
                                 <!--<h5 class="heading heading-h5 body-color text-white line-height-1-62"></h5>-->
-                                <p class="bk_pra text-white font-16">
-                                   
+                                <p class="bk_pra text-white font-16">                                   
                                 </p>
+                                <img src="img/acerca/img-acerca-nuestra-historia-2.jpg" alt="Lácteos La Maporita">
                             </div>
                         </div>
                     </div>
