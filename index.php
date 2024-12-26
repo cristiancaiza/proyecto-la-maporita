@@ -163,18 +163,6 @@ $carrusel_responsive = [
                                 data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                             <!-- LAYERS -->
 
-                             <!--TEXT_SLIDER-->
-                             <div class="tp-caption   tp-resizeme" id="slide-16-layer-1" data-x="['center','center','center','center']"
-                                data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']"
-                                data-voffset="['25','28','28','10']" data-fontsize="['80','60','45','30']"
-                                data-lineheight="['40','0','0','0']" data-width="['800','670','620','380']"
-                                data-height="['none','135','none','none']" data-whitespace="normal" data-type="text"
-                                data-responsive_offset="on" data-frames='[{"delay":700,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
-                                data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                                style="z-index: 6; min-width: 630px; max-width: 630px; white-space: normal; font-size: 0px; font-weight: 700; color: #ffffff; letter-spacing: 0px;"><span class="texto-slider-home" style="font-weight:200; font-size: 40%;">Con Calidad y mucho amor</span>
-                                <span class="texto-slider-home" style="font-size:80px; padding: 40px 0px 20px 0px; display: block;">La Maporita</span><span class="texto-slider-home" style="display:block; padding:20px 0px 0px 0px !important; font-weight:200; font-size: 40%;">Se convierte en un experiencia, para llevarte lo mejor de nuestra tierra Caqueteña.</span>
-                            </div> <!---->
                             <!-- LAYER NR. 6 boton conocer mas-->
                             <a class="tp-caption rev-btn   smooth-scroll-link" href="novedades.php" target="_self" id="slide-16-layer-24"
                                 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','bottom','bottom']"
@@ -199,18 +187,18 @@ $carrusel_responsive = [
                                 data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                             <!-- LAYERS -->
 
-                            <!-- LAYER NR. 5 
-                            <div class="tp-caption   tp-resizeme" id="slide-17-layer-1" data-x="['center','center','center','center']"
+                              <!--TEXT_SLIDER-->
+                              <div class="tp-caption   tp-resizeme" id="slide-16-layer-1" data-x="['center','center','center','center']"
                                 data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']"
-                                data-voffset="['-25','-28','-28','-10']" data-fontsize="['80','60','45','30']"
-                                data-lineheight="['90','67','50','34']" data-width="['630','630','620','380']"
+                                data-voffset="['25','28','28','10']" data-fontsize="['80','60','45','30']"
+                                data-lineheight="['40','0','0','0']" data-width="['800','670','620','380']"
                                 data-height="['none','135','none','none']" data-whitespace="normal" data-type="text"
                                 data-responsive_offset="on" data-frames='[{"delay":700,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
                                 data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
                                 data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                                style="z-index: 6; min-width: 1180px; max-width: 1180px; white-space: normal; font-size: 80px; line-height: 90px; font-weight: 700; color: #ffffff; letter-spacing: 0px;">the food <br>
-                                heaven</div>
-                                -->
+                                style="z-index: 6; min-width: 630px; max-width: 630px; white-space: normal; font-size: 0px; font-weight: 700; color: #ffffff; letter-spacing: 0px;"><span class="texto-slider-home" style="font-weight:200; font-size: 40%;">Con Calidad y mucho amor</span>
+                                <span class="texto-slider-home" style="font-size:80px; padding: 40px 0px 20px 0px; display: block;">La Maporita</span><span class="texto-slider-home" style="display:block; padding:20px 0px 0px 0px !important; font-weight:200; font-size: 40%;">Se convierte en un experiencia, para llevarte lo mejor de nuestra tierra Caqueteña.</span>
+                            </div> <!---->
                             <!-- LAYER NR. 6 boton conocer mas-->
                             <a class="tp-caption rev-btn   smooth-scroll-link" href="productos.php" target="_self" id="slide-16-layer-24"
                                 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','bottom','bottom']"
