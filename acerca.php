@@ -107,7 +107,7 @@ $txt_acerca_1 = "Podríamos decir que somos una empresa que hace productos láct
                                 <!--<div class="bkseparator--20"></div>-->
                                 <!--<h5 class="heading heading-h5 body-color text-white line-height-1-62"></h5>-->
                                 <p class="bk_pra text-white font-16"><?= $txt_acerca_1 ?></p>
-                                <div class="bkseparator--120"></div>
+                                <div class="bkseparator--100"></div>
                                 <img src="img/acerca/img-acerca-nuestra-historia.jpg" alt="Lácteos La Maporita">
                             </div>
                         </div>
