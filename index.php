@@ -424,7 +424,7 @@ $carrusel_responsive = [
             </div>
             <!-- End Best Service -->
             <!-- Reconocimientos -->
-            <div class="brook-product-area pb--120 pb_md--80 pb_sm--60">
+            <div class="brook-product-area pb--120 pb_md--80 pb_sm--60 textura-2">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">

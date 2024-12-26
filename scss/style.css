@@ -13299,7 +13299,7 @@ Blog Default Style
   height: 100%;
   min-height: 172px;
   padding: 21px 16px 32px;
-  background: #222;
+  background: #000;
   flex-grow: 1;
 }
 .blog.blog-style--2 .blog-content::before {
