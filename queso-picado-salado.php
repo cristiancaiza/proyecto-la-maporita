@@ -1,3 +1,16 @@
+<?php 
+
+/*Conf siguiente y atras*/
+$productos = ["quesillo.php", "queso-cuajada.php", "queso-fiesta.php", "queso-finas-hierbas.php", "queso-picado-salado.php", "queso-tipo-cheddar.php"];
+$current_index = array_search(basename($_SERVER['PHP_SELF']), $productos);
+$prev_index = ($current_index - 1 + count($productos)) % count($productos);
+$next_index = ($current_index + 1) % count($productos);
+$prev_product = $productos[$prev_index];
+$next_product = $productos[$next_index];
+
+?>
+
+
 <!doctype html>
 <html class="no-js" lang="zxx"> 
 
@@ -64,10 +77,10 @@
                         <div class="nextprev-btn">
                             <div class="navlist">
                                 <div class="navitem prev">
-                                    <a id="backLink" class="text-white" href="queso-cuajada.php">Anterior</a>
+                                    <a id="backLink" class="text-white" href="<?= $prev_product ?>">Anterior</a>
                                 </div>
                                 <div class="navitem next">
-                                    <a id="nextLink" class="text-white" href="queso-tipo-cheddar.php.php">Siguiente</a>
+                                    <a id="nextLink" class="text-white" href="<?= $next_product ?>">Siguiente</a>
                                 </div>
                             </div>
                         </div>
