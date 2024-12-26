@@ -76,7 +76,7 @@ $txt_acerca_2 = "Lunes a viernes 6:30 a.m. - 9:00 p.m.<br><br>Fin de semana y fe
             include_once 'header.php';
         ?>
         <!-- Start Breadcaump Area --> 
-        <div class="brook-breadcaump-area pt--300 pt_md--250 pt_sm--200 pb--300 pb_md--250 pb_sm--200 bg_image--2 breadcaump-title-bar breadcaump-title-white" data-black-overlay='5'>
+        <div class="brook-breadcaump-area pt--300 pt_md--250 pt_sm--200 pb--300 pb_md--250 pb_sm--200 bg_image--5 breadcaump-title-bar breadcaump-title-white" data-black-overlay='5'>
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -118,6 +118,7 @@ $txt_acerca_2 = "Lunes a viernes 6:30 a.m. - 9:00 p.m.<br><br>Fin de semana y fe
                         <div class="col-lg-4 col-12">
                             <div class="modern-service">
                                <h2 class="heading heading-h2 text-white">Horario de Atención</h2>
+                               <img src="img/almom/almom-medellin.jpg" alt="ALMOM">
                             </div>
                         </div>
                         <div class="col-lg-7 offset-lg-1 col-12 mt_md--30 mt_sm--30">
@@ -125,6 +126,7 @@ $txt_acerca_2 = "Lunes a viernes 6:30 a.m. - 9:00 p.m.<br><br>Fin de semana y fe
                              <h5 class="heading heading-h5 text-white"></h5>
                                 <!--<div class="bkseparator--20"></div>-->
                                 <!--<h5 class="heading heading-h5 body-color text-white line-height-1-62"></h5>-->
+                                
                                 <p class="bk_pra text-white font-16">
                                     <?= $txt_acerca_2 ?>
                                 </p>

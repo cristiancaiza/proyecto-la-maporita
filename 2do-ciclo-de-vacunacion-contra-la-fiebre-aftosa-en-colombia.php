@@ -46,7 +46,7 @@
             include_once 'header.php';
         ?>
         <!-- Start Breadcaump Area --> 
-        <div class="brook-breadcaump-area pt--300 pt_md--250 pt_sm--200 pb--300 pb_md--250 pb_sm--200 bg_image--133 breadcaump-title-bar breadcaump-title-white" data-black-overlay='5'>
+        <div class="brook-breadcaump-area pt--200 pt_md--250 pt_sm--100 pb--100 pb_md--250 pb_sm--100 bg_image--133 breadcaump-title-bar breadcaump-title-white" data-black-overlay='5'>
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -64,7 +64,7 @@
             <div class="brook-blog-details-area pt--150 pb--150">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-8 col-md-12 col-sm-12 col-12">
+                        <div class="col-lg-9 col-md-12 col-sm-12 col-12">
                             <div class="blog-details-wrapper">
                                 <article class="blog-post standard-post">
                                     <!-- Start Header -->
@@ -131,69 +131,6 @@
                                 </div>
                                 <!-- End Post Nav Links -->
 
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-12 col-sm-12 col-12 mt_md--60 mt_sm--60">
-                            <div class="blog-sidebar-container">
-                                <!-- Start Sidebar Area -->
-                                <div class="blog-sidebar-wrapper">
-
-                                    <!-- Start Single Widget -->
-                                    <div class="bl-sidebar search">
-                                        <h5 class="widget-title">Buscar</h5>
-                                        <form class="inner" action="#">
-                                            <div class="search-box">
-                                                <input type="text" placeholder="Ingrese palabra clave…">
-                                                <button><span class="fa fa-search"></span></button>
-                                            </div>
-                                        </form>
-                                    </div>
-                                    <!-- End Single Widget -->
-
-                                   
-
-                                    <!-- Start Single Widget -->
-                                    <div class="bl-sidebar category mt--50 wow move-up">
-                                        <h5 class="widget-title">Categorías</h5>
-                                        <div class="inner">
-                                            <ul class="category-list">
-                                                <li><a href="#">Quesos</a></li>
-                                                <li><a href="#">Lácteos</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <!-- End Single Widget -->
-                                    
-
-                                    <!-- Start Single Widget -->
-                                    <div class="bl-sidebar archive mt--50 wow move-up">
-                                        <h5 class="widget-title">Archives</h5>
-                                        <div class="inner">
-                                            <select>
-                                                <option>Select Month</option>
-                                                <option>January 2019 </option>
-                                                <option>July 2018 </option>
-                                                <option> January 2018 </option>
-                                            </select>
-                                        </div>
-                                    </div>
-                                    <!-- End Single Widget -->
-
-                                    <!-- Start Single Widget -->
-                                    <div class="bl-sidebar tag mt--50 wow move-up">
-                                        <h5 class="widget-title">Etiquetas</h5>
-                                        <div class="inner">
-                                            <ul class="tagcloud">
-                                                <li><a href="#">ganadería</a></li>
-                                                <li><a href="#">quesos</a></li>
-                                                <li><a href="#">sostenibilidad</a></li>
-                                                
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <!-- End Single Widget -->
-                                </div>
-                                <!-- End Sidebar Area -->
                             </div>
                         </div>
                     </div>
