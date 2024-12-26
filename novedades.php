@@ -160,8 +160,6 @@ $page_title = "Novedades || Industria de Lácteos, La Maporita";
                             </div>
                         </div>
                         <!-- End Single Portfolio -->
-
-
                         <!-- Start Single Portfolio -->
                         <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
                             <div class="blog blog-style--2 creative--blog">
@@ -180,7 +178,6 @@ $page_title = "Novedades || Industria de Lácteos, La Maporita";
                             </div>
                         </div>
                         <!-- End Single Portfolio -->
-
                         <!-- Start Single Portfolio -->
                         <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
                             <div class="blog blog-style--2 creative--blog">
