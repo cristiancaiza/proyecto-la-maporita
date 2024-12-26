@@ -243,20 +243,20 @@
 
 
 @media #{$laptop-device}{
-    .open-hamberger-wrapper .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a {
-        font-size: 30px;
+    .open-hamberger-wrapper .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a { 
+        font-size: 18px;
     }
 }
 
 @media #{$lg-layout}{
     .open-hamberger-wrapper .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a {
-        font-size: 20px;
+        font-size: 18px;
     }
 }
 
 @media #{$md-layout}{
     .open-hamberger-wrapper .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a {
-        font-size: 20px;
+        font-size: 16px;
     }
 }
 

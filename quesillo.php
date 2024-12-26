@@ -11,6 +11,7 @@ $og_url = "https://lacteoslamaporita.com/acerca";
 $page_title = "Quesillo | La Maporita";
 
 
+/*Conf siguiente y atras*/
 $productos = ["quesillo.php", "queso-cuajada.php", "queso-fiesta.php", "queso-finas-hierbas.php", "queso-picado-salado.php", "queso-tipo-cheddar.php"];
 $current_index = array_search(basename($_SERVER['PHP_SELF']), $productos);
 $prev_index = ($current_index - 1 + count($productos)) % count($productos);
