@@ -96,7 +96,7 @@ $next_product = $productos[$next_index];
                                     <a class="active" id="img1-tab" data-bs-toggle="tab" href="#img1" role="tab"
                                         aria-controls="img1" aria-selected="true">
                                         <img src="img/productos/mini/210-x-210-finas-hierbas.jpg" alt="Queso Finas Hierbas">
-                                    </a>
+                                    </a> 
                                     <!--
                                     <a id="nav-img2-tab" data-bs-toggle="tab" href="#img2" role="tab" aria-controls="img2"
                                         aria-selected="false">
