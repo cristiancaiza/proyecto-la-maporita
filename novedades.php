@@ -10,6 +10,11 @@ $og_url = "https://lacteoslamaporita.com/acerca";
 $page_title = "Novedades || Industria de Lácteos, La Maporita";
 
 
+
+/*Entradas slots novedades*/
+$entries = json_decode(file_get_contents('entries-novedades.json'), true);
+
+
 ?>
 
 
@@ -105,115 +110,24 @@ $page_title = "Novedades || Industria de Lácteos, La Maporita";
                         </div>
                          End Single Portfolio -->
 
-                        <!-- Start Single Portfolio -->
-                        <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
-                            <div class="blog blog-style--2 creative--blog">
-                                <div class="thumb">
-                                    <a href="detalle-noticia.php"><img src="img/novedades/mini-novedades.jpg" alt="Novedades - La Maporita"></a>
-                                </div>
-                                <div class="blog-content">
-                                    <div class="content">
-                                        <h3 class="the-title"><a href="detalle-noticia.php">Plata y Bronce en el Salón del Queso 2024</a></h3>
-                                        <ul class="meta">
-                                            <li>Agosto 20, 2024</li>
-                                            <li><a href="#">Categoría</a></li>
-                                        </ul>
+                         <?php foreach ($entries as $entry): ?>
+                            <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
+                                <div class="blog blog-style--2 creative--blog">
+                                    <div class="thumb">
+                                        <a href="<?= $entry['link'] ?>"><img src="<?= $entry['image'] ?>" alt="Novedades - La Maporita"></a>
+                                    </div>
+                                    <div class="blog-content">
+                                        <div class="content">
+                                            <h3 class="the-title"><a href="<?= $entry['link'] ?>"><?= $entry['title'] ?></a></h3>
+                                            <ul class="meta">
+                                                <li><?= $entry['date'] ?></li>
+                                                <li><a href="#"><?= $entry['category'] ?></a></li>
+                                            </ul>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <!-- End Single Portfolio -->
-
-                        <!-- Start Single Portfolio -->
-                        <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
-                            <div class="blog blog-style--2 creative--blog">
-                                <div class="thumb">
-                                    <a href="detalle-noticia.php"><img src="img/novedades/laboratorio-digital-para-emprendedores-en-el-paujil.jpg" alt="Novedades - La Maporita"></a>
-                                </div>
-                                <div class="blog-content">
-                                    <div class="content">
-                                        <h3 class="the-title"><a href="detalle-noticia.php">Laboratorio Digital para Emprendedores en el Paujil</a></h3>
-                                        <ul class="meta">
-                                            <li>Junio 28, 2024</li>
-                                            <li><a href="#">Categoría</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Portfolio -->
-                         <!-- Start Single Portfolio -->
-                         <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
-                            <div class="blog blog-style--2 creative--blog">
-                                <div class="thumb">
-                                    <a href="detalle-noticia.php"><img src="img/novedades/dia-mundial-de-la-leche.jpg" alt="Novedades - La Maporita"></a>
-                                </div>
-                                <div class="blog-content">
-                                    <div class="content">
-                                        <h3 class="the-title"><a href="detalle-noticia.php">Día Mundial de la Leche</a></h3>
-                                        <ul class="meta">
-                                            <li>Junio 01, 2024</li>
-                                            <li><a href="#">Categoría</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Portfolio -->
-                        <!-- Start Single Portfolio -->
-                        <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
-                            <div class="blog blog-style--2 creative--blog">
-                                <div class="thumb">
-                                    <a href="detalle-noticia.php"><img src="img/novedades/mini-novedades.jpg" alt="Novedades - La Maporita"></a>
-                                </div>
-                                <div class="blog-content">
-                                    <div class="content">
-                                        <h3 class="the-title"><a href="detalle-noticia.php">Plata y Bronce en el Salón del Queso 2024</a></h3>
-                                        <ul class="meta">
-                                            <li>Agosto 20, 2024</li>
-                                            <li><a href="#">Categoría</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Portfolio -->
-                        <!-- Start Single Portfolio -->
-                        <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
-                            <div class="blog blog-style--2 creative--blog">
-                                <div class="thumb">
-                                    <a href="detalle-noticia.php"><img src="img/novedades/laboratorio-digital-para-emprendedores-en-el-paujil.jpg" alt="Novedades - La Maporita"></a>
-                                </div>
-                                <div class="blog-content">
-                                    <div class="content">
-                                        <h3 class="the-title"><a href="detalle-noticia.php">Laboratorio Digital para Emprendedores en el Paujil</a></h3>
-                                        <ul class="meta">
-                                            <li>Junio 28, 2024</li>
-                                            <li><a href="#">Categoría</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Portfolio -->
-                         <!-- Start Single Portfolio -->
-                         <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
-                            <div class="blog blog-style--2 creative--blog">
-                                <div class="thumb">
-                                    <a href="detalle-noticia.php"><img src="img/novedades/dia-mundial-de-la-leche.jpg" alt="Novedades - La Maporita"></a>
-                                </div>
-                                <div class="blog-content">
-                                    <div class="content">
-                                        <h3 class="the-title"><a href="detalle-noticia.php">Día Mundial de la Leche</a></h3>
-                                        <ul class="meta">
-                                            <li>Junio 01, 2024</li>
-                                            <li><a href="#">Categoría</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Portfolio -->
+                        <?php endforeach; ?>
                     </div>
 
                     <div class="row">

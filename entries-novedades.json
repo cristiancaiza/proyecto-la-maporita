@@ -1,0 +1,101 @@
+[
+    {
+        "title": "Plata y Bronce en el Salón del Queso 2024",
+        "date": "Agosto 20, 2024",
+        "category": "Categoría",
+        "image": "img/novedades/thumbs/plata-y-bronce-en-el-salon-del-queso-2024.jpg",
+        "link": "detalle-noticia.php"
+    },
+    {
+        "title": "Laboratorio Digital para Emprendedores en el Paujil",
+        "date": "Junio 28, 2024",
+        "category": "Categoría",
+        "image": "img/novedades/thumbs/laboratorio-digital-para-emprendedores-en-el-paujil.jpg",
+        "link": "detalle-noticia.php"
+    },
+    {
+        "title": "Día Mundial de la Leche",
+        "date": "Junio 01, 2024",
+        "category": "Categoría",
+        "image": "img/novedades/thumbs/dia-mundial-de-la-leche.jpg",
+        "link": "detalle-noticia.php"
+    },
+    {
+        "title": "Unión Europea visita La Maporita",
+        "date": "Junio 09, 2024",
+        "category": "Categoría",
+        "image": "img/novedades/thumbs/union-europea-visita-la-maporita.jpg",
+        "link": "detalle-noticia.php"
+    },
+    {
+        "title": "Premio Nacional del Queso 2023",
+        "date": "Noviembre 18, 2023",
+        "category": "Categoría",
+        "image": "img/novedades/thumbs/premio-nacional-del-queso-2023.jpg",
+        "link": "detalle-noticia.php"
+    },
+    {
+        "title": "Lácteos La Maporita en Alimentarte Food Festival 2023",
+        "date": "Febrero 10, 2023",
+        "category": "Categoría",
+        "image": "img/novedades/thumbs/lacteos-la-maporita-en-alimentarte-food-festival-2023.jpg",
+        "link": "detalle-noticia.php"
+    },
+    {
+        "title": "Lácteos La Maporita en Alimentarte Food Festival 2023",
+        "date": "Diciembre 21, 2022",
+        "category": "Categoría",
+        "image": "img/novedades/thumbs/nueva-imagen-de-empaques.jpg",
+        "link": "detalle-noticia.php"
+    },
+    {
+        "title": "Preferencias frente al consumo de Queso en Cali y ciudades cercanas",
+        "date": "Julio 05, 2022",
+        "category": "Categoría",
+        "image": "img/novedades/thumbs/preferencias-frente-al-consumo-de-queso-en-cali-y-ciudades-cercanas.jpg",
+        "link": "detalle-noticia.php"
+    },
+    {
+        "title": "Visita Davivienda Regional Centro Sur",
+        "date": "Junio 15, 2022",
+        "category": "Categoría",
+        "image": "img/novedades/thumbs/visita-davivienda-regional-centro-sur.jpg",
+        "link": "detalle-noticia.php"
+    },
+    {
+        "title": "Reanudamos Labores",
+        "date": "Mayo 07, 2020",
+        "category": "Categoría",
+        "image": "img/novedades/thumbs/reanudamos-labores.jpg",
+        "link": "detalle-noticia.php"
+    },
+    {
+        "title": "Pizza Master 2018",
+        "date": "Noviembre 23, 2018",
+        "category": "Categoría",
+        "image": "img/novedades/thumbs/pizza-master-2018.jpg",
+        "link": "detalle-noticia.php"
+    },
+    {
+        "title": "Asistencia Técnica, un gran valor agregado",
+        "date": "Octubre 19, 2018",
+        "category": "Categoría",
+        "image": "img/novedades/thumbs/asistencia-tecnica-un-gran-valor-agregado.jpg",
+        "link": "detalle-noticia.php"
+    },
+    {
+        "title": "Lácteos La Maporita, Conquistando los mercados nacionales",
+        "date": "Octubre 19, 2018",
+        "category": "Categoría",
+        "image": "img/novedades/thumbs/lacteos-la-maporita-conquistando-los-mercados-nacionales.jpg",
+        "link": "detalle-noticia.php"
+    },
+    {
+        "title": "La Familia Maporita",
+        "date": "Octubre 19, 2018",
+        "category": "Categoría",
+        "image": "img/novedades/thumbs/la-familia-maporita.jpg",
+        "link": "detalle-noticia.php"
+    }
+   
+]
