@@ -129,18 +129,6 @@ $entries = json_decode(file_get_contents('entries-novedades.json'), true);
                             </div>
                         <?php endforeach; ?>
                     </div>
-
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="brook-pagination-wrapper text-center pt--80">
-                                <ul class="brook-pagination">
-                                    <li class="active"><a href="#">1</a></li>
-                                    <li><a href="#">2</a></li>
-                                    <li><a href="#"><i class="fa fa-angle-right"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
             <!-- End Blog Grid Area -->

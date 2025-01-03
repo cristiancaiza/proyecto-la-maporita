@@ -14,17 +14,17 @@
         "link": "detalle-noticia.php"
     },
     {
-        "title": "Día Mundial de la Leche",
-        "date": "Junio 01, 2024",
-        "category": "Categoría",
-        "image": "img/novedades/thumbs/dia-mundial-de-la-leche.jpg",
-        "link": "detalle-noticia.php"
-    },
-    {
         "title": "Unión Europea visita La Maporita",
         "date": "Junio 09, 2024",
         "category": "Categoría",
         "image": "img/novedades/thumbs/union-europea-visita-la-maporita.jpg",
+        "link": "detalle-noticia.php"
+    },
+    {
+        "title": "Día Mundial de la Leche",
+        "date": "Junio 01, 2024",
+        "category": "Categoría",
+        "image": "img/novedades/thumbs/dia-mundial-de-la-leche.jpg",
         "link": "detalle-noticia.php"
     },
     {
