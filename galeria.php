@@ -84,7 +84,7 @@ $page_title = "Galería | La Maporita";
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                             <div class="portfolio with-caption">
                                 <div class="thumb video-with-thumb">
-                                    <a href="detalles-galeria.php">
+                                    <a href="eventos-galeria.php">
                                         <img src="img/galeria/galeria-cat-eventos.jpg" alt="Galería - La Maporita">
                                     </a>
                                 </div>                               
@@ -103,7 +103,7 @@ $page_title = "Galería | La Maporita";
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12 move-up wow animate" data-wow-delay=".15s" style="visibility: visible; animation-delay: 0.15s; opacity: 0;">
                             <div class="portfolio with-caption mt_mobile--30">
                                 <div class="thumb">
-                                    <a href="detalles-galeria.php">
+                                    <a href="eventos-galeria.php">
                                         <img src="img/galeria/galeria-cat-instalaciones.jpg" alt="Galería - La Maporita">
                                     </a>
                                 </div>
