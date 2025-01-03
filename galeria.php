@@ -90,7 +90,7 @@ $page_title = "Galería | La Maporita";
                                 </div>                               
                                 <div class="caption-bottom text-start">
                                     <div class="info">
-                                        <h5 class="heading heading-h5"><a href="detalles-galeria.php">Eventos</a></h5>
+                                        <h5 class="heading heading-h5"><a href="eventos-galeria.php">Eventos</a></h5>
                                         <!--<p class="bk_pra">$2.60</p>-->
                                     </div>
                                 </div>
@@ -103,13 +103,13 @@ $page_title = "Galería | La Maporita";
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12 move-up wow animate" data-wow-delay=".15s" style="visibility: visible; animation-delay: 0.15s; opacity: 0;">
                             <div class="portfolio with-caption mt_mobile--30">
                                 <div class="thumb">
-                                    <a href="eventos-galeria.php">
+                                    <a href="instalaciones-galeria.php">
                                         <img src="img/galeria/galeria-cat-instalaciones.jpg" alt="Galería - La Maporita">
                                     </a>
                                 </div>
                                 <div class="caption-bottom text-start">
                                     <div class="info">
-                                        <h5 class="heading heading-h5"><a href="detalles-galeria.php">Instalaciones</a></h5>
+                                        <h5 class="heading heading-h5"><a href="instalaciones-galeria.php">Instalaciones</a></h5>
                                         <!--<p class="bk_pra">$16.00</p>-->
                                     </div>
                                 </div>
@@ -120,13 +120,13 @@ $page_title = "Galería | La Maporita";
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12 move-up wow animate" data-wow-delay=".16s" style="visibility: visible; animation-delay: 0.16s; opacity: 0;">
                             <div class="portfolio with-caption mt_sm--30 mt_md--30">
                                 <div class="thumb">
-                                    <a href="detalles-galeria.php">
+                                    <a href="asistencia-tecnica-galeria.php">
                                         <img src="img/galeria/galeria-cat-asistencia-tecnica.jpg" alt="Galería - La Maporita">
                                     </a>
                                 </div>
                                 <div class="caption-bottom text-start">
                                     <div class="info">
-                                        <h5 class="heading heading-h5"><a href="detalles-galeria.php">Asistencia Técnica</a></h5>
+                                        <h5 class="heading heading-h5"><a href="asistencia-tecnica-galeria.php">Asistencia Técnica</a></h5>
                                         <!--<p class="bk_pra">$2.90</p>-->
                                     </div>
                                 </div>
