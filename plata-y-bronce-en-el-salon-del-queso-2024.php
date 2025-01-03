@@ -72,7 +72,7 @@ $blog_post = [
             include_once 'header.php';
         ?>
         <!-- Start Breadcaump Area --> 
-        <div class="brook-breadcaump-area pt--200 pt_md--250 pt_sm--100 pb--100 pb_md--250 pb_sm--100 bg_image--133 breadcaump-title-bar breadcaump-title-white" data-black-overlay='5'>
+        <div class="brook-breadcaump-area pt--100 pt_md--100 pt_sm--100 pb--100 pb_md--250 pb_sm--100 bg_image--133 breadcaump-title-bar breadcaump-title-white" data-black-overlay='5'>
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
