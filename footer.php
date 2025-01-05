@@ -1,3 +1,8 @@
+<?php
+$directory = 'img/galeria/eventos/mini/';
+$thumbnails = glob($directory . 'thumb-*.jpg');
+$thumbnails = array_slice($thumbnails, 0, 6); // Limitar a 6 items
+?>
 <!-- Footer -->
 <footer id="bk-footer" class="page-footer bg_color--3 pl--150 pr--150 pl_lg--30 pr_lg--30 pl_md--30 pr_md--30 pl_sm--5 pr_sm--5">
             <!-- Start Footer Top Area -->
@@ -52,15 +57,14 @@
                         <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt_md--40 mt_sm--40">
                             <div class="footer-widget text-var--2 menu--instagram">
                                 <h2 class="widgettitle">Galería</h2>
-
                                 <div class="ft-instagram-list">
                                 <div class="instagram-grid-wrap">
-
                                         <!-- Start Single Instagram -->
+                                        <?php foreach ($thumbnails as $thumbnail): ?>
                                         <div class="item-grid grid-style--1">
                                             <div class="thumb">
-                                                <a href="#">
-                                                    <img src="img/instagram/instagram-1/instagram-7.jpg" alt="Galería multimedia - La Maporita">
+                                                <a href="galeria.php">
+                                                    <img src="<?= $thumbnail ?>" alt="Galería multimedia - La Maporita">
                                                 </a>
                                                 <div class="item-info">
                                                     <div class="inner">
@@ -69,94 +73,16 @@
                                                 </div>
                                             </div>
                                         </div>
+                                        <?php endforeach; ?>
                                         <!-- Start Single Instagram -->
-
-                                        <!-- Start Single Instagram -->
-                                        <div class="item-grid grid-style--1">
-                                            <div class="thumb">
-                                                <a href="#">
-                                                    <img src="img/instagram/instagram-1/instagram-8.jpg" alt="instagram images">
-                                                </a>
-                                                <div class="item-info">
-                                                    <div class="inner">
-                                                        <a href="galeria.php"><i class="fas fa-eye"></i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Start Single Instagram -->
-
-                                        <!-- Start Single Instagram -->
-                                        <div class="item-grid grid-style--1">
-                                            <div class="thumb">
-                                                <a href="#">
-                                                    <img src="img/instagram/instagram-1/instagram-9.jpg" alt="instagram images">
-                                                </a>
-                                                <div class="item-info">
-                                                    <div class="inner">
-                                                        <a href="galeria.php"><i class="fas fa-eye"></i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Start Single Instagram -->
-
-                                        <!-- Start Single Instagram -->
-                                        <div class="item-grid grid-style--1">
-                                            <div class="thumb">
-                                                <a href="#">
-                                                    <img src="img/instagram/instagram-1/instagram-10.jpg" alt="instagram images">
-                                                </a>
-                                                <div class="item-info">
-                                                    <div class="inner">
-                                                        <a href="galeria.php"><i class="fas fa-eye"></i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Start Single Instagram -->
-
-                                        <!-- Start Single Instagram -->
-                                        <div class="item-grid grid-style--1">
-                                            <div class="thumb">
-                                                <a href="#">
-                                                    <img src="img/instagram/instagram-1/instagram-11.jpg" alt="instagram images">
-                                                </a>
-                                                <div class="item-info">
-                                                    <div class="inner">
-                                                        <a href="galeria.php"><i class="fas fa-eye"></i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Start Single Instagram -->
-
-                                        <!-- Start Single Instagram -->
-                                        <div class="item-grid grid-style--1">
-                                            <div class="thumb">
-                                                <a href="#">
-                                                    <img src="img/instagram/instagram-1/instagram-12.jpg" alt="instagram images">
-                                                </a>
-                                                <div class="item-info">
-                                                    <div class="inner">
-                                                        <a href="galeria.php"><i class="fas fa-eye"></i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Start Single Instagram -->
-
                                     </div>
-                                    
                                 </div>
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>
             <!-- Start Footer Top Area -->
-
             <!-- Start Copyright Area -->
             <div class="copyright ptb--50 text-var-2">
                 <div class="container">
