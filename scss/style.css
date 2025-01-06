@@ -24898,13 +24898,13 @@ Blog Details
 }
 .post-nav-lisnt .nav-item a:hover {
   background: #FFC851;
-  color: #fff;
+  color: #000;
 }
 .post-nav-lisnt .nav-item a:hover .link-text {
-  color: #ffffff;
+  color: rgba(0, 0, 0, 0);
 }
 .post-nav-lisnt .nav-item a:hover .link-text span {
-  color: #ffffff;
+  color: #000;
 }
 .post-nav-lisnt .nav-item.next {
   text-align: right;

@@ -14,6 +14,7 @@ $blog_post = [
         <br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/yjDvx-nSJnY?si=me5MAHC6RLjuOf4K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     '
 ];
+include_once 'func-articulos.php';
 ?>
 
 <!doctype html>
@@ -133,24 +134,24 @@ $blog_post = [
                                         </div>
                                     </div>
                                 </article>
-                                <!-- Start Post Nav Links -->
-                                <div class="post-nav-lisnt mb--45 wow move-up">
+                                 <!-- Start Post Nav Links -->
+                                 <div class="post-nav-lisnt mb--45 wow move-up">
                                     <div class="nav-item previous">
-                                        <a href="#">
+                                        <a href="<?= $prev_article['slug'] ?>">
                                             <div class="link-text">
                                                 <span class="fa fa-arrow-left"></span>
                                                 <p class="">Previa</p>
                                             </div>
-                                            <span>Laboratorio Digital para Emprendedores en el Paujil</span>
+                                            <span><?= $prev_article['title'] ?></span>
                                         </a>
                                     </div>
                                     <div class="nav-item next mt_sm--30">
-                                        <a href="#">
+                                        <a href="<?= $next_article['slug'] ?>">
                                             <div class="link-text">
                                                 <p class="">Siguiente</p>
                                                 <span class="fa fa-arrow-right"></span>
                                             </div>
-                                            <span>Día Mundial de la Leche</span>
+                                            <span><?= $next_article['title'] ?></span>
                                         </a>
                                     </div>
                                 </div>

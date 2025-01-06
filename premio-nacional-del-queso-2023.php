@@ -12,6 +12,7 @@ $blog_post = [
         <br><br>Para Industria de Lácteos La Maporita, el premio es el reconocimiento a la calidad de todos los eslabones de la cadena de valor que intervienen en la elaboración de cada producto, partiendo desde los proveedores de leche que se han comprometido con la conservación y las buenas prácticas ganaderas, hasta cada uno de nuestros clientes, que hacen del Queso de Lácteos La Maporita uno de sus ingredientes, gracias a la Calidad Extra, ratificada ahora con este importante reconocimiento a nivel nacional que nos motiva a seguir dando lo mejor con calidad y mucho amor.
     '
 ];
+include_once 'func-articulos.php';
 ?>
 
 <!doctype html>
@@ -134,21 +135,21 @@ $blog_post = [
                                 <!-- Start Post Nav Links -->
                                 <div class="post-nav-lisnt mb--45 wow move-up">
                                     <div class="nav-item previous">
-                                        <a href="#">
+                                        <a href="<?= $prev_article['slug'] ?>">
                                             <div class="link-text">
                                                 <span class="fa fa-arrow-left"></span>
                                                 <p class="">Previa</p>
                                             </div>
-                                            <span>Laboratorio Digital para Emprendedores en el Paujil</span>
+                                            <span><?= $prev_article['title'] ?></span>
                                         </a>
                                     </div>
                                     <div class="nav-item next mt_sm--30">
-                                        <a href="#">
+                                        <a href="<?= $next_article['slug'] ?>">
                                             <div class="link-text">
                                                 <p class="">Siguiente</p>
                                                 <span class="fa fa-arrow-right"></span>
                                             </div>
-                                            <span>Día Mundial de la Leche</span>
+                                            <span><?= $next_article['title'] ?></span>
                                         </a>
                                     </div>
                                 </div>

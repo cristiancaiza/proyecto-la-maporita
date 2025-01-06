@@ -11,6 +11,7 @@ $blog_post = [
         <br><br>Lácteos La Maporita resalta la participación de 3 de sus clientes, quienes se destacaron en el Pizza Master 2018. De Cali, La Pizzería del Sur con su pizza Española y Pampa Malbec con su pizza Fugazzeta Rellena y de Bogotá Capo di Capi con su pizza Caprina Mediterránea.
     '
 ];
+include_once 'func-articulos.php';
 ?>
 
 <!doctype html>
@@ -130,24 +131,24 @@ $blog_post = [
                                         </div>
                                     </div>
                                 </article>
-                                <!-- Start Post Nav Links -->
-                                <div class="post-nav-lisnt mb--45 wow move-up">
+                                 <!-- Start Post Nav Links -->
+                                 <div class="post-nav-lisnt mb--45 wow move-up">
                                     <div class="nav-item previous">
-                                        <a href="#">
+                                        <a href="<?= $prev_article['slug'] ?>">
                                             <div class="link-text">
                                                 <span class="fa fa-arrow-left"></span>
                                                 <p class="">Previa</p>
                                             </div>
-                                            <span>Laboratorio Digital para Emprendedores en el Paujil</span>
+                                            <span><?= $prev_article['title'] ?></span>
                                         </a>
                                     </div>
                                     <div class="nav-item next mt_sm--30">
-                                        <a href="#">
+                                        <a href="<?= $next_article['slug'] ?>">
                                             <div class="link-text">
                                                 <p class="">Siguiente</p>
                                                 <span class="fa fa-arrow-right"></span>
                                             </div>
-                                            <span>Día Mundial de la Leche</span>
+                                            <span><?= $next_article['title'] ?></span>
                                         </a>
                                     </div>
                                 </div>

@@ -13,6 +13,7 @@ $blog_post = [
         <br><br>Conozca más en esta nota del Espectador <a class="enlace-blog" target="_blank" href="https://www.elespectador.com/economia/emprendimiento-y-liderazgo/un-laboratorio-digital-para-emprendedores-del-caqueta/?fbclid=IwZXh0bgNhZW0CMTEAAR32sPMQljv0O8pdKqsfVVb_c1AyN1wwHZG1XYpA5J94qtXS_W_qOKZ2AfY_aem_yIihYaM4ITSqbWlvRUZVjA&sfnsn=scwspwa">Clic Aquí.</a>
     '
 ];
+include_once 'func-articulos.php';
 ?>
 
 <!doctype html>
@@ -132,24 +133,24 @@ $blog_post = [
                                         </div>
                                     </div>
                                 </article>
-                                <!-- Start Post Nav Links -->
-                                <div class="post-nav-lisnt mb--45 wow move-up">
+                                 <!-- Start Post Nav Links -->
+                                 <div class="post-nav-lisnt mb--45 wow move-up">
                                     <div class="nav-item previous">
-                                        <a href="#">
+                                        <a href="<?= $prev_article['slug'] ?>">
                                             <div class="link-text">
                                                 <span class="fa fa-arrow-left"></span>
                                                 <p class="">Previa</p>
                                             </div>
-                                            <span>Laboratorio Digital para Emprendedores en el Paujil</span>
+                                            <span><?= $prev_article['title'] ?></span>
                                         </a>
                                     </div>
                                     <div class="nav-item next mt_sm--30">
-                                        <a href="#">
+                                        <a href="<?= $next_article['slug'] ?>">
                                             <div class="link-text">
                                                 <p class="">Siguiente</p>
                                                 <span class="fa fa-arrow-right"></span>
                                             </div>
-                                            <span>Día Mundial de la Leche</span>
+                                            <span><?= $next_article['title'] ?></span>
                                         </a>
                                     </div>
                                 </div>

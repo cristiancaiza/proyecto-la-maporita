@@ -93,18 +93,15 @@ Blog Details
                     font-size: 24px;
                     color: #222;
                 }
-                p{
-
-                }
             }
 
             &:hover{
                 background: $theme-color;
-                color: #fff;
+                color: #000;
                 .link-text{
-                    color: #ffffff;
+                    color: #0000;
                     span{
-                        color: #ffffff;
+                        color: #000;
                     }
                 }
             }
