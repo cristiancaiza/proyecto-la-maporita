@@ -511,11 +511,11 @@ $carrusel_responsive = [
                             <div class="blog blog-style--2 creative--blog">
                                 <!-- Swip Slide -->
                                 <div class="thumb">
-                                    <a href="novedades.php"><img src="img/novedades/thumb-blog-1.jpg" alt="Novedades - La Maporita"></a>
+                                    <a href="plata-y-bronce-en-el-salon-del-queso-2024.php"><img src="img/novedades/thumb-blog-1.jpg" alt="Novedades - La Maporita"></a>
                                 </div>
                                 <div class="blog-content">
                                     <div class="content">
-                                        <h3 class="the-title"><a href="novedades.php">Plata y Bronce en el Salón del Queso 2024</a></h3>
+                                        <h3 class="the-title"><a href="plata-y-bronce-en-el-salon-del-queso-2024.php">Plata y Bronce en el Salón del Queso 2024</a></h3>
                                         <ul class="meta">
                                             <li>Agosto 20, 2024</li>
                                             <li><a href="novedades.php">Categoría</a></li>
@@ -530,11 +530,11 @@ $carrusel_responsive = [
                         <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
                             <div class="blog blog-style--2 creative--blog">
                                 <div class="thumb">
-                                    <a href="novedades.php"><img src="img/novedades/thumb-blog-2.jpg" alt="Novedades - La Maporita"></a>
+                                    <a href="laboratorio-digital-para-emprendedores-en-el-paujil.php"><img src="img/novedades/thumb-blog-2.jpg" alt="Novedades - La Maporita"></a>
                                 </div>
                                 <div class="blog-content">
                                     <div class="content">
-                                        <h3 class="the-title"><a href="novedades.php">Laboratorio Digital para Emprendedores en el Paujil</a></h3>
+                                        <h3 class="the-title"><a href="laboratorio-digital-para-emprendedores-en-el-paujil.php">Laboratorio Digital para Emprendedores en el Paujil</a></h3>
                                         <ul class="meta">
                                             <li>Junio 28, 2024</li>
                                             <li><a href="novedades.php">Categoría</a></li>
@@ -548,11 +548,11 @@ $carrusel_responsive = [
                         <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
                             <div class="blog blog-style--2 creative--blog">
                                 <div class="thumb">
-                                    <a href="novedades.php"><img src="img/novedades/thumb-blog-3.jpg" alt="Novedades - La Maporita"></a>
+                                    <a href="dia-mundial-de-la-leche.php"><img src="img/novedades/thumb-blog-3.jpg" alt="Novedades - La Maporita"></a>
                                 </div>
                                 <div class="blog-content">
                                     <div class="content">
-                                        <h3 class="the-title"><a href="novedades.php">Día Mundial de la Leche</a></h3>
+                                        <h3 class="the-title"><a href="dia-mundial-de-la-leche.php">Día Mundial de la Leche</a></h3>
                                         <ul class="meta">
                                             <li>Junio 1, 2024</li>
                                             <li><a href="novedades.php">Categoría</a></li>
@@ -566,11 +566,11 @@ $carrusel_responsive = [
                         <div class="col-lg-6 col-xl-3 col-md-6 col-sm-6 col-12 wow move-up mt--30">
                             <div class="blog blog-style--2 creative--blog">
                                 <div class="thumb">
-                                    <a href="novedades.php"><img src="img/novedades/thumb-blog-4.jpg" alt="Novedades - La Maporita"></a>
+                                    <a href="union-europea-visita-la-maporita.php"><img src="img/novedades/thumb-blog-4.jpg" alt="Novedades - La Maporita"></a>
                                 </div>
                                 <div class="blog-content">
                                     <div class="content">
-                                        <h3 class="the-title"><a href="novedades.php">Unión Europea visita La Maporita</a></h3>
+                                        <h3 class="the-title"><a href="union-europea-visita-la-maporita.php">Unión Europea visita La Maporita</a></h3>
                                         <ul class="meta">
                                             <li>Enero 9, 2024</li>
                                             <li><a href="novedades.php">Categoría</a></li>
