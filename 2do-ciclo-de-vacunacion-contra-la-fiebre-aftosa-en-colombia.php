@@ -109,6 +109,7 @@
                                     </div>
                                 </article>
                                 <!-- Start Post Nav Links -->
+                                 <!--
                                 <div class="post-nav-lisnt mb--45 wow move-up">
                                     <div class="nav-item previous">
                                         <a href="#">
@@ -128,7 +129,7 @@
                                             <span>Día Mundial de la Leche</span>
                                         </a>
                                     </div>
-                                </div>
+                                </div>-->
                                 <!-- End Post Nav Links -->
 
                             </div>
