@@ -439,7 +439,7 @@ jsFileLocation:"//localhost/revslider-standalone/revslider/public/assets/js/",
                 direction: "horizontal",
                 h_align: "center",
                 v_align: "bottom",
-                h_offset: 0,
+                h_offset: -40,
                 v_offset: 45,
                 space: 13,
                 tmp: '{{param1}}'
