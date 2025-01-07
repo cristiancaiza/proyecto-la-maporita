@@ -191,7 +191,7 @@ $carrusel_responsive = [
                                 style="z-index: 7; min-width: 160px; max-width: 160px; max-width: 55px; max-width: 55px; white-space: normal; font-size: 16px; line-height: 55px; font-weight: 700; color: #222222; letter-spacing: 0px;background-color:rgb(247,211,141);border-radius:0px 0px 0px 0px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;text-decoration: none;">Conoce más <i class="fa fa-sharp fa-regular fa-angle-right"></i>
                             </a>
                         </li>
-                        <!--SLIDE 2-->
+                        <!--SLIDE 3-->
                         <li data-index="rs-17" data-transition="incube,incube-horizontal,turnoff-vertical,turnoff"
                             data-slotamount="default,default,default,default" data-hideafterloop="0"
                             data-hideslideonmobile="off" data-easein="default,default,default,default" data-easeout="default,default,default,default"
@@ -212,8 +212,8 @@ $carrusel_responsive = [
                                 data-responsive_offset="on" data-frames='[{"delay":700,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
                                 data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
                                 data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                                style="z-index: 6; min-width: 630px; max-width: 630px; white-space: normal; font-size: 0px; font-weight: 700; color: #ffffff; letter-spacing: 0px;"><span class="texto-slider-home" style="font-weight:200; font-size: 40%;">Una tabla de Quesos</span>
-                                <span class="texto-slider-home" style="font-size:80px; padding: 40px 0px 20px 0px; display: block;">Especiales</span><span class="texto-slider-home" style="display:block; padding:20px 0px 0px 0px !important; font-weight:200; font-size: 40%;">para tus momentos especiales</span>
+                                style="z-index: 6; min-width: 630px; max-width: 630px; white-space: normal; font-size: 0px; font-weight: 700; color: #ffffff; letter-spacing: 0px;"><span class="texto-slider-home" style="font-weight:200; font-size: 50%;">Una tabla de Quesos</span>
+                                <span class="texto-slider-home" style="font-size:60%; padding: 40px 0px 20px 0px; display: block;">Especiales</span><span class="texto-slider-home" style="display:block; padding:20px 0px 0px 0px !important; font-weight:200; font-size: 50%;">para tus momentos especiales</span>
                             </div> <!---->
 
                             <!-- LAYER NR. 6 boton conocer mas-->
@@ -227,7 +227,7 @@ $carrusel_responsive = [
                                 style="z-index: 7; min-width: 160px; max-width: 160px; max-width: 55px; max-width: 55px; white-space: normal; font-size: 16px; line-height: 55px; font-weight: 700; color: #222222; letter-spacing: 0px;background-color:rgb(247,211,141);border-radius:0px 0px 0px 0px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;text-decoration: none;">Conoce más <i class="fa fa-sharp fa-regular fa-angle-right"></i>
                             </a>
                         </li>
-                        <!--SLIDE 3-->
+                        <!--SLIDE 4-->
                         <li data-index="rs-18" data-transition="incube,incube-horizontal,turnoff-vertical,turnoff"
                             data-slotamount="default,default,default,default" data-hideafterloop="0"
                             data-hideslideonmobile="off" data-easein="default,default,default,default" data-easeout="default,default,default,default"
