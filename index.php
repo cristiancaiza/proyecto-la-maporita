@@ -176,7 +176,7 @@ $carrusel_responsive = [
                                 data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
                                 data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                 style="z-index: 6; min-width: 630px; max-width: 630px; white-space: normal; font-size: 0px; font-weight: 700; color: #ffffff; letter-spacing: 0px;"><span class="texto-slider-home" style="font-weight:200; font-size: 25px;">Cada medalla es</span>
-                                <span class="texto-slider-home" style="font-size:40px; padding: 40px 0px 20px 0px; display: block;">un Reconocimiento</span><span class="texto-slider-home" style="display:block; padding:20px 0px 0px 0px !important; font-weight:200; font-size: 25px">al esfuerzo de toda nuestra cadena de valor</span>
+                                <span class="texto-slider-home" style="line-height: 1.5; font-size:40px; padding: 40px 0px 20px 0px; display: block;">un Reconocimiento</span><span class="texto-slider-home" style="display:block; padding:20px 0px 0px 0px !important; font-weight:200; font-size: 25px">al esfuerzo de toda nuestra cadena de valor</span>
                             </div> <!---->
                             <!-- LAYER NR. 2 -->
 
