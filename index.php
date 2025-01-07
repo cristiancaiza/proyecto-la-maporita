@@ -249,8 +249,8 @@ $carrusel_responsive = [
                                 data-responsive_offset="on" data-frames='[{"delay":700,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
                                 data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
                                 data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                                style="z-index: 6; min-width: 630px; max-width: 630px; white-space: normal; font-size: 0px; font-weight: 700; color: #ffffff; letter-spacing: 0px;"><span class="texto-slider-home" style="font-weight:200; font-size: 40%;">Con Calidad y mucho amor</span>
-                                <span class="texto-slider-home" style="font-size:80px; padding: 40px 0px 20px 0px; display: block;">La Maporita</span><span class="texto-slider-home" style="display:block; padding:20px 0px 0px 0px !important; font-weight:200; font-size: 40%;">Se convierte en un experiencia, para llevarte lo mejor de nuestra tierra Caqueteña.</span>
+                                style="z-index: 6; min-width: 630px; max-width: 630px; white-space: normal; font-size: 0px; font-weight: 700; color: #ffffff; letter-spacing: 0px;"><span class="texto-slider-home" style="line-height: 1.2; font-weight:200; font-size: 25px;">Con Calidad y mucho amor</span>
+                                <span class="texto-slider-home" style="font-size:60px; padding: 40px 0px 20px 0px; display: block;">La Maporita</span><span class="texto-slider-home" style="line-height: 1.2; display:block; padding:20px 0px 0px 0px !important; font-weight:200; font-size: 25px;">Se convierte en un experiencia, para llevarte lo mejor de nuestra tierra Caqueteña.</span>
                             </div> <!---->
                             <!-- LAYER NR. 6 boton conocer mas-->
                             <a class="tp-caption rev-btn   smooth-scroll-link" href="productos.php" target="_self" id="slide-16-layer-24"
