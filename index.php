@@ -175,8 +175,8 @@ $carrusel_responsive = [
                                 data-responsive_offset="on" data-frames='[{"delay":700,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
                                 data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
                                 data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                                style="z-index: 6; min-width: 630px; max-width: 630px; white-space: normal; font-size: 0px; font-weight: 700; color: #ffffff; letter-spacing: 0px;"><span class="texto-slider-home" style="font-weight:200; font-size: 40%;">Cada medalla es</span>
-                                <span class="texto-slider-home" style="font-size:4vw; padding: 40px 0px 20px 0px; display: block;">un Reconocimiento</span><span class="texto-slider-home" style="display:block; padding:20px 0px 0px 0px !important; font-weight:200; font-size: 40%;">al esfuerzo de toda nuestra cadena de valor</span>
+                                style="z-index: 6; min-width: 630px; max-width: 630px; white-space: normal; font-size: 0px; font-weight: 700; color: #ffffff; letter-spacing: 0px;"><span class="texto-slider-home" style="font-weight:200; font-size: 25px;">Cada medalla es</span>
+                                <span class="texto-slider-home" style="font-size:40px; padding: 40px 0px 20px 0px; display: block;">un Reconocimiento</span><span class="texto-slider-home" style="display:block; padding:20px 0px 0px 0px !important; font-weight:200; font-size: 25px">al esfuerzo de toda nuestra cadena de valor</span>
                             </div> <!---->
                             <!-- LAYER NR. 2 -->
 
@@ -212,8 +212,8 @@ $carrusel_responsive = [
                                 data-responsive_offset="on" data-frames='[{"delay":700,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
                                 data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
                                 data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                                style="z-index: 6; min-width: 630px; max-width: 630px; white-space: normal; font-size: 0px; font-weight: 700; color: #ffffff; letter-spacing: 0px;"><span class="texto-slider-home" style="font-weight:200; font-size: 50%;">Una tabla de Quesos</span>
-                                <span class="texto-slider-home" style="font-size:60%; padding: 40px 0px 20px 0px; display: block;">Especiales</span><span class="texto-slider-home" style="display:block; padding:20px 0px 0px 0px !important; font-weight:200; font-size: 50%;">para tus momentos especiales</span>
+                                style="z-index: 6; min-width: 630px; max-width: 630px; white-space: normal; font-size: 0px; font-weight: 700; color: #ffffff; letter-spacing: 0px;"><span class="texto-slider-home" style="font-weight:200; font-size: 25px;">Una tabla de Quesos</span>
+                                <span class="texto-slider-home" style="font-size:40px; padding: 40px 0px 20px 0px; display: block;">Especiales</span><span class="texto-slider-home" style="display:block; padding:20px 0px 0px 0px !important; font-weight:200; font-size: 25px;">para tus momentos especiales</span>
                             </div> <!---->
 
                             <!-- LAYER NR. 6 boton conocer mas-->
