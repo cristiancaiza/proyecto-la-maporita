@@ -116,19 +116,8 @@ $page_title = "Contacto || Industria de Lácteos, La Maporita";
             <!-- End Contact Form  -->
 
             <!--Google Map Area Start-->
-            <div class="google-map-area section text-center pb--150 pb-md--80 pb-sm--60 bg_color--3 textura-2">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="ht-gmap3" id="htmap2" data-height="500" data-width="100%" data-zoom_enable="" data-zoom="10"
-                                data-map_type="roadmap" data-map_style="style11">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2617.499044969462!2d-75.32465675568352!3d1.5729853919976147!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e2469c569df8219%3A0x3e63d09da8bd9257!2sindustria+de+lacteos+la+maporita!5e0!3m2!1ses!2sde!4v1540452805457" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
             <!--Google Map Area Start-->
-
             <!-- Start Call To Action -->
             <div class="brook-call-to-action bg_color--43 ptb--70">
                 <div class="container">
