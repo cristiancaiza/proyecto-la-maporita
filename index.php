@@ -125,7 +125,7 @@ $carrusel_responsive = [
                 <!-- START REVOLUTION SLIDER 5.4.7 fullwidth mode -->
                 <div id="rev_slider_8_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.7">
                     <ul>
-                        <!-- SLIDE  -->
+                        <!-- SLIDE 1 -->
                         <li data-index="rs-16" data-transition="curtain-1,curtain-3,curtain-2" data-slotamount="default,default,default,default"
                             data-hideafterloop="0" data-hideslideonmobile="off" data-randomtransition="on" data-easein="default,default,default,default"
                             data-easeout="default,default,default,default" data-masterspeed="default,default,default,default"
@@ -137,6 +137,18 @@ $carrusel_responsive = [
                             <img src="<?= $slide_src1 ?>" alt="<?= $slide_alt1 ?>" data-bgposition="center center"
                                 data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                             <!-- LAYERS -->
+                             <!--TEXT_SLIDER-->
+                             <div class="tp-caption   tp-resizeme" id="slide-16-layer-1" data-x="['center','center','center','center']"
+                                data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']"
+                                data-voffset="['25','28','28','10']" data-fontsize="['80','60','45','30']"
+                                data-lineheight="['40','0','0','0']" data-width="['800','670','620','380']"
+                                data-height="['none','135','none','none']" data-whitespace="normal" data-type="text"
+                                data-responsive_offset="on" data-frames='[{"delay":700,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
+                                data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                                style="z-index: 6; min-width: 630px; max-width: 630px; white-space: normal; font-size: 0px; font-weight: 700; color: #ffffff; letter-spacing: 0px;"><span class="texto-slider-home" style="font-weight:200; font-size: 40%;">Cada medalla es</span>
+                                <span class="texto-slider-home" style="font-size:80px; padding: 40px 0px 20px 0px; display: block;">un Reconocimiento</span><span class="texto-slider-home" style="display:block; padding:20px 0px 0px 0px !important; font-weight:200; font-size: 40%;">al esfuerzo de toda nuestra cadena de valor</span>
+                            </div> <!---->
                             <!-- LAYER NR. 2 -->
 
                             <!-- LAYER NR. 3  boton conocer mas-->
@@ -150,7 +162,7 @@ $carrusel_responsive = [
                                 style="z-index: 7; min-width: 160px; max-width: 160px; max-width: 55px; max-width: 55px; white-space: normal; font-size: 16px; line-height: 55px; font-weight: 700; color: #222222; letter-spacing: 0px;background-color:rgb(247,211,141);border-radius:0px 0px 0px 0px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;text-decoration: none;">Conoce más <i class="fa fa-sharp fa-regular fa-angle-right"></i>
                             </a>
                         </li>
-                        <!--slide 2-->
+                        <!--SLIDE 2-->
                         <li data-index="rs-17" data-transition="incube,incube-horizontal,turnoff-vertical,turnoff"
                             data-slotamount="default,default,default,default" data-hideafterloop="0"
                             data-hideslideonmobile="off" data-easein="default,default,default,default" data-easeout="default,default,default,default"
@@ -162,6 +174,18 @@ $carrusel_responsive = [
                             <img src="<?= $slide_src2 ?>" alt="<?= $slide_alt2 ?>" data-bgposition="center center"
                                 data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                             <!-- LAYERS -->
+                             <!--TEXT_SLIDER-->
+                             <div class="tp-caption   tp-resizeme" id="slide-16-layer-1" data-x="['center','center','center','center']"
+                                data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']"
+                                data-voffset="['25','28','28','10']" data-fontsize="['80','60','45','30']"
+                                data-lineheight="['40','0','0','0']" data-width="['800','670','620','380']"
+                                data-height="['none','135','none','none']" data-whitespace="normal" data-type="text"
+                                data-responsive_offset="on" data-frames='[{"delay":700,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
+                                data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                                style="z-index: 6; min-width: 630px; max-width: 630px; white-space: normal; font-size: 0px; font-weight: 700; color: #ffffff; letter-spacing: 0px;"><span class="texto-slider-home" style="font-weight:200; font-size: 40%;">Una tabla de Quesos</span>
+                                <span class="texto-slider-home" style="font-size:80px; padding: 40px 0px 20px 0px; display: block;">Especiales</span><span class="texto-slider-home" style="display:block; padding:20px 0px 0px 0px !important; font-weight:200; font-size: 40%;">para tus momentos especiales</span>
+                            </div> <!---->
 
                             <!-- LAYER NR. 6 boton conocer mas-->
                             <a class="tp-caption rev-btn   smooth-scroll-link" href="novedades.php" target="_self" id="slide-16-layer-24"
@@ -174,7 +198,7 @@ $carrusel_responsive = [
                                 style="z-index: 7; min-width: 160px; max-width: 160px; max-width: 55px; max-width: 55px; white-space: normal; font-size: 16px; line-height: 55px; font-weight: 700; color: #222222; letter-spacing: 0px;background-color:rgb(247,211,141);border-radius:0px 0px 0px 0px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;text-decoration: none;">Conoce más <i class="fa fa-sharp fa-regular fa-angle-right"></i>
                             </a>
                         </li>
-                        <!--slide 3-->
+                        <!--SLIDE 3-->
                         <li data-index="rs-18" data-transition="incube,incube-horizontal,turnoff-vertical,turnoff"
                             data-slotamount="default,default,default,default" data-hideafterloop="0"
                             data-hideslideonmobile="off" data-easein="default,default,default,default" data-easeout="default,default,default,default"
