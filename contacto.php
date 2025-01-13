@@ -84,7 +84,7 @@ $page_title = "Contacto || Industria de Lácteos, La Maporita";
                     <div class="row">
                         <div class="col-lg-6 offset-lg-3">
                             <div class="contact-form" >
-                                <form id="contact-form" action="mail.php" method="post">
+                                <form id="contact-form" action="" method="post">
                                     <div class="row">
                                         <div class="col-lg-12">
                                             <input name="con_name" type="text" placeholder="Nombre *">
