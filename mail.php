@@ -1,54 +1,54 @@
 <?php
 header("Access-Control-Allow-Origin: *");
-    // Only process POST reqeusts.
-    if ($_SERVER["REQUEST_METHOD"] == "POST") {
-        // Get the form fields and remove whitespace.
-        $name = strip_tags(trim($_POST["con_name"]));
-                $name = str_replace(array("\r","\n"),array(" "," "),$name);
-        $email = filter_var(trim($_POST["con_email"]), FILTER_SANITIZE_EMAIL);
-        $message = trim($_POST["con_message"]);
-        $check = strip_tags($_POST["check"]);
-        $phone = strip_tags($_POST["con_phone"]);
- 
-        // Check that data was sent to the mailer.
-        if ( empty($name) OR empty($message) OR empty($check) OR empty($phone) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
-            // Set a 400 (bad request) response code and exit.
-            http_response_code(400);
-            echo "Please complete the form and try again.";
-            exit;
-        }
- 
-        // Set the recipient email address.
-        $recipient = "test@hasthemes.com";
- 
-        // Set the email subject.
-        $subject = "Test Email for Template Demo - Mail From $name";
- 
-        // Build the email content.
-        $email_content = "Name: $name\n";
-        $email_content .= "Email: $email\n\n";
-        $email_content .= "phone: $phone\n\n";
-        $email_content .= "check: $check\n\n";
-        $email_content .= "Message:\n$message\n";
- 
-        // Build the email headers.
-        $email_headers = "From: $name <$email>";
- 
-        // Send the email.
-        if (mail($recipient, $subject, $email_content, $email_headers)) {
-            // Set a 200 (okay) response code.
-            http_response_code(200);
-            echo "Thank You! Your message has been sent.";
-        } else {
-            // Set a 500 (internal server error) response code.
-            http_response_code(500);
-            echo "Oops! Something went wrong and we couldn't send your message.";
-        }
- 
-    } else {
-        // Not a POST request, set a 403 (forbidden) response code.
-        http_response_code(403);
-        echo "There was a problem with your submission, please try again.";
+
+// Solo procesar solicitudes POST.
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    // Obtener los campos del formulario y eliminar espacios en blanco.
+    $name = strip_tags(trim($_POST["con_name"]));
+    $name = str_replace(array("\r","\n"),array(" "," "),$name);
+    $email = filter_var(trim($_POST["con_email"]), FILTER_SANITIZE_EMAIL);
+    $message = trim($_POST["con_message"]);
+    $check = strip_tags(trim($_POST["check"]));
+    $phone = strip_tags(trim($_POST["con_phone"]));
+
+    // Verificar que se enviaron datos al mailer.
+    if (empty($name) || empty($message) || empty($check) || empty($phone) || !filter_var($email, FILTER_VALIDATE_EMAIL)) {
+        // Establecer un código de respuesta 400 (solicitud incorrecta) y salir.
+        http_response_code(400);
+        echo "Por favor, complete el formulario y vuelva a intentarlo.";
+        exit;
     }
- 
+
+    // Establecer la dirección de correo electrónico del destinatario.
+    $recipient = "swear0006@hotmail.com"; // Cambia esto a tu dirección de correo electrónico.
+
+    // Establecer el asunto del correo electrónico.
+    $subject = "Nuevo mensaje de contacto de $name";
+
+    // Construir el contenido del correo electrónico.
+    $email_content = "Nombre: $name\n";
+    $email_content .= "Correo electrónico: $email\n";
+    $email_content .= "Teléfono: $phone\n";
+    $email_content .= "Check: $check\n";
+    $email_content .= "Mensaje:\n$message\n";
+
+    // Construir las cabeceras del correo electrónico.
+    $email_headers = "From: $name <$email>";
+
+    // Enviar el correo electrónico.
+    if (mail($recipient, $subject, $email_content, $email_headers)) {
+        // Establecer un código de respuesta 200 (correcto).
+        http_response_code(200);
+        echo "¡Gracias! Su mensaje ha sido enviado.";
+    } else {
+        // Establecer un código de respuesta 500 (error interno del servidor).
+        http_response_code(500);
+        echo "¡Vaya! Algo salió mal y no pudimos enviar su mensaje.";
+    }
+
+} else {
+    // No es una solicitud POST, establecer un código de respuesta 403 (prohibido).
+    http_response_code(403);
+    echo "Hubo un problema con su envío, por favor intente de nuevo.";
+}
 ?>
