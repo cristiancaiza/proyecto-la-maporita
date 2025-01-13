@@ -28,6 +28,10 @@ $slide_src4 = "img/home/slider/slider4.jpg";
 $slidethumb_src4 = "img/slider/thumb/slider-thumb-4.jpg";
 $slide_alt4 = "La Maporita";
 
+$slide_src5 = "img/home/slider/slider5.jpg";
+$slidethumb_src5 = "img/slider/thumb/slider-thumb-5.jpg";
+$slide_alt5 = "La Maporita";
+
 
 /*Acerca*/
 $img_acerca_vertical = "img/iconos/calidad-leche.png";
@@ -133,7 +137,7 @@ $carrusel_responsive = [
                         <li data-index="rs-15" data-transition="curtain-1,curtain-3,curtain-2" data-slotamount="default,default,default,default"
                             data-hideafterloop="0" data-hideslideonmobile="off" data-randomtransition="on" data-easein="default,default,default,default"
                             data-easeout="default,default,default,default" data-masterspeed="default,default,default,default"
-                            data-thumb="<?= $slidethumb_src1 ?>" data-rotate="0,0,0,0"
+                            data-thumb="<?= $slidethumb_src4 ?>" data-rotate="0,0,0,0"
                             data-saveperformance="off" data-title="Slide" data-param1="01" data-param2="" data-param3=""
                             data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9=""
                             data-param10="" data-description="">
@@ -254,6 +258,30 @@ $carrusel_responsive = [
                             </div> <!---->
                             <!-- LAYER NR. 6 boton conocer mas-->
                             <a class="tp-caption rev-btn   smooth-scroll-link" href="productos.php" target="_self" id="slide-16-layer-24"
+                                data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','bottom','bottom']"
+                                data-voffset="['140','140','140','100']" data-width="160" data-height="55"
+                                data-whitespace="normal" data-type="button" data-actions='' data-responsive_offset="on"
+                                data-responsive="off" data-frames='[{"delay":1000,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(255,255,255);bg:rgb(34,34,34);transform:translateY(-3px);"}]'
+                                data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
+                                data-paddingright="[20,20,20,20]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[20,20,20,20]"
+                                style="z-index: 7; min-width: 160px; max-width: 160px; max-width: 55px; max-width: 55px; white-space: normal; font-size: 16px; line-height: 55px; font-weight: 700; color: #222222; letter-spacing: 0px;background-color:rgb(247,211,141);border-radius:0px 0px 0px 0px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;text-decoration: none;">Conoce más <i class="fa fa-sharp fa-regular fa-angle-right"></i>
+                            </a>
+                        </li>
+                        <!--SLIDE 5-->
+                        <li data-index="rs-19" data-transition="incube,incube-horizontal,turnoff-vertical,turnoff"
+                            data-slotamount="default,default,default,default" data-hideafterloop="0"
+                            data-hideslideonmobile="off" data-easein="default,default,default,default" data-easeout="default,default,default,default"
+                            data-masterspeed="default,default,default,default" data-thumb="<?= $slidethumb_src5 ?>"
+                            data-rotate="0,0,0,0" data-saveperformance="off" data-title="Slide" data-param1="05"
+                            data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7=""
+                            data-param8="" data-param9="" data-param10="" data-description="">
+                            <!-- MAIN IMAGE -->
+                            <img src="<?= $slide_src5 ?>" alt="<?= $slide_alt5 ?>" data-bgposition="center center"
+                                data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                            <!-- LAYERS -->
+
+                            <!-- LAYER NR. 6 boton conocer mas-->
+                            <a class="tp-caption rev-btn   smooth-scroll-link" href="almom.php" target="_self" id="slide-16-layer-24"
                                 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','bottom','bottom']"
                                 data-voffset="['140','140','140','100']" data-width="160" data-height="55"
                                 data-whitespace="normal" data-type="button" data-actions='' data-responsive_offset="on"
