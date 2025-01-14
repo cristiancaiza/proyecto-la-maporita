@@ -111,17 +111,17 @@ $carrusel_responsive = [
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
     <!-- Add your site or application content here -->
-    <!--REMOVE
+    <!--REMOVE-->
     <div id="page-preloader" class="page-loading clearfix">
         <div class="page-load-inner">
             <div class="preloader-wrap">
                 <div class="wrap-2">
-                    <div class=""> <img src="img/icons/brook-preloader.gif" alt="Brook Preloader"></div>
+                    <div class=""> <img src="img/icons/preload-maporita.gif" alt="La Maporita Precarga"></div>
                 </div>
             </div>
         </div>
     </div> 
-    -->
+    <!---->
     <!-- Wrapper -->
     <div id="wrapper" class="wrapper">
         <?php
