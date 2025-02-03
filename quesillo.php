@@ -24,8 +24,28 @@ $next_product = $productos[$next_index];
 
 $nombre_producto = "Quesillo";
 $titulo_producto = "Quesillo La Maporita";
-$descripcion_producto = "El Quesillo La Maporita es un queso fresco, de pasta hilada, semigraso y semiduro. Elaborado bajo los más altos estándares de calidad para lograr las características propias de hilado, sabor, aroma y color. Ideal para platos gourmet como pizza, gratinados y demás. Producto listo para consumo.";
-$presentaciones_producto = "2500g tajado y entero, 500g tajado y entero y 250g tajado y entero.";
+$descripcion_producto = "Queso de pasta hilada, cremoso, su textura es cerrada sin ojos y se observa en capas cuando está muy fresco, de color blanco crema brillante, sabor característico. Es un alimento con un contenido de humedad y grasa alta, lo que hace un queso semigraso, semiduro. El quesillo tiene un contenido de humedad desgrasado máximo de 67% y de materia grasa en materia  seca de 52%. Producto listo para el consumo.";
+$presentaciones_producto = "40g, 125g, 250g, 450g, 500g y bloque de 500g. Entero - Tajado.";
+$rs_pdto = "RSA-0031470-2024";
+$normatividad_pdto = "NTC - 750 <br> Resolución 1804 de 1989<br>Resolución 2310 de 1986";
+$generalidades_pdto = "Queso fresco, acido, no madurado de pasta hilada, elaborado a partir de la coagulación de la leche entera y fresca por la acción del cuajo y del suero acido.";
+$info_nutricional_pdto = "  • Calorías: 293 kcal <br>
+                            • Grasa Total: 22 g <br>
+                            • Grasa Saturada: 14 g <br>
+                            • Carbohidratos Totales: 6.6 g <br>
+                            • Proteína: 18 g <br>
+                            • Sodio: 443 mg <br>
+                            • Vitamina A: 266 μg ER <br>
+                            • Calcio: 527 mg <br>
+                            • Zinc: 2.7 mg";
+$lugar_elab_pdto = "Producto elaborado en la planta de procesamiento INDUSTRIA DE LACTEOS LA MAPORITA S.A.S. Ubicada en la Calle 6A N 7-76 Barrio El Prado del municipio del Paujil-Caquetá Teléfono: 313 455 52 07-310 752 87 24.";
+$compos_pdto = "Leche entera tresca, Lactosuero (fermento láctico), sal (cloruro de sodio), estabilizante (citrato de sodio) y cuajo.";
+$pres_comercial_pdto = "• 40g, 125g, 250g, 450g, 500g y bloque de 2500g.<br>• Formatos: Entero o tajado.";
+$tipo_material_env_pdto = "• Bolsa plástica de polietileno de baja densidad. <br>• Empaque al vacío. <br>• Bolsa plástica grado alimentario termoformable.";
+$cond_conserv_transp_pdto = "Almacenamiento en refrigeración a 4 ± 2 °C.";
+$proces_alab_pdto = "1. Recepción y filtrado de la leche fresca de vaca entera.<br>2. Pruebas de plataforma a la leche, según el Decreto 616 de 2006.<br>3. Estandarización de la acidez, calculando las cantidades de leche fresca y suero ácido mediante el método de cuadrado de Pearson, para obtener una mezcla con acidez de 45 ºD.<br>4. Adición de cuajo, según las especificaciones del fabricante, dejando reposar por 10 minutos. Luego, se aplica el suero ácido lentamente.<br>5. Corte de la cuajada en cuadros de 10 cm x 10 cm.<br>6. Desuerado y recolección de la cuajada.<br>7. Maduración de la cuajada, dejándola sobre la mesa de trabajo durante 15 minutos para que acidifique.<br>8. Hilado, calentando la cuajada hasta que se funda y forme una pasta elástica, firme y lisa, con aspecto brillante. En esta etapa se adicionan la sal y el citrato.<br>9. Moldeo y empaque del producto.";
+$vida_util_pdto = "42 días refrigerado entre 2 y 4°C, en empaque al vacío.";
+$instrucc_consum_pdto = "Una vez abierto el empaque, utilizar en el menor tiempo posible, dejando en condiciones de refrigeración debidamente tapado.";
 $cat_producto = "Quesos";
 ?>
 <!doctype html>
@@ -145,7 +165,20 @@ $cat_producto = "Quesos";
                                     -->
                                     <div class="description">
                                         <p class="bk_pra text-white"><?= $descripcion_producto ?>
-                                            <br><br><strong>Presentaciones:</strong> <?= $presentaciones_producto ?></p>
+                                        <br><br><strong>Presentaciones:</strong> <?= $presentaciones_producto ?><br>
+                                        <strong>Registro Sanitario: </strong><?= $rs_pdto ?><br>
+                                        <strong>Normatividad: </strong><?= $normatividad_pdto ?><br>
+                                        <strong>Generalidades: </strong><?= $generalidades_pdto ?><br>
+                                        <strong>Información nutricional: </strong><br><?= $info_nutricional_pdto ?><br>
+                                        <strong>Lugar de elaboración: </strong><br><?= $lugar_elab_pdto ?><br>
+                                        <strong>Composición: </strong><br><?= $compos_pdto ?><br>
+                                        <strong>Tipo y material de envase: </strong><br><?= $tipo_material_env_pdto ?><br>
+                                        <strong>Condiciones de conservación y transporte: </strong><br><?= $cond_conserv_transp_pdto ?><br>
+                                        <strong>Proceso de elaboración </strong><br><?= $proces_alab_pdto ?><br>
+                                        <strong>Vida útil estimada</strong><br><?= $vida_util_pdto ?><br>
+                                        <strong>Instrucciones de consumo</strong><br><?= $instrucc_consum_pdto ?><br>
+                                       
+                                    </p>
                                     </div>
                                     <div class="product-meta">
                                         <div class="meta-item">
