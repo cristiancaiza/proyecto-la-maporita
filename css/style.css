@@ -1364,7 +1364,7 @@ Animation Css
 }
 
 .bg_color--42 {
-  background: #121618;
+  background: #000;
 }
 
 .bg_color--43 {
@@ -22153,7 +22153,7 @@ Dividers Area
   border-radius: inherit;
 }
 .bk-accordion-style--2.color-white .card-header h5 {
-  background: #121618;
+  background: #000;
 }
 .bk-accordion-style--2.color-white .card-header h5 a.acc-btn {
   color: #fff;
@@ -22162,7 +22162,7 @@ Dividers Area
   color: #fff;
 }
 .bk-accordion-style--2.color-white .card-body {
-  background: #121618;
+  background: #000;
   color: #fff;
 }
 .bk-accordion-style--2.border-style .card {
@@ -22212,7 +22212,7 @@ Dividers Area
   }
 }
 .bk-accordion-style--2.border-style .card-body {
-  font-size: 18px;
+  font-size: 78px;
   font-weight: 400;
   line-height: 30px;
   font-family: "Roboto", sans-serif;
