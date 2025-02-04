@@ -155,7 +155,7 @@
     &.color-white{
         .card-header{
             h5{
-                background: #121618;
+                background: #000;
                 a{
                     &.acc-btn{
                         color: $white;
@@ -167,7 +167,7 @@
             }
         }
         .card-body{
-            background: #121618;
+            background: #000;
             color: $white;
         }
     }
