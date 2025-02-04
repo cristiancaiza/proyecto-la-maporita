@@ -49,7 +49,7 @@ $page_title = "Galería | La Maporita";
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/revoulation.css">
     <link rel="stylesheet" href="css/plugins.css">
-    <link rel="stylesheet" href="scss/style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body class="template-color-39 template-font-1 bg_color--42">
     <!--[if lte IE 9]>

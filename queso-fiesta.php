@@ -8,6 +8,34 @@ $next_index = ($current_index + 1) % count($productos);
 $prev_product = $productos[$prev_index];
 $next_product = $productos[$next_index];
 
+
+$nombre_producto = "Queso Fiesta";
+$titulo_producto = "Queso Fiesta La Maporita";
+$descripcion_producto = "Queso de pasta hilada, de sabor dulce dado por el bocadillo de guayaba, con una mezcla de ingredientes que promueven una combinación única de sabores y texturas. Producto listo para el consumo.";
+$presentaciones_producto = "40g, 125g, 250g, 450g, 500g y bloque de 2500g. Entero.";
+$rs_pdto = "RSA-0031470-2024";
+$normatividad_pdto = "NTC - 750 <br> Resolución 1804 de 1989<br>Resolución 2310 de 1986";
+$generalidades_pdto = "Queso fresco con un sabor dulce dado por la adición de bocadillo de guayaba y frutas en conserva; elaborado a partir de nuestro producto estrella, el quesillo. Ideal para acompañar una buena copa de vino o como snack.";
+$info_nutricional_pdto = "  • Calorías: 293 kcal <br>
+                            • Grasa Total: 22 g <br>
+                            • Grasa Saturada: 14 g <br>
+                            • Carbohidratos Totales: 6.6 g <br>
+                            • Proteína: 18 g <br>
+                            • Sodio: 443 mg <br>
+                            • Vitamina A: 266 μg ER <br>
+                            • Calcio: 527 mg <br>
+                            • Zinc: 2.7 mg";
+$lugar_elab_pdto = "Producto elaborado en la planta de procesamiento INDUSTRIA DE LÁCTEOS LA MAPORITA S.A.S. Ubicada en la Calle 6A N 7-76 Barrio El Prado del municipio del Paujil-Caquetá.";
+$compos_pdto = "Leche entera, lactosuero (fermento láctico), bocadillo de guayaba (pulpa de guayaba y azúcar), uvas pasas deshidratadas, cloruro de sodio (sal de mesa), frutas cristalizadas (combinación de frutas confitadas), estabilizante (citrato de sodio) y enzima (cuajo).";
+$pres_comercial_pdto = "• 40g, 125g, 250g, 450g, 500g y bloque de 2500g.<br>• Formatos: Entero.";
+$tipo_material_env_pdto = "• Bolsa plástica de polietileno de baja densidad. <br>• Empaque al vacío. <br>• Bolsa plástica grado alimentario termoformable.";
+$cond_conserv_transp_pdto = "Almacenamiento en refrigeración a 4 ± 2 °C.";
+$proces_alab_pdto = "1. Recepción y filtrado de la leche fresca de vaca entera.<br>2. Pruebas de plataforma a la leche, según el Decreto 616 de 2006.<br>3. Estandarización de la acidez, calculando las cantidades de leche fresca y suero ácido mediante el método de cuadrado de Pearson, para obtener una mezcla con acidez de 45 ºD.<br>4. Adición de cuajo y reposo de 10 minutos.<br>5. Corte de la cuajada en cuadros de 10 cm x 10 cm.<br>6. Desuerado y recolección de la cuajada.<br>7. Maduración de la cuajada por 15 minutos.<br>8. Hilado mediante calentamiento hasta formar una pasta elástica, firme y lisa. En esta etapa se adicionan la sal y el citrato.<br>9. En una marmita, se derrite el bocadillo de guayaba y se mezcla con el queso, agregando gradualmente los demás ingredientes como las uvas pasas y la fruta cristalizada.<br>10. Moldeo y empaque del producto.";
+$vida_util_pdto = "42 días refrigerado entre 2 y 4°C, en empaque al vacío.";
+$instrucc_consum_pdto = "Una vez abierto el empaque, utilizar en el menor tiempo posible, dejando en condiciones de refrigeración debidamente tapado.";
+$cat_producto = "Quesos";
+
+
 ?>
 
 <!doctype html>
@@ -41,7 +69,7 @@ $next_product = $productos[$next_index];
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/revoulation.css">
     <link rel="stylesheet" href="css/plugins.css">
-    <link rel="stylesheet" href="scss/style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body class="template-color-39 template-font-1 bg_color--3">
     <!--[if lte IE 9]>
@@ -110,24 +138,196 @@ $next_product = $productos[$next_index];
                     <div class="col-lg-6 col-md-6 col-sm-12 col-12 mt_sm--40">
                         <div class="single-product-details-side">
                             <div class="product-details">
-                                <div class="inner">
+                            <div class="inner">
                                     <div class="header">
-                                        <h4 class="heading heading-h4 text-white">Queso Fiesta</h4>
+                                        <h4 class="heading heading-h4 text-white"><?= $titulo_producto ?></h4>
                                     </div>
                                     <!--
                                     <div class="price">
                                         <p class="theme-color text-white">$112.00</p>
                                     </div>
                                     -->
-                                    <div class="description">
-                                        <p class="bk_pra text-white">Descripción Queso Fiesta
-                                            <br><br><strong>Presentaciones:</strong> información</p>
+                                     <!--descrip-producto-->
+                                     <div class="description">
+                                        <div class="bk-accordion-style--2 color-white bg_color--3" id="accordionExampl3">
+                                            <div class="card">
+                                                <div class="card-header" id="headingsix">
+                                                    <h5 class="mb-0">
+                                                        <a href="#" class="acc-btn" data-bs-toggle="collapse" data-bs-target="#collapsesix" aria-expanded="true" aria-controls="collapsesix">
+                                                        Descripción
+                                                        </a>
+                                                    </h5>
+                                                </div>
+
+                                                <div id="collapsesix" class="collapse show" aria-labelledby="headingsix" data-bs-parent="#accordionExampl3" style="">
+                                                    <div class="card-body"><?= $descripcion_producto ?>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingseven">
+                                                    <h5 class="mb-0">
+                                                        <a href="#" class="acc-btn collapsed" data-bs-toggle="collapse" data-bs-target="#collapseseven" aria-expanded="false" aria-controls="collapseseven">
+                                                        Presentaciones
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapseseven" class="collapse " aria-labelledby="headingseven" data-bs-parent="#accordionExampl3" style="">
+                                                    <div class="card-body"><?= $presentaciones_producto ?>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingeight">
+                                                    <h5 class="mb-0">
+                                                        <a href="#" class="acc-btn collapsed" data-bs-toggle="collapse" data-bs-target="#collapseeight" aria-expanded="false" aria-controls="collapseeight">
+                                                        Registro Sanitario
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapseeight" class="collapse " aria-labelledby="headingeight" data-bs-parent="#accordionExampl3" style="">
+                                                    <div class="card-body"><?= $rs_pdto ?>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingnine">
+                                                    <h5 class="mb-0">
+                                                        <a href="#" class="acc-btn collapsed" data-bs-toggle="collapse" data-bs-target="#collapsenine" aria-expanded="false" aria-controls="collapsenine">
+                                                        Normatividad
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapsenine" class="collapse " aria-labelledby="headingnine" data-bs-parent="#accordionExampl3" style="">
+                                                    <div class="card-body"><?= $normatividad_pdto ?>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingten">
+                                                    <h5 class="mb-0">
+                                                        <a href="#" class="acc-btn collapsed" data-bs-toggle="collapse" data-bs-target="#collapseten" aria-expanded="false" aria-controls="collapseten">
+                                                        Generalidades
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapseten" class="collapse " aria-labelledby="headingten" data-bs-parent="#accordionExampl3" style="">
+                                                    <div class="card-body"><?= $generalidades_pdto ?>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingeleven">
+                                                    <h5 class="mb-0">
+                                                        <a href="#" class="acc-btn collapsed" data-bs-toggle="collapse" data-bs-target="#collapseeleven" aria-expanded="false" aria-controls="collapseeleven">
+                                                        Información nutricional
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapseeleven" class="collapse " aria-labelledby="headingeleven" data-bs-parent="#accordionExampl3" style="">
+                                                    <div class="card-body"><?= $info_nutricional_pdto ?>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingtwelve">
+                                                    <h5 class="mb-0">
+                                                        <a href="#" class="acc-btn collapsed" data-bs-toggle="collapse" data-bs-target="#collapsetwelve" aria-expanded="false" aria-controls="collapsetwelve">
+                                                        Lugar de elaboración
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapsetwelve" class="collapse " aria-labelledby="headingtwelve" data-bs-parent="#accordionExampl3" style="">
+                                                    <div class="card-body"><?= $lugar_elab_pdto ?>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingthirteen">
+                                                    <h5 class="mb-0">
+                                                        <a href="#" class="acc-btn collapsed" data-bs-toggle="collapse" data-bs-target="#collapsethirteen" aria-expanded="false" aria-controls="collapsethirteen">
+                                                        Composición
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapsethirteen" class="collapse " aria-labelledby="headingthirteen" data-bs-parent="#accordionExampl3" style="">
+                                                    <div class="card-body"><?= $compos_pdto ?>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingfourteen">
+                                                    <h5 class="mb-0">
+                                                        <a href="#" class="acc-btn collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefourteen" aria-expanded="false" aria-controls="collapsefourteen">
+                                                        Tipo y material de envase
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapsefourteen" class="collapse " aria-labelledby="headingfourteen" data-bs-parent="#accordionExampl3" style="">
+                                                    <div class="card-body"><?= $tipo_material_env_pdto ?>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingfifteen">
+                                                    <h5 class="mb-0">
+                                                        <a href="#" class="acc-btn collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefifteen" aria-expanded="false" aria-controls="collapsefifteen">
+                                                        Condiciones de conservación y transporte
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapsefifteen" class="collapse " aria-labelledby="headingfifteen" data-bs-parent="#accordionExampl3" style="">
+                                                    <div class="card-body"><?= $cond_conserv_transp_pdto ?>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingsixteen">
+                                                    <h5 class="mb-0">
+                                                        <a href="#" class="acc-btn collapsed" data-bs-toggle="collapse" data-bs-target="#collapsesixteen" aria-expanded="false" aria-controls="collapsesixteen">
+                                                        Proceso de elaboración
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapsesixteen" class="collapse " aria-labelledby="headingsixteen" data-bs-parent="#accordionExampl3" style="">
+                                                    <div class="card-body"><?= $proces_alab_pdto ?>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingseventeen">
+                                                    <h5 class="mb-0">
+                                                        <a href="#" class="acc-btn collapsed" data-bs-toggle="collapse" data-bs-target="#collapseseventeen" aria-expanded="false" aria-controls="collapseseventeen">
+                                                        Vida útil estimada
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapseseventeen" class="collapse " aria-labelledby="headingseventeen" data-bs-parent="#accordionExampl3" style="">
+                                                    <div class="card-body"><?= $vida_util_pdto ?>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingeighteen">
+                                                    <h5 class="mb-0">
+                                                        <a href="#" class="acc-btn collapsed" data-bs-toggle="collapse" data-bs-target="#collapseeighteen" aria-expanded="false" aria-controls="collapseeighteen">
+                                                        Instrucciones de consumo
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapseeighteen" class="collapse " aria-labelledby="headingeighteen" data-bs-parent="#accordionExampl3" style="">
+                                                    <div class="card-body"><?= $instrucc_consum_pdto ?>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    <!--fin descrip-producto-->
                                     </div>
                                     <div class="product-meta">
                                         <div class="meta-item">
                                             <h6 class="heading heading-h6 text-white">Categoría:</h6>
                                             <div class="item-list">
-                                                <a class="text-white" href="#">Quesos</a>
+                                                <a class="text-white" href="#"><?= $cat_producto ?></a>
                                             </div>
                                         </div>
                                     </div>

@@ -53,7 +53,7 @@ $titulo_informacion = "Plata y Bronce en el Salón del Queso 2024";
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/revoulation.css">
     <link rel="stylesheet" href="css/plugins.css">
-    <link rel="stylesheet" href="scss/style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body class="template-color-39 template-font-1 bg_color--42">

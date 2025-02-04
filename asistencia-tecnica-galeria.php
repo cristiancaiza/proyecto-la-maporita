@@ -44,7 +44,7 @@ $images = glob($directory . 'grande-*.jpg');
     <link rel="stylesheet" href="css/plugins.css">
 
     <!-- Style Css -->
-    <link rel="stylesheet" href="scss/style.css">
+    <link rel="stylesheet" href="css/style.css">
 
     <!-- Custom Styles -->
     <link rel="stylesheet" href="css/custom.css">

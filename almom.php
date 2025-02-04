@@ -50,7 +50,7 @@ $txt_acerca_2 = "Lunes a viernes 6:30 a.m. - 9:00 p.m.<br><br>Fin de semana y fe
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/revoulation.css">
     <link rel="stylesheet" href="css/plugins.css">
-    <link rel="stylesheet" href="scss/style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body class="template-color-39 template-font-1 bg_color--42">
