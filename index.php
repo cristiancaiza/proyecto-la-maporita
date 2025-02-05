@@ -523,7 +523,9 @@ $carrusel_responsive = [
                                 <div class="product-thumbnail">
                                     <div class="thumbnail">
                                         <div class="product-main-image">
-                                            <img src="img/reconocimientos/reconocimiento-1.png" alt="Reconocimiento - La Maporita">
+                                            <a href="premio-nacional-del-queso-2023.php">
+                                                <img src="img/reconocimientos/reconocimiento-1.png" alt="Reconocimiento - La Maporita">
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
@@ -537,7 +539,9 @@ $carrusel_responsive = [
                                 <div class="product-thumbnail">
                                     <div class="thumbnail">
                                         <div class="product-main-image">
-                                            <img src="img/reconocimientos/reconocimiento-2.png" alt="Reconocimiento - La Maporita">
+                                            <a href="plata-y-bronce-en-el-salon-del-queso-2024.php">
+                                                <img src="img/reconocimientos/reconocimiento-2.png" alt="Reconocimiento - La Maporita">
+                                            </a>
                                         </div>
                                     </div>
                                     
@@ -552,7 +556,9 @@ $carrusel_responsive = [
                                 <div class="product-thumbnail">
                                     <div class="thumbnail">
                                         <div class="product-main-image">
-                                            <img src="img/reconocimientos/reconocimiento-3.png" alt="Reconocimiento - La Maporita">
+                                            <a href="plata-y-bronce-en-el-salon-del-queso-2024.php">
+                                                <img src="img/reconocimientos/reconocimiento-3.png" alt="Reconocimiento - La Maporita">
+                                            </a>
                                         </div>
                                     </div>
                                     
