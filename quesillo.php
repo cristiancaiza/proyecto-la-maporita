@@ -39,7 +39,7 @@ $info_nutricional_pdto = "  • Calorías: 293 kcal <br>
                             • Calcio: 527 mg <br>
                             • Zinc: 2.7 mg";
 $lugar_elab_pdto = "Producto elaborado en la planta de procesamiento INDUSTRIA DE LACTEOS LA MAPORITA S.A.S. Ubicada en la Calle 6A N 7-76 Barrio El Prado del municipio del Paujil-Caquetá Teléfono: 313 455 52 07-310 752 87 24.";
-$compos_pdto = "Leche entera tresca, Lactosuero (fermento láctico), sal (cloruro de sodio), estabilizante (citrato de sodio) y cuajo.";
+$compos_pdto = "Leche entera fresca, Lactosuero (fermento láctico), sal (cloruro de sodio), estabilizante (citrato de sodio) y cuajo.";
 $pres_comercial_pdto = "• 40g, 125g, 250g, 450g, 500g y bloque de 2500g.<br>• Formatos: Entero o tajado.";
 $tipo_material_env_pdto = "• Bolsa plástica de polietileno de baja densidad. <br>• Empaque al vacío. <br>• Bolsa plástica grado alimentario termoformable.";
 $cond_conserv_transp_pdto = "Almacenamiento en refrigeración a 4 ± 2 °C.";
