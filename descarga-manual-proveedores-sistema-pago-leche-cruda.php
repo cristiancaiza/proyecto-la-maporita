@@ -13,7 +13,7 @@ $blog_post = [
     <br><br><strong>Sistema de Pago de Leche Cruda:</strong><br>
     En este documento explicamos cómo funciona nuestro sistema de pago, incluyendo los criterios de evaluación de la leche, los factores que influyen en el precio y los plazos de pago. Queremos que nuestros proveedores tengan claridad y confianza en cada transacción.
     <br><br><strong>¡Descárgalo ahora!</strong><br>
-    Para acceder a estos documentos, haz clic en los siguientes enlaces:
+    Para acceder a estos documentos, haz clic en los siguientes enlaces: 
 
 Descargar Manual de Proveedores (este sería el link de descarga)
 
